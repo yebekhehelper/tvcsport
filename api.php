@@ -10,7 +10,16 @@ $level2Data = $level1Matches[1][0];
 $level2Pattern = '/<a href="(.*?)".*?>(.*?)<\/a>/';
 preg_match_all($level2Pattern, $level2Data, $level2Matches);
 
-$output = [];
+$output = [
+    [
+        "streamUrl" => "https://at.ayas.ir/hls2/persiana.m3u8",
+        "streamName" => "PERSIANA SPORT"
+    ],
+    [
+        "streamUrl" => "https://live.aionet.ir/hls/aiosport/aiosport.m3u8",
+        "streamName" => "AIO SPORT"
+    ]
+];
 
 foreach ($level2Matches[1] as $key => $streamPage) {
     $streamPageData = file_get_contents($streamPage);
