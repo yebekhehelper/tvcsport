@@ -1,5 +1,13 @@
 [
     {
+        "streamUrl": "https:\/\/at.ayas.ir\/hls2\/persiana.m3u8",
+        "streamName": "PERSIANA SPORT"
+    },
+    {
+        "streamUrl": "https:\/\/live.aionet.ir\/hls\/aiosport\/aiosport.m3u8",
+        "streamName": "AIO SPORT"
+    },
+    {
         "streamUrl": "https:\/\/hls.streambtw.com\/live\/stream_6.m3u8",
         "streamName": "Athletic Club vs Mallorca"
     },
