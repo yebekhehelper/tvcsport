@@ -3,49 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TVC SPORT</title>
+    <title>TVc Player</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <script src="scripts.js"></script> 
     <style>
         body {
-                background-color: #f8f9fa;
-                font-family: 'Arial', sans-serif;
-            }
-
-            .card {
-                margin-top: 20px;
-                border-radius: 10px;
-                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            }
-
-            .card-header {
-                background-color: #007bff;
-                color: white;
-                border-top-left-radius: 10px;
-                border-top-right-radius: 10px;
-            }
-
-            .dropdown-menu {
-                min-width: 100%;
-                border-radius: 0;
-            }
-
-            .dropdown-item {
-                color: #333;
-            }
-
-            .dropdown-item:hover,
-            .dropdown-item:focus {
-                text-decoration: none;
-                background-color: #f8f9fa;
-            }
-
-            #video {
-                width: 100%;
-                height: auto;
-                border-radius: 10px;
-            }
+            background-color: #f8f9fa;
+        }
+        .card {
+            margin-top: 20px;
+        }
+        .dropdown-menu {
+            min-width: 100%;
+        }
     </style>
 </head>
 <body>
@@ -54,20 +24,72 @@
             <div class="col-md-8">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title mb-0">TVC SPORT</h4>
+                        <h4>TVc Player</h4>
                     </div>
                     <div class="card-body">
                         <div class="dropdown">
-                            <button class="btn btn-secondary dropdown-toggle" type="button" id="linkSelector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Select Video</button>
-                            <div class="dropdown-menu" aria-labelledby="linkSelector" id="dropdownMenu"></div>
+                            <button class="btn btn-secondary dropdown-toggle" type="button" id="linkSelector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Select Video
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="linkSelector" id="dropdownMenu">
+                                <!-- Dynamically populated dropdown items -->
+                            </div>
                         </div>
-                        <video id="video" class="mt-3" controls></video>
+                        <video id="video" class="mt-3" width="100%" height="auto" controls></video>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        var video = document.getElementById('video');
+        var hls = new Hls();
+
+        // Function to load and play a video
+        function loadVideo(link, channel) {
+            if (hls.destroyed) {
+                hls = new Hls();
+            }
+            hls.loadSource(link);
+            hls.attachMedia(video);
+            hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                video.play();
+            });
+            // Update the dropdown button text
+            $('#linkSelector').text(channel);
+        }
+
+        // Function to populate the dropdown menu with fetched m3u8 links
+        function populateDropdown(m3u8Links) {
+            var dropdownMenu = document.getElementById('dropdownMenu');
+            dropdownMenu.innerHTML = ''; // Clear existing items
+
+            m3u8Links.forEach(function(link) {
+                var dropdownItem = document.createElement('a');
+                dropdownItem.className = 'dropdown-item';
+                dropdownItem.href = '#';
+                dropdownItem.setAttribute('data-link', link.url);
+                dropdownItem.setAttribute('data-channel', link.name);
+                dropdownItem.textContent = link.name;
+                dropdownItem.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    loadVideo(this.getAttribute('data-link'), this.getAttribute('data-channel'));
+                });
+                dropdownMenu.appendChild(dropdownItem);
+            });
+        }
+
+        
+        // Fetch the JSON file
+        fetch('path_to_your_json_file.json')
+            .then(response => response.json())
+            .then(data => {
+                populateDropdown(data);
+            })
+            .catch(error => console.error('Error:', error));
+    </script>
 </body>
 </html>
