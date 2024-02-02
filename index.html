@@ -53,16 +53,7 @@
                             <button class="btn btn-secondary dropdown-toggle" type="button" id="linkSelector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Select Video
                             </button>
-                            <div class="dropdown-menu" aria-labelledby="linkSelector">
-                                <a class="dropdown-item" href="#" data-link="https://stream.ayas.ir/hls2/ssc1.m3u8" data-channel="SSC 1 - ARABIC">SSC 1 - ARABIC</a>
-                                <a class="dropdown-item" href="#" data-link="https://at.ayas.ir/hls2/persiana.m3u8" data-channel="PERSIANA SPORT">PERSIANA SPORT</a>
-                                <a class="dropdown-item" href="#" data-link="https://stream.ayas.ir/hls2/varzeshtv.m3u8" data-channel="IRIB - VARZESH">IRIB - VARZESH</a>
-                                <a class="dropdown-item" href="#" data-link="https://live.aionet.ir/hls/aiosport/aiosport.m3u8" data-channel="AIO SPORT">AIO SPORT</a>
-                                <a class="dropdown-item" href="#" data-link="https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8" data-channel="SHARJEH SPORT">SHARJEH SPORT</a>
-                                <a class="dropdown-item" href="#" data-link="https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8" data-channel="DUBAI SPORT 1">DUBAI SPORT 1</a>
-                                <a class="dropdown-item" href="#" data-link="https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/media.m3u8" data-channel="DUBAI SPORT 2">DUBAI SPORT 2</a>
-                                <a class="dropdown-item" href="#" data-link="https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/media.m3u8" data-channel="DUBAI SPORT 3">DUBAI SPORT 3</a>
-                                <!-- Add more options as needed -->
+                            <div class="dropdown-menu" aria-labelledby="linkSelector" id="dropdownMenu">
                             </div>
                         </div>
                         <video id="video" class="mt-3" controls></video>
@@ -92,17 +83,85 @@
             $('#linkSelector').text(channel);
         }
 
-        // Load the initial video
-        var initialLink = $('.dropdown-menu a.dropdown-item').first();
-        loadVideo(initialLink.data('link'), initialLink.data('channel'));
+        // Function to populate the dropdown menu with fetched m3u8 links
+        function populateDropdown(m3u8Links) {
+            var dropdownMenu = document.getElementById('dropdownMenu');
+            dropdownMenu.innerHTML = ''; // Clear existing items
 
-        // Add event listener to the dropdown to change the video
-        $('.dropdown-menu a.dropdown-item').on('click', function(e) {
-            e.preventDefault();
-            var link = $(this).data('link');
-            var channel = $(this).data('channel');
-            loadVideo(link, channel);
-        });
+            m3u8Links.forEach(function(link) {
+                var dropdownItem = document.createElement('a');
+                dropdownItem.className = 'dropdown-item';
+                dropdownItem.href = '#';
+                dropdownItem.setAttribute('data-link', link.url);
+                dropdownItem.setAttribute('data-channel', link.name);
+                dropdownItem.textContent = link.name;
+                dropdownItem.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    loadVideo(this.getAttribute('data-link'), this.getAttribute('data-channel'));
+                });
+                dropdownMenu.appendChild(dropdownItem);
+            });
+        }
+
+        // Fetch the content of streambtw.com and process the m3u8 links
+        fetch('https://streambtw.com/')
+            .then(response => response.text())
+            .then(html => {
+                const ulRegex = /<ul class="list-group list-group-flush"><center>Football \/ Soccer<\/center>([\s\S]*?)<\/ul>/;
+                const ulMatch = html.match(ulRegex);
+
+                if (ulMatch) {
+                    const ulContent = ulMatch[1];
+                    const linkRegex = /<a href="(.*?)".*?>(.*?)<\/a>/g;
+                    let links = [];
+
+                    let linkMatch;
+                    while ((linkMatch = linkRegex.exec(ulContent)) !== null) {
+                        links.push({
+                            url: linkMatch[1],
+                            name: linkMatch[2]
+                        });
+                    }
+
+                    let m3u8Links = [];
+
+                    links.forEach(link => {
+                        fetch(link.url)
+                            .then(response => response.text())
+                            .then(html => {
+                                const m3u8Regex = /var player = new Clappr\.Player\({source: "(.*?)",/;
+                                const m3u8Match = html.match(m3u8Regex);
+
+                                if (m3u8Match) {
+                                    const m3u8Link = m3u8Match[1];
+                                    m3u8Links.push({
+                                        name: link.name,
+                                        url: m3u8Link
+                                    });
+                                } else {
+                                    console.log(`No m3u8 link found for ${link.name}.`);
+                                }
+                            })
+                            .catch(error => {
+                                console.error(`Error fetching content for ${link.name}:`, error);
+                            });
+                    });
+
+                    // Populate the dropdown menu with the fetched m3u8 links
+                    populateDropdown(m3u8Links);
+
+                    // Load the initial video
+                    var initialLink = document.querySelector('#dropdownMenu a.dropdown-item');
+                    if (initialLink) {
+                        loadVideo(initialLink.getAttribute('data-link'), initialLink.getAttribute('data-channel'));
+                    }
+                } else {
+                    console.log('No <ul> element with class "list-group list-group-flush" found.');
+                }
+            })
+            .catch(error => {
+                console.error('Error fetching content:', error);
+            });
     </script>
 </body>
 </html>
