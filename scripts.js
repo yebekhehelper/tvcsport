@@ -80,26 +80,11 @@ document.addEventListener('DOMContentLoaded', function() {
                                 name: link.name,
                                 url: m3u8Link
                             });
-                        } else {
-                            console.log(`No m3u8 link found for ${link.name}.`);
                         }
-                    })
-                    .catch(error => {
-                        console.error(`Error fetching content for ${link.name}:`, error);
                     });
             });
 
             populateDropdown(m3u8Links);
-        } else {
-            console.log('No <ul> element with class "list-group list-group-flush" found.');
         }
-    })
-    .catch(error => {
-        console.error('Error fetching content:', error);
     });
-
-
-    });
-
-
-
+});
