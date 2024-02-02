@@ -83,33 +83,44 @@
             });
         }
 
-        // Function to populate the dropdown menu with fetched m3u8 links
-        function populateDropdown(m3u8Links) {
-            var dropdownMenu = document.getElementById('dropdownMenu');
-            dropdownMenu.innerHTML = ''; // Clear existing items
-
-            m3u8Links.forEach(function(link) {
-                var dropdownItem = document.createElement('a');
-                dropdownItem.className = 'dropdown-item';
-                dropdownItem.href = '#';
-                dropdownItem.setAttribute('data-link', link.streamUrl);
-                dropdownItem.setAttribute('data-channel', link.streamName);
-                dropdownItem.textContent = link.streamName;
-                dropdownItem.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    loadVideo(this.getAttribute('data-link'), this.getAttribute('data-channel'));
-                });
-                dropdownMenu.appendChild(dropdownItem);
-            });
-        }
-
         // Fetch the JSON file
-        fetch('path_to_your_json_file.json')
-            .then(response => response.json())
-            .then(data => {
-                populateDropdown(data);
-            })
-            .catch(error => console.error('Error:', error));
+fetch('path_to_your_json_file.json')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.json();
+    })
+    .then(data => {
+        populateDropdown(data);
+    })
+    .catch(error => {
+        console.error('There has been a problem with your fetch operation:', error);
+    });
+
+// Function to populate the dropdown menu with fetched m3u8 links
+function populateDropdown(m3u8Links) {
+    var dropdownMenu = document.getElementById('dropdownMenu');
+    dropdownMenu.innerHTML = ''; // Clear existing items
+
+    m3u8Links.forEach(function(link) {
+        if (!link.streamUrl || !link.streamName) {
+            console.warn('Invalid link object:', link);
+            return;
+        }
+        var dropdownItem = document.createElement('a');
+        dropdownItem.className = 'dropdown-item';
+        dropdownItem.href = '#';
+        dropdownItem.setAttribute('data-link', link.streamUrl);
+        dropdownItem.setAttribute('data-channel', link.streamName);
+        dropdownItem.textContent = link.streamName;
+        dropdownItem.addEventListener('click', function(e) {
+            e.preventDefault();
+            loadVideo(this.getAttribute('data-link'), this.getAttribute('data-channel'));
+        });
+        dropdownMenu.appendChild(dropdownItem);
+    });
+}
     </script>
 </body>
 </html>
