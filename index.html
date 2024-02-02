@@ -46,20 +46,19 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         var video = document.getElementById('video');
-        var hls = new Hls();
+        var hls;
 
         // Function to load and play a video
         function loadVideo(link, channel) {
-            if (hls.destroyed) {
-                hls = new Hls();
+            if (hls) {
+                hls.destroy();
             }
+            hls = new Hls();
             hls.loadSource(link);
             hls.attachMedia(video);
             hls.on(Hls.Events.MANIFEST_PARSED, function() {
                 video.play();
             });
-            // Update the dropdown button text
-            $('#linkSelector').text(channel);
         }
 
         // Function to populate the dropdown menu with fetched m3u8 links
@@ -71,9 +70,9 @@
                 var dropdownItem = document.createElement('a');
                 dropdownItem.className = 'dropdown-item';
                 dropdownItem.href = '#';
-                dropdownItem.setAttribute('data-link', link.url);
-                dropdownItem.setAttribute('data-channel', link.name);
-                dropdownItem.textContent = link.name;
+                dropdownItem.setAttribute('data-link', link.streamUrl);
+                dropdownItem.setAttribute('data-channel', link.streamName);
+                dropdownItem.textContent = link.streamName;
                 dropdownItem.addEventListener('click', function(e) {
                     e.preventDefault();
                     loadVideo(this.getAttribute('data-link'), this.getAttribute('data-channel'));
@@ -82,7 +81,6 @@
             });
         }
 
-        
         // Fetch the JSON file
         fetch('path_to_your_json_file.json')
             .then(response => response.json())
