@@ -68,19 +68,20 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         var video = document.getElementById('video');
-        var hls;
+        var hls = new Hls();
 
         // Function to load and play a video
         function loadVideo(link, channel) {
-            if (hls) {
-                hls.destroy();
+            if (hls.destroyed) {
+                hls = new Hls();
             }
-            hls = new Hls();
             hls.loadSource(link);
             hls.attachMedia(video);
             hls.on(Hls.Events.MANIFEST_PARSED, function() {
                 video.play();
             });
+            // Update the dropdown button text
+            $('#linkSelector').text(channel);
         }
 
         // Fetch the JSON file
