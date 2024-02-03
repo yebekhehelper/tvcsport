@@ -20,7 +20,7 @@ $output = [
     [
         "streamUrl" => "https://live.aionet.ir/hls/aiosport/aiosport.m3u8",
         "streamName" => "AIO SPORT",
-        "timestamp" => time()
+        "timeStamp" => time()
     ]
 ];
 
@@ -28,7 +28,7 @@ foreach ($level2Matches[1] as $key => $streamPage) {
     $output[] = [
         "streamUrl" => $streamPage,
         "streamName" => $level2Matches[2][$key],
-        "timestamp" => time()
+        "timeStamp" => time()
     ];
 }
 
