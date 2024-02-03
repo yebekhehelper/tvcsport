@@ -43,7 +43,7 @@ jobs:
           git config --global user.name "yebekhe"
           git config credential.helper store
           git add -A
-          git commit -m "🚀 Stream URLs Updates - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "🚀 StreamUrls Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           git push
 
   # Second job to deploy the updated content
