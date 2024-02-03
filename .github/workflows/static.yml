@@ -1,4 +1,4 @@
-name: Deploy and Update TVC SPORT
+name: deploy-and-update-tvc-sport
 
 on:
   # Runs on pushes targeting the default branch
