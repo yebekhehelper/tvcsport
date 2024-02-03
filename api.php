@@ -25,8 +25,12 @@ $output = [
 ];
 
 foreach ($level2Matches[1] as $key => $streamPage) {
+    $streamPageData = file_get_contents($streamPage);
+    $streamUrlPattern = '/var player = new Clappr\.Player\({source: "(.*?)",/';
+    $extractStreamUrl = preg_match_all($streamUrlPattern, $streamPageData, $streamUrlMatches);
+
     $output[] = [
-        "streamUrl" => $streamPage,
+        "streamUrl" => $streamUrlMatches[1][0],
         "streamName" => $level2Matches[2][$key],
         "timeStamp" => time()
     ];
