@@ -159,7 +159,7 @@ function areDatesEqual(date1, date2) {
 }
 
 // Fetch the JSON data
-fetch('https://api.yebekhe.link/sport/api.php')
+fetch('todayMatches.json')
 	.then(response => response.json())
 	.then(data => {
 		const leagues = data.leagues;
