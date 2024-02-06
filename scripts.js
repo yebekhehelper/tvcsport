@@ -143,7 +143,7 @@ function toggleDarkMode() {
 }
 
 // Event listener for the dark mode toggle button
-document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
+document.getElementById('dark-mode-checkbox').addEventListener('click', toggleDarkMode);
 
 // Check for the dark mode cookie on page load
 window.onload = function() {
@@ -220,9 +220,3 @@ fetch('todayMatches.json')
 	.catch(error => {
 		console.error('Error fetching JSON data:', error);
 	});
-
-const checkbox = document.getElementById('dark-mode-checkbox');
-
-checkbox.addEventListener('change', () => {
-  document.body.classList.toggle('dark-mode');
-});
