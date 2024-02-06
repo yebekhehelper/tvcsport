@@ -47,20 +47,15 @@ function loadVideo(link, channel) {
 		newElement.scrolling = 'no'; // allow autoplay
 		newElement.allowFullscreen = true; // Add the allowfullscreen attribute
 		newElement.src = link;
-		// Assuming newElement is your iframe element
-		newElement.onload = function() {
-			// Wait for the iframe to load
-			var iframeBody = newElement.contentWindow.document.body;
-			iframeBody.addEventListener('click', function(event) {
-				// Check if the clicked element is a link
-				if (event.target.tagName === 'A') {
-					// Prevent the default link action
-					event.preventDefault();
-					// You can also handle the link here, e.g., open it in the parent window
-					window.open(event.target.href, '_blank');
-				}
-			});
-		};
+		// Add a click event listener to the iframe
+		newElement.addEventListener('click', function(event) {
+			// Prevent the default action (navigation)
+			event.preventDefault();
+			// Optionally, you can also stop the event from propagating
+			event.stopPropagation();
+			// You can also handle the click event here if needed
+			console.log('Iframe clicked, but navigation is prevented.');
+		});
 
 	}
 
