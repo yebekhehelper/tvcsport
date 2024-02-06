@@ -208,7 +208,7 @@ fetch('todayMatches.json')
 				row.appendChild(guestCell);
 
 				const scheduledStartCell = document.createElement('td');
-				scheduledStartCell.textContent = `${match.scheduledStartDate} ${match.scheduledStartTime}`;
+				scheduledStartCell.textContent = `${match.scheduledStartTime}`;
 				row.appendChild(scheduledStartCell);
 
 				// Append the row to the table body
