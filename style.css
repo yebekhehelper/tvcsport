@@ -12,7 +12,7 @@ p {
 /* Adjust font size for smaller screens */
 @media (max-width: 600px) {
   :root {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 body {
