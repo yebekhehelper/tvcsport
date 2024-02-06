@@ -20,6 +20,10 @@
         "streamName": "SSC1 SPORT"
     },
     {
+        "streamUrl": "https:\/\/stream.crichd.vip\/update\/skysn.php",
+        "streamName": "SKY SPORT"
+    },
+    {
         "streamUrl": "https:\/\/dmitnthvll.cdn.mangomolo.com\/dubaisports\/smil:dubaisports.stream.smil\/chunklist_b9000000.m3u8",
         "streamName": "DUBAI SPORT 1"
     },
@@ -32,8 +36,12 @@
         "streamName": "DUBAI SPORT 3"
     },
     {
-        "streamUrl": "https:\/\/cdn-apse1-prod.tsv2.amagi.tv/linear\/amg01448-samsungin-eurosporthdin-samsungin\/playlist.m3u8",
-        "streamName": "EURO SPORT"
+        "streamUrl": "https:\/\/stream.crichd.vip\/update\/euro1.php",
+        "streamName": "EURO SPORT 1"
+    },
+    {
+        "streamUrl": "https:\/\/stream.crichd.vip\/update\/euro2.php",
+        "streamName": "EURO SPORT 2"
     },
     {
         "streamUrl": "https:\/\/5cf4a2c2512a2.streamlock.net\/dgrau\/dgrau\/chunklist.m3u8",
@@ -42,5 +50,22 @@
     {
         "streamUrl": "https:\/\/stream.crichd.vip\/update\/bt1.php",
         "streamName": "TNT SPORT 1"
-    }
+    },
+    {
+        "streamUrl": "https:\/\/stream.crichd.vip\/update\/bt2.php",
+        "streamName": "TNT SPORT 2"
+    },
+    {
+        "streamUrl": "https:\/\/stream.crichd.vip\/update\/bteu.php",
+        "streamName": "TNT SPORT 3"
+    },
+    {
+        "streamUrl": "https:\/\/dlhd.sx\/tele\/stream-34.php",
+        "streamName": "TNT SPORT 4"
+    },
+    {
+        "streamUrl": "https:\/\/stream.crichd.vip\/update\/ch10.php",
+        "streamName": "TNT SPORT 5"
+    },
+    
 ]
