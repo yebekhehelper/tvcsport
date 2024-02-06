@@ -6,7 +6,6 @@
     <title>TVC SPORT</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -23,17 +22,12 @@
                     </div>
                     <div class="card-body">
                         <div class="dropdown">
-                            <button class="btn btn-secondary dropdown-toggle" type="button" id="linkSelector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="align-items: start;">
+                            <button class="btn btn-secondary dropdown-toggle" type="button" id="linkSelector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Select Video
                             </button>
-                            <div class="dark-mode-toggle">
-                                <input type="checkbox" class="checkbox" id="dark-mode-checkbox">
-                                <label for="dark-mode-checkbox" class="label">
-                                  <i class="fas fa-moon"></i>
-                                  <i class="fas fa-sun"></i>
-                                  <div class="ball"></div>
-                                </label>
-                              </div>
+                            <button id="darkModeToggle" class="btn btn-secondary">
+                                Dark/Light
+                            </button>
                             <div class="dropdown-menu" aria-labelledby="linkSelector" id="dropdownMenu">
                                 <!-- Dynamically populated dropdown items -->
                             </div>
