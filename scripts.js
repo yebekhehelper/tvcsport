@@ -43,6 +43,8 @@ function loadVideo(link, channel) {
         newElement.width = '100%'; // Set the width to 100%
         newElement.height = '100%'; // Set the height to 100%
         newElement.frameBorder = '0'; // Remove the border
+	newElement.allow = 'autoplay'; // allow autoplay
+	newElement.scrolling = 'no'; // allow autoplay
         newElement.allowFullscreen = true; // Add the allowfullscreen attribute
         newElement.src = link;
     }
