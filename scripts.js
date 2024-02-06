@@ -2,21 +2,64 @@ var video = document.getElementById('video');
 var hls = new Hls();
 
 // Function to load and play a video
-// Function to load and play a video
 function loadVideo(link, channel) {
-	if (hls.destroyed) {
-		hls = new Hls();
-	}
-	hls.loadSource(link);
-	hls.attachMedia(video);
-	hls.on(Hls.Events.MANIFEST_PARSED, function() {
-		video.play();
-	});
-	// Update the dropdown button text
-	$('#linkSelector').text(channel);
+    // Store references to the video and iframe elements
+    var videoElement = document.getElementById('video');
+    var iframeElement = document.getElementById('iframe');
+    var parentElement;
 
-	// Save the selected channel in a cookie
-	setCookie('selectedChannel', channel, 365);
+    // Determine the parent element of the video or iframe
+    if (videoElement) {
+        parentElement = videoElement.parentNode;
+        // Remove the existing video element
+        parentElement.removeChild(videoElement);
+    } else if (iframeElement) {
+        parentElement = iframeElement.parentNode;
+        // Remove the existing iframe element
+        parentElement.removeChild(iframeElement);
+    }
+
+    // Create new video or iframe element
+    var newElement;
+    if (link.endsWith('.m3u8')) {
+        // Create a new video element
+        newElement = document.createElement('video');
+        newElement.id = 'video';
+        newElement.className = 'mt-3'; // Add the class attribute
+        newElement.controls = true; // Add the controls attribute
+        // Initialize HLS.js if needed
+        if (hls.destroyed) {
+            hls = new Hls();
+        }
+        hls.loadSource(link);
+        hls.attachMedia(newElement);
+        hls.on(Hls.Events.MANIFEST_PARSED, function() {
+            newElement.play();
+        });
+    } else {
+        // Create a new iframe element
+        newElement = document.createElement('iframe');
+        newElement.id = 'iframe';
+        newElement.width = '100%'; // Set the width to 100%
+        newElement.height = '100%'; // Set the height to 100%
+        newElement.frameBorder = '0'; // Remove the border
+        newElement.allowFullscreen = true; // Add the allowfullscreen attribute
+        newElement.src = link;
+    }
+
+    // Append the new element to the original parent
+    if (parentElement) {
+        parentElement.appendChild(newElement);
+    } else {
+        // If no parent was found, append it to the body
+        document.body.appendChild(newElement);
+    }
+
+    // Update the dropdown button text
+    $('#linkSelector').text(channel);
+
+    // Save the selected channel in a cookie
+    setCookie('selectedChannel', channel, 365);
 }
 
 // Fetch the JSON file
@@ -116,7 +159,7 @@ function areDatesEqual(date1, date2) {
 }
 
 // Fetch the JSON data
-fetch('todayMatches.json')
+fetch('https://api.yebekhe.link/sport/api.php')
 	.then(response => response.json())
 	.then(data => {
 		const leagues = data.leagues;
