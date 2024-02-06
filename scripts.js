@@ -162,8 +162,8 @@ function areDatesEqual(date1, date2) {
 fetch('todayMatches.json')
 	.then(response => response.json())
 	.then(data => {
-		const leagues = data.todayMatches.leagues;
-		const matches = data.todayMatches.matches;
+		const leagues = data.todayMatches['leagues'];
+		const matches = data.todayMatches['matches'];
 		const tableBody = document.querySelector('#matchesTable tbody');
 		let currentDate = new Date();
 		currentDate.setHours(0, 0, 0, 0);
