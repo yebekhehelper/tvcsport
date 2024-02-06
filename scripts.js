@@ -48,17 +48,9 @@ function loadVideo(link, channel) {
         newElement.allowFullscreen = true; // Add the allowfullscreen attribute
         newElement.src = link;
 	    
-	// Add an event listener to the iframe to prevent navigation
-        newElement.addEventListener('load', function() {
-            // Add an event listener to the iframe's content window to prevent navigation
-            newElement.contentWindow.addEventListener('click', function(event) {
-                // Check if the clicked element is a link
-                if (event.target.tagName === 'A') {
-                    // Prevent the default action (navigation)
-                    event.preventDefault();
-                }
-            }, true); // Use capture phase to ensure event is handled before propagation
-        });
+	// Add the CSS class to the iframe to apply the styles
+        newElement.classList.add('iframe-with-controls');
+
     }
 
     // Append the new element to the original parent
