@@ -47,16 +47,6 @@ function loadVideo(link, channel) {
 		newElement.scrolling = 'no'; // allow autoplay
 		newElement.allowFullscreen = true; // Add the allowfullscreen attribute
 		newElement.src = link;
-		// Add a click event listener to the iframe
-		newElement.addEventListener('click', function(event) {
-			// Prevent the default action (navigation)
-			event.preventDefault();
-			// Optionally, you can also stop the event from propagating
-			event.stopPropagation();
-			// You can also handle the click event here if needed
-			console.log('Iframe clicked, but navigation is prevented.');
-		});
-
 	}
 
 	// Append the new element to the original parent
