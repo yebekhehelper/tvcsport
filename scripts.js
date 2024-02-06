@@ -189,14 +189,7 @@ fetch('todayMatches.json')
 						const logoCell = document.createElement('td');
 						logoCell.appendChild(img); // Append the image to the logo cell
 						row.appendChild(logoCell);
-					} else {
-						var img = document.createElement('img');
-						img.src = 'favicon.jpg'; // Set the source of the image
-						img.width = 25; // Set the width of the image
-						const logoCell = document.createElement('td');
-						logoCell.appendChild(img); // Append the image to the logo cell
-						row.appendChild(logoCell);
-					}
+					} 
 				});
 
 				// Create table cells for each important detail
