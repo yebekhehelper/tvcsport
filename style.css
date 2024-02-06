@@ -1,3 +1,20 @@
+/* Set base font size for the entire document */
+:root {
+  font-size: 16px;
+}
+/* Other elements will use this base size */
+h1 {
+  font-size: 2em;
+}
+p {
+  font-size: 1em;
+}
+/* Adjust font size for smaller screens */
+@media (max-width: 600px) {
+  :root {
+    font-size: 14px;
+  }
+}
 body {
   background-color: #f8f9fa;
   font-family: 'Vazirmatn', sans-serif;
