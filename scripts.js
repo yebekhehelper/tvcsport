@@ -49,9 +49,15 @@ function loadVideo(link, channel) {
         newElement.src = link;
 	    
 	// Add an event listener to the iframe to prevent navigation
-        newElement.addEventListener('click', function(event) {
-            // Prevent the default action (navigation)
-            event.preventDefault();
+        newElement.addEventListener('load', function() {
+            // Add an event listener to the iframe's content window to prevent navigation
+            newElement.contentWindow.addEventListener('click', function(event) {
+                // Check if the clicked element is a link
+                if (event.target.tagName === 'A') {
+                    // Prevent the default action (navigation)
+                    event.preventDefault();
+                }
+            }, true); // Use capture phase to ensure event is handled before propagation
         });
     }
 
