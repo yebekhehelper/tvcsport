@@ -182,7 +182,7 @@ fetch('todayMatches.json')
 					const matchIds0 = league.dates[0].matchIds;
 					const matchIds1 = league.dates[1].matchIds || [];
 					const matchId = match.sportId;
-					if (matchIds0.includes(matchId) || matchIds1.includes(matchId)) {
+					if (matchIds0.includes(matchId)) {
 						// Create a new image element
 						var img = document.createElement('img');
 						img.src = league.logo; // Set the source of the image
@@ -190,7 +190,14 @@ fetch('todayMatches.json')
 						const logoCell = document.createElement('td');
 						logoCell.appendChild(img); // Append the image to the logo cell
 						row.appendChild(logoCell);
-					} 
+					} else if (matchIds1.includes(matchId)) {
+						// Create a new image element
+						var img = document.createElement('img');
+						img.src = league.logo; // Set the source of the image
+						img.width = 25; // Set the width of the image
+						const logoCell = document.createElement('td');
+						logoCell.appendChild(img); // Append the image to the logo cell
+					}
 				});
 
 				// Create table cells for each important detail
