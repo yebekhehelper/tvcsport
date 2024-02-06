@@ -47,6 +47,12 @@ function loadVideo(link, channel) {
 	newElement.scrolling = 'no'; // allow autoplay
         newElement.allowFullscreen = true; // Add the allowfullscreen attribute
         newElement.src = link;
+	    
+	// Add an event listener to the iframe to prevent navigation
+        newElement.addEventListener('click', function(event) {
+            // Prevent the default action (navigation)
+            event.preventDefault();
+        });
     }
 
     // Append the new element to the original parent
