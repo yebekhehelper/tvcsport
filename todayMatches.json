@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707251729,
+    "timeStamp": 1707251776,
     "todayMatches": {
         "leagues": [
             {
@@ -915,7 +915,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "34",
+                "liveTime": "35",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167883.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167991.png",
                 "hasPenalty": false,
@@ -2055,7 +2055,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "0",
-                "liveTime": "79",
+                "liveTime": "80",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169035.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167961.png",
                 "hasPenalty": false,
