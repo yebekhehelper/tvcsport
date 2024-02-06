@@ -47,7 +47,6 @@ function loadVideo(link, channel) {
 	newElement.scrolling = 'no'; // allow autoplay
         newElement.allowFullscreen = true; // Add the allowfullscreen attribute
         newElement.src = link;
-	newElement.style.pointerEvents = 'none';
     }
 
     // Append the new element to the original parent
