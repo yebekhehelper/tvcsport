@@ -47,9 +47,6 @@ function loadVideo(link, channel) {
 	newElement.scrolling = 'no'; // allow autoplay
         newElement.allowFullscreen = true; // Add the allowfullscreen attribute
         newElement.src = link;
-	    
-	// Add the CSS class to the iframe to apply the styles
-        newElement.classList.add('iframe-with-controls');
 
     }
 
