@@ -143,7 +143,7 @@ function toggleDarkMode() {
 }
 
 // Event listener for the dark mode toggle button
-document.getElementById('dark-mode-checkbox').addEventListener('click', toggleDarkMode);
+document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
 
 // Check for the dark mode cookie on page load
 window.onload = function() {
