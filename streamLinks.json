@@ -24,6 +24,10 @@
         "streamName": "SKY SPORT"
     },
     {
+        "streamUrl": "https:\/\/stream.crichd.vip\/update\/skyf1.php",
+        "streamName": "SKY SPORT F1"
+    },
+    {
         "streamUrl": "https:\/\/dmitnthvll.cdn.mangomolo.com\/dubaisports\/smil:dubaisports.stream.smil\/chunklist_b9000000.m3u8",
         "streamName": "DUBAI SPORT 1"
     },
