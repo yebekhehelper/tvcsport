@@ -181,7 +181,7 @@ fetch('todayMatches.json')
 				// Check if the matchId is in any of the matchIds arrays
 				leagues.forEach(league => {
 					const matchIds0 = league.dates[0].matchIds;
-					const matchIds1 = league.dates[1].matchIds || [];
+					const matchIds1 = (league.dates[1] && league.dates[1].matchIds) ? league.dates[1].matchIds : [];
 					const matchId = match.sportId;
 					if (matchIds0.includes(matchId)) {
 						// Create a new image element
