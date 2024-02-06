@@ -1,125 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TVC SPORT</title>
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-    />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
     <style>
-          body {
-              background-color: #f8f9fa;
-              font-family: 'Arial', sans-serif;
-          }
-          .card {
-              margin-top: 20px;
-              border-radius: 10px;
-              box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          }
-          .card-header {
-              background-color: #007bff;
-              color: white;
-              border-top-left-radius: 10px;
-              border-top-right-radius: 10px;
-          }
-          .dropdown-menu {
-              min-width: 100%;
-              border-radius: 0;
-          }
-          .dropdown-item {
-              color: #333;
-          }
-          .dropdown-item:hover, .dropdown-item:focus {
-              text-decoration: none;
-              background-color: #f8f9fa;
-          }
-          #video {
-              width: 100%;
-              height: auto;
-              border-radius: 10px;
-          }
-          .dropdown-toggle::after {
-              display: none;
-          }
-          .dropdown-menu {
-              border: none;
-              box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-          }
-          .dropdown-item:hover {
-              background-color: #e9ecef;
-          }
-          .card {
-              background-color: #fff;
-          }
-          .card-header {
-              background-color: #007bff;
-              color: #fff;
-          }
-          .card-body {
-              padding: 20px;
-          }
-          body.dark-mode {
-          background-color: #333;
-          color: #f8f9fa;
-      }
-
-      body.dark-mode .card {
-          background-color: #444;
-      }
-
-      body.dark-mode .card-header {
-          background-color: #007bff;
-      }
-
-      body.dark-mode .dropdown-menu {
-          background-color: #444;
-      }
-
-      body.dark-mode .dropdown-item:hover {
-          background-color: #555;
-      }
+        body {
+            background-color: #f8f9fa;
+            font-family: 'Arial', sans-serif;
+            color: #333;
+        }
+        .card {
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+        }
+        .card-header {
+            background-color: #007bff;
+            color: #fff;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+        .dropdown-menu {
+            min-width: 100%;
+            border-radius: 0;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .dropdown-item {
+            color: #333;
+        }
+        .dropdown-item:hover, .dropdown-item:focus {
+            text-decoration: none;
+            background-color: #e9ecef;
+        }
+        #video {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .dropdown-toggle::after {
+            display: none;
+        }
+        body.dark-mode {
+            background-color: #333;
+            color: #f8f9fa;
+        }
+        body.dark-mode .card {
+            background-color: #444;
+        }
+        body.dark-mode .card-header {
+            background-color: #007bff;
+        }
+        body.dark-mode .dropdown-menu {
+            background-color: #444;
+        }
+        body.dark-mode .dropdown-item:hover {
+            background-color: #555;
+        }
     </style>
-  </head>
-  <body>
+</head>
+<body>
     <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-8">
-          <div class="card">
-            <div class="card-header">
-              <h4 class="card-title mb-0">TVC SPORT</h4>
-            </div>
-
-            <div class="card-body">
-              <div class="dropdown">
-                <button
-                  class="btn btn-secondary dropdown-toggle"
-                  type="button"
-                  id="linkSelector"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                >
-                  Select Video
-                </button>
-                <button id="darkModeToggle" class="btn btn-secondary">
-                  Toggle Dark Mode
-                </button>
-                <div
-                  class="dropdown-menu"
-                  aria-labelledby="linkSelector"
-                  id="dropdownMenu"
-                >
-                  <!-- Dynamically populated dropdown items -->
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title mb-0">TVC SPORT</h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="dropdown">
+                            <button class="btn btn-secondary dropdown-toggle" type="button" id="linkSelector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Select Video
+                            </button>
+                            <button id="darkModeToggle" class="btn btn-secondary">
+                                Toggle Dark Mode
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="linkSelector" id="dropdownMenu">
+                                <!-- Dynamically populated dropdown items -->
+                            </div>
+                        </div>
+                        <video id="video" class="mt-3" controls></video>
+                    </div>
                 </div>
-              </div>
-              <video id="video" class="mt-3" controls></video>
             </div>
-          </div>
         </div>
-      </div>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
