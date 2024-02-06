@@ -3,67 +3,80 @@ var hls = new Hls();
 
 // Function to load and play a video
 function loadVideo(link, channel) {
-    // Store references to the video and iframe elements
-    var videoElement = document.getElementById('video');
-    var iframeElement = document.getElementById('iframe');
-    var parentElement;
+	// Store references to the video and iframe elements
+	var videoElement = document.getElementById('video');
+	var iframeElement = document.getElementById('iframe');
+	var parentElement;
 
-    // Determine the parent element of the video or iframe
-    if (videoElement) {
-        parentElement = videoElement.parentNode;
-        // Remove the existing video element
-        parentElement.removeChild(videoElement);
-    } else if (iframeElement) {
-        parentElement = iframeElement.parentNode;
-        // Remove the existing iframe element
-        parentElement.removeChild(iframeElement);
-    }
+	// Determine the parent element of the video or iframe
+	if (videoElement) {
+		parentElement = videoElement.parentNode;
+		// Remove the existing video element
+		parentElement.removeChild(videoElement);
+	} else if (iframeElement) {
+		parentElement = iframeElement.parentNode;
+		// Remove the existing iframe element
+		parentElement.removeChild(iframeElement);
+	}
 
-    // Create new video or iframe element
-    var newElement;
-    if (link.endsWith('.m3u8')) {
-        // Create a new video element
-        newElement = document.createElement('video');
-        newElement.id = 'video';
-        newElement.className = 'mt-3'; // Add the class attribute
-        newElement.controls = true; // Add the controls attribute
-        // Initialize HLS.js if needed
-        if (hls.destroyed) {
-            hls = new Hls();
-        }
-        hls.loadSource(link);
-        hls.attachMedia(newElement);
-        hls.on(Hls.Events.MANIFEST_PARSED, function() {
-            newElement.play();
-        });
-    } else {
-        // Create a new iframe element
-        newElement = document.createElement('iframe');
-        newElement.id = 'iframe';
-        newElement.width = '100%'; // Set the width to 100%
-        newElement.height = '100%'; // Set the height to 100%
-        newElement.frameBorder = '0'; // Remove the border
-	newElement.allow = 'autoplay'; // allow autoplay
-	newElement.scrolling = 'no'; // allow autoplay
-        newElement.allowFullscreen = true; // Add the allowfullscreen attribute
-        newElement.src = link;
-	newElement.sandbox = 'allow-same-origin allow-scripts'; // Restrict navigation
+	// Create new video or iframe element
+	var newElement;
+	if (link.endsWith('.m3u8')) {
+		// Create a new video element
+		newElement = document.createElement('video');
+		newElement.id = 'video';
+		newElement.className = 'mt-3'; // Add the class attribute
+		newElement.controls = true; // Add the controls attribute
+		// Initialize HLS.js if needed
+		if (hls.destroyed) {
+			hls = new Hls();
+		}
+		hls.loadSource(link);
+		hls.attachMedia(newElement);
+		hls.on(Hls.Events.MANIFEST_PARSED, function() {
+			newElement.play();
+		});
+	} else {
+		// Create a new iframe element
+		newElement = document.createElement('iframe');
+		newElement.id = 'iframe';
+		newElement.width = '100%'; // Set the width to 100%
+		newElement.height = '100%'; // Set the height to 100%
+		newElement.frameBorder = '0'; // Remove the border
+		newElement.allow = 'autoplay'; // allow autoplay
+		newElement.scrolling = 'no'; // allow autoplay
+		newElement.allowFullscreen = true; // Add the allowfullscreen attribute
+		newElement.src = link;
+		// Assuming newElement is your iframe element
+		newElement.onload = function() {
+			// Wait for the iframe to load
+			var iframeBody = newElement.contentWindow.document.body;
+			iframeBody.addEventListener('click', function(event) {
+				// Check if the clicked element is a link
+				if (event.target.tagName === 'A') {
+					// Prevent the default link action
+					event.preventDefault();
+					// You can also handle the link here, e.g., open it in the parent window
+					window.open(event.target.href, '_blank');
+				}
+			});
+		};
 
-    }
+	}
 
-    // Append the new element to the original parent
-    if (parentElement) {
-        parentElement.appendChild(newElement);
-    } else {
-        // If no parent was found, append it to the body
-        document.body.appendChild(newElement);
-    }
+	// Append the new element to the original parent
+	if (parentElement) {
+		parentElement.appendChild(newElement);
+	} else {
+		// If no parent was found, append it to the body
+		document.body.appendChild(newElement);
+	}
 
-    // Update the dropdown button text
-    $('#linkSelector').text(channel);
+	// Update the dropdown button text
+	$('#linkSelector').text(channel);
 
-    // Save the selected channel in a cookie
-    setCookie('selectedChannel', channel, 365);
+	// Save the selected channel in a cookie
+	setCookie('selectedChannel', channel, 365);
 }
 
 // Fetch the JSON file
@@ -191,7 +204,7 @@ fetch('todayMatches.json')
 						const logoCell = document.createElement('td');
 						logoCell.appendChild(img); // Append the image to the logo cell
 						row.appendChild(logoCell);
-					} 
+					}
 				});
 
 				// Create table cells for each important detail
