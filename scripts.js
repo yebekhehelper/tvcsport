@@ -180,10 +180,9 @@ fetch('todayMatches.json')
 				const row = document.createElement('tr');
 				// Check if the matchId is in any of the matchIds arrays
 				leagues.forEach(league => {
-					const matchIds0 = league.dates[0].matchIds;
-					const matchIds1 = (league.dates[1] && league.dates[1].matchIds) ? league.dates[1].matchIds : [];
+					const matchIds = league.dates.flatMap(date => date.matchIds || []);
 					const matchId = match.sportId;
-					if (matchIds0.includes(matchId)) {
+					if (matchIds.includes(matchId)) {
 						// Create a new image element
 						var img = document.createElement('img');
 						img.src = league.logo; // Set the source of the image
@@ -191,14 +190,7 @@ fetch('todayMatches.json')
 						const logoCell = document.createElement('td');
 						logoCell.appendChild(img); // Append the image to the logo cell
 						row.appendChild(logoCell);
-					} else if (matchIds1.includes(matchId)) {
-						// Create a new image element
-						var img = document.createElement('img');
-						img.src = league.logo; // Set the source of the image
-						img.width = 25; // Set the width of the image
-						const logoCell = document.createElement('td');
-						logoCell.appendChild(img); // Append the image to the logo cell
-					}
+					} 
 				});
 
 				// Create table cells for each important detail
