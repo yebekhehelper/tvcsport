@@ -34,7 +34,7 @@
             color: #333;
         }
         .dropdown-item.dark-mode {
-            color: #f8f9fa;
+            color: #fff; /* White text for dark mode */
         }
         .dropdown-item:hover, .dropdown-item:focus {
             text-decoration: none;
@@ -60,6 +60,9 @@
         }
         body.dark-mode .dropdown-menu {
             background-color: #444;
+        }
+        body.dark-mode .dropdown-item {
+            color: #f8f9fa; /* Light text for dark mode dropdown items */
         }
         body.dark-mode .dropdown-item:hover {
             background-color: #555;
