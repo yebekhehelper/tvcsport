@@ -43,12 +43,8 @@ jobs:
           git config --global user.name "yebekhe"
           git config credential.helper store
           git add -A
-          if ! git diff --quiet; then
-            git commit -m "🚀 Matches Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+          git commit -m "🚀 Matches Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
+          git push
 
   # Second job to deploy the updated content
   deploy:
