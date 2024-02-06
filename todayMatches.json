@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707256778,
+    "timeStamp": 1707257115,
     "todayMatches": {
         "leagues": [
             {
@@ -585,7 +585,7 @@
                 "guestId": 621,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "23:15",
                 "hasEvents": true,
