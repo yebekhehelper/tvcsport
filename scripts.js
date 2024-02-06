@@ -1,0 +1,109 @@
+var video = document.getElementById('video');
+            var hls = new Hls();
+
+            // Function to load and play a video
+            // Function to load and play a video
+      function loadVideo(link, channel) {
+          if (hls.destroyed) {
+              hls = new Hls();
+          }
+          hls.loadSource(link);
+          hls.attachMedia(video);
+          hls.on(Hls.Events.MANIFEST_PARSED, function() {
+              video.play();
+          });
+          // Update the dropdown button text
+          $('#linkSelector').text(channel);
+
+          // Save the selected channel in a cookie
+          setCookie('selectedChannel', channel, 365);
+      }
+
+            // Fetch the JSON file
+            fetch('todayMatches.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    populateDropdown(data);
+                })
+                .catch(error => {
+                    console.error('There has been a problem with your fetch operation:', error);
+                });
+
+            // Function to populate the dropdown menu with fetched m3u8 links
+            function populateDropdown(m3u8Links) {
+          var dropdownMenu = document.getElementById('dropdownMenu');
+          dropdownMenu.innerHTML = ''; // Clear existing items
+
+          m3u8Links.forEach(function(link) {
+              if (!link.streamUrl || !link.streamName) {
+                  console.warn('Invalid link object:', link);
+                  return;
+              }
+              var dropdownItem = document.createElement('a');
+              dropdownItem.className = 'dropdown-item';
+              dropdownItem.href = '#';
+              dropdownItem.setAttribute('data-link', link.streamUrl);
+              dropdownItem.setAttribute('data-channel', link.streamName);
+              dropdownItem.textContent = link.streamName;
+              dropdownItem.addEventListener('click', function(e) {
+                  e.preventDefault();
+                  loadVideo(this.getAttribute('data-link'), this.getAttribute('data-channel'));
+              });
+              dropdownMenu.appendChild(dropdownItem);
+
+              // Check if this is the saved channel and select it
+              var savedChannel = getCookie('selectedChannel');
+              if (savedChannel === link.streamName) {
+                  dropdownItem.click();
+              }
+          });
+      }
+
+            // Function to set a cookie
+            function setCookie(name, value, days) {
+                var expires = "";
+                if (days) {
+                    var date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    expires = "; expires=" + date.toUTCString();
+                }
+                document.cookie = name + "=" + (value || "") + expires + "; path=/";
+            }
+
+            // Function to get a cookie
+            function getCookie(name) {
+                var nameEQ = name + "=";
+                var ca = document.cookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                }
+                return null;
+            }
+
+            // Function to toggle dark mode
+            function toggleDarkMode() {
+                var body = document.body;
+                body.classList.toggle('dark-mode');
+
+                // Save the user's preference in a cookie
+                var isDarkMode = body.classList.contains('dark-mode');
+                setCookie('darkMode', isDarkMode ? 'true' : 'false', 365);
+            }
+
+            // Event listener for the dark mode toggle button
+            document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
+
+            // Check for the dark mode cookie on page load
+            window.onload = function() {
+                var isDarkMode = getCookie('darkMode') === 'true';
+                if (isDarkMode) {
+                    document.body.classList.add('dark-mode');
+                }
+            }
