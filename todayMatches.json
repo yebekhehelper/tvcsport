@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707246106,
+    "timeStamp": 1707246547,
     "todayMatches": {
         "leagues": [
             {
@@ -605,9 +605,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "2",
+                "liveTime": "9",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169035.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167961.png",
                 "hasPenalty": false,
@@ -618,7 +618,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -639,12 +639,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "22:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399871\/بازی-نایمخن-دن-هاخ",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399871",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399871\/events",
                 "scheduledStartOn": "2024-02-06T19:00:00Z",
                 "stadium": null
             },
@@ -754,7 +754,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "1",
-                "liveTime": "52",
+                "liveTime": "59",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/16\/C\/jqoooclt.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2024\/02\/05\/C\/il3ojtb1.png",
                 "hasPenalty": false,
@@ -1429,7 +1429,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "3",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/C\/0lsakktm.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/C\/3ye3pusj.png",
                 "hasPenalty": false,
@@ -1464,10 +1464,10 @@
                 "guestLink": null,
                 "hostId": 903458,
                 "guestId": 903454,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "20:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
