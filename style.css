@@ -1,103 +1,113 @@
-body {
-  background-color: #f8f9fa;
-  font-family: "Arial", sans-serif;
-  color: #333;
-}
-.card {
-  margin-top: 20px;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  background-color: #fff;
-}
-.card-header {
-  background-color: #007bff;
-  color: #fff;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-}
-.dropdown-menu {
-  min-width: 100%;
-  border-radius: 0;
-  background-color: #fff;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-.dropdown-item {
-  color: #333;
-}
-.dropdown-item.dark-mode {
-  color: #fff; /* White text for dark mode */
-}
-.dropdown-item:hover,
-.dropdown-item:focus {
-  text-decoration: none;
-  background-color: #e9ecef;
-}
-#video {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-}
-.dropdown-toggle::after {
-  display: none;
-}
-body.dark-mode {
-  background-color: #333;
-  color: #f8f9fa;
-}
-body.dark-mode .card {
-  background-color: #444;
-}
-body.dark-mode .card-header {
-  background-color: #007bff;
-}
-body.dark-mode .dropdown-menu {
-  background-color: #444;
-}
-body.dark-mode .dropdown-item {
-  color: #f8f9fa; /* Light text for dark mode dropdown items */
-}
-body.dark-mode .dropdown-item:hover {
-  background-color: #555;
-}
-/* Light mode table styles */
-.table {
-  width: 100%;
-  border-collapse: collapse;
-  background-color: #fff;
-  color: #333;
-}
-
-.table th,
-.table td {
-  padding: 10px;
-  text-align: center;
-  border-bottom: 1px solid #ddd;
-}
-
-.table th {
-  background-color: #f8f9fa;
-}
-
-/* Dark mode table styles */
-body.dark-mode .table {
-  background-color: #444;
-  color: #f8f9fa;
-}
-
-body.dark-mode .table th {
-  background-color: #333;
-}
-
-body.dark-mode .table td {
-  border-bottom-color: #555;
-}
-
-/* Dark Mode Styles */
-body.dark-mode {
-    background-color: #222;
+/* Set base font size for the entire document */
+:root {
+    font-size: 16px;
+  }
+  /* Other elements will use this base size */
+  h1 {
+    font-size: 2em;
+  }
+  p {
+    font-size: 1em;
+  }
+  /* Adjust font size for smaller screens */
+  @media (max-width: 600px) {
+    :root {
+      font-size: 12px;
+    }
+  }
+  body {
+    background-color: #f8f9fa;
+    font-family: 'Vazirmatn', sans-serif;
+    color: #333;
+  }
+  .card {
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  .card-header {
+    background-color: #007bff;
     color: #fff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  .dropdown-menu {
+    min-width: 100%;
+    border-radius: 0;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .dropdown-item {
+    color: #333;
+  }
+  .dropdown-item.dark-mode {
+    color: #fff; /* White text for dark mode */
+  }
+  .dropdown-item:hover,
+  .dropdown-item:focus {
+    text-decoration: none;
+    background-color: #e9ecef;
+  }
+  #video {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  .dropdown-toggle::after {
+    display: none;
+  }
+  body.dark-mode {
+    background-color: #333;
+    color: #f8f9fa;
+  }
+  body.dark-mode .card {
+    background-color: #444;
+  }
+  body.dark-mode .card-header {
+    background-color: #007bff;
+  }
+  body.dark-mode .dropdown-menu {
+    background-color: #444;
+  }
+  body.dark-mode .dropdown-item {
+    color: #f8f9fa; /* Light text for dark mode dropdown items */
+  }
+  body.dark-mode .dropdown-item:hover {
+    background-color: #555;
+  }
+  /* Light mode table styles */
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    color: #333;
   }
   
+  .table th,
+  .table td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .table th {
+    background-color: #f8f9fa;
+  }
+  
+  /* Dark mode table styles */
+  body.dark-mode .table {
+    background-color: #444;
+    color: #f8f9fa;
+  }
+  
+  body.dark-mode .table th {
+    background-color: #333;
+  }
+  
+  body.dark-mode .table td {
+    border-bottom-color: #555;
+  }
   /* Dark Mode Toggle Styles */
   .dark-mode-toggle {
     position: relative;
