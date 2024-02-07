@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707324904,
+    "timeStamp": 1707325665,
     "todayMatches": {
         "leagues": [
             {
@@ -556,16 +556,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "7",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/qi5e3eom.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/c0yvl3i5.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 18 بهمن 1402",
                 "scheduledStartTime": "20:30",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/399870",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/399870",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -593,10 +593,10 @@
                 "guestLink": "\/football\/team\/368\/آفریقای-جنوبی",
                 "hostId": 343,
                 "guestId": 368,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "20:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/61916\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%86%DB%8C%D8%AC%D8%B1%DB%8C%D9%87-%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7%DB%8C-%D8%AC%D9%86%D9%88%D8%A8%DB%8C?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -1628,7 +1628,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "23",
+                "liveTime": "36",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168013.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628320.png",
                 "hasPenalty": false,
