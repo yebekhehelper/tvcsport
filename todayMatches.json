@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707321490,
+    "timeStamp": 1707322665,
     "todayMatches": {
         "leagues": [
             {
@@ -295,9 +295,9 @@
         "matches": [
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "2",
-                "liveTime": "",
+                "liveTime": "55",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/27\/C\/hluh325f.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/jitk13em.png",
                 "hasPenalty": false,
@@ -308,7 +308,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 2
                 },
                 "videoId": null,
@@ -334,7 +334,7 @@
                 "guestId": 316,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "18:30",
                 "hasEvents": true,
@@ -1108,16 +1108,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "16",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01632653.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/05\/01\/B\/pksgd114.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 18 بهمن 1402",
                 "scheduledStartTime": "19:30",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/399748",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/399748",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -1145,17 +1145,17 @@
                 "guestLink": "\/football\/team\/403\/پورتو",
                 "hostId": 902728,
                 "guestId": 403,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "19:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/61920\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%D9%86%D8%AA%D8%A7%DA%A9%D9%84%D8%A7%D8%B1%D8%A7-%D9%BE%D9%88%D8%B1%D8%AA%D9%88?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399748\/بازی-سانتا-کلارا-پورتو",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399748",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399748\/events",
                 "scheduledStartOn": "2024-02-07T16:00:00Z",
                 "stadium": null
             },
@@ -1942,7 +1942,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "67",
+                "liveTime": "87",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400035.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01527014.gif",
                 "hasPenalty": false,
