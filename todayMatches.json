@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707306679,
+    "timeStamp": 1707307134,
     "todayMatches": {
         "leagues": [
             {
@@ -13,21 +13,6 @@
                         "date": "1402\/11\/18",
                         "matchIds": [
                             "football-399868"
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 22,
-                "logo": "https:\/\/static.farakav.com\/files\/pictures\/01171757.png",
-                "title": "جام حذفی ایران",
-                "sport": 1,
-                "link": "\/football\/playoffs\/22\/جام-حذفی-ایران",
-                "dates": [
-                    {
-                        "date": "1402\/11\/18",
-                        "matchIds": [
-                            "football-399566"
                         ]
                     }
                 ]
@@ -59,6 +44,21 @@
                         "date": "1402\/11\/18",
                         "matchIds": [
                             "football-386170"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 22,
+                "logo": "https:\/\/static.farakav.com\/files\/pictures\/01171757.png",
+                "title": "جام حذفی ایران",
+                "sport": 1,
+                "link": "\/football\/playoffs\/22\/جام-حذفی-ایران",
+                "dates": [
+                    {
+                        "date": "1402\/11\/18",
+                        "matchIds": [
+                            "football-399566"
                         ]
                     }
                 ]
@@ -348,59 +348,6 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "19",
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150455.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/12\/24\/C\/cf1l505e.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 18 بهمن 1402",
-                "scheduledStartTime": "15:00",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": null,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#040f6d",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 399566,
-                "title": null,
-                "sportId": "football-399566",
-                "hostName": "پیکان",
-                "hostLink": "\/football\/team\/11\/پیکان",
-                "guestName": "ستارگان بهمن جوان",
-                "guestLink": null,
-                "hostId": 11,
-                "guestId": 903552,
-                "status": 2,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
-                "time": "15:00",
-                "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/61926\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%BE%DB%8C%DA%A9%D8%A7%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B3%D8%AA%D8%A7%D8%B1%DA%AF%D8%A7%D9%86-%D8%A8%D9%87%D9%85%D9%86-%D8%AC%D9%88%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/399566\/بازی-پیکان-ستارگان-بهمن-جوان",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399566",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-07T11:30:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
                 "hostGoals": "",
                 "guestGoals": "",
                 "liveTime": null,
@@ -552,6 +499,59 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386170",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-02-07T17:30:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 1,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "26",
+                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150455.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/12\/24\/C\/cf1l505e.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 18 بهمن 1402",
+                "scheduledStartTime": "15:00",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
+                },
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "hostStyle": {
+                    "backgroundColor": "#040f6d",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "id": 399566,
+                "title": null,
+                "sportId": "football-399566",
+                "hostName": "پیکان",
+                "hostLink": "\/football\/team\/11\/پیکان",
+                "guestName": "ستارگان بهمن جوان",
+                "guestLink": null,
+                "hostId": 11,
+                "guestId": 903552,
+                "status": 2,
+                "statusDescription": null,
+                "statusTitle": "",
+                "isLive": true,
+                "time": "15:00",
+                "hasEvents": false,
+                "liveStreamSource": "https:\/\/www.anten.ir\/football\/61926\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%BE%DB%8C%DA%A9%D8%A7%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B3%D8%AA%D8%A7%D8%B1%DA%AF%D8%A7%D9%86-%D8%A8%D9%87%D9%85%D9%86-%D8%AC%D9%88%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/399566\/بازی-پیکان-ستارگان-بهمن-جوان",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399566",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-02-07T11:30:00Z",
                 "stadium": null
             },
             {
@@ -769,10 +769,10 @@
             {
                 "sport": 3,
                 "hostPoint": "0",
-                "guestPoint": "0",
+                "guestPoint": "1",
                 "setPoints1": {
-                    "host": 14,
-                    "guest": 16
+                    "host": 20,
+                    "guest": 25
                 },
                 "setPoints2": null,
                 "setPoints3": null,
@@ -1452,7 +1452,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "83",
+                "liveTime": "90",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551536.jpg",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/24\/C\/5501eu2y.png",
                 "hasPenalty": false,
@@ -1811,7 +1811,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "20",
+                "liveTime": "27",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/r5kg0tri.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/n4rorj0t.png",
                 "hasPenalty": false,
@@ -1851,12 +1851,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "15:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399880\/بازی-سیواس-اسپور-قونیه-اسپور",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399880",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399880\/events",
                 "scheduledStartOn": "2024-02-07T11:30:00Z",
                 "stadium": null
             },
