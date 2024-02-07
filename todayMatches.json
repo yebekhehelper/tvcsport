@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707290321,
+    "timeStamp": 1707290745,
     "todayMatches": {
         "leagues": [
             {
@@ -2549,7 +2549,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324005\/خلاصه-بسکتبال-میامی-هیت-اورلاندومچیک",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106827\/بازی-میامی-هیت-اورلاندو-مجیک",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106827",
@@ -2647,7 +2647,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324004\/خلاصه-بسکتبال-نیویورک-نیکس-ممفیس-گریزلیز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107217\/بازی-نیویورک-نیکس-ممفیس-گریزلیز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107217",
@@ -2699,7 +2699,7 @@
                 "time": "04:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324006\/خلاصه-بسکتبال-شیکاگو-بولز-مینه-سوتا-تیمبرولوز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107218\/بازی-شیکاگو-بولز-مینه-سوتا-تیمبرولوز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107218",
@@ -2748,7 +2748,7 @@
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324007\/خلاصه-بسکتبال-یوتا-جاز-اوکلاهاما-سیتی-تاندر",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106843\/بازی-یوتا-جاز-اوکلاهاما-سیتی-تاندر",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106843",
@@ -2797,7 +2797,7 @@
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324012\/خلاصه-بسکتبال-فینیکس-سانز-میلواکی-باکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107219\/بازی-فینیکس-سانز-میلواکی-باکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107219",
