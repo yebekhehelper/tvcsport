@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707324010,
+    "timeStamp": 1707324456,
     "todayMatches": {
         "leagues": [
             {
@@ -296,8 +296,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "2",
-                "liveTime": "77",
+                "guestGoals": "3",
+                "liveTime": "85",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/27\/C\/hluh325f.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/jitk13em.png",
                 "hasPenalty": false,
@@ -309,7 +309,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 2
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": "احمد العلی",
@@ -1628,7 +1628,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "8",
+                "liveTime": "16",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168013.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628320.png",
                 "hasPenalty": false,
@@ -1979,7 +1979,7 @@
                 "guestId": 902857,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "18:00",
                 "hasEvents": true,
