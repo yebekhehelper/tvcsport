@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707328313,
+    "timeStamp": 1707328764,
     "todayMatches": {
         "leagues": [
             {
@@ -452,7 +452,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "22",
+                "liveTime": "30",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400033.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/05\/B\/vtrlgzaq.png",
                 "hasPenalty": false,
@@ -1216,7 +1216,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "22",
+                "liveTime": "30",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150155.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/C\/ms2u4o31.png",
                 "hasPenalty": false,
@@ -1627,8 +1627,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "2",
-                "liveTime": "61",
+                "guestGoals": "3",
+                "liveTime": "68",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168013.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628320.png",
                 "hasPenalty": false,
@@ -1640,7 +1640,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 2
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": null,
@@ -1998,7 +1998,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "6",
+                "liveTime": "13",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633904.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01639319.png",
                 "hasPenalty": false,
