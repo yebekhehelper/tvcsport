@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707273909,
+    "timeStamp": 1707274340,
     "todayMatches": {
         "leagues": [
             {
@@ -2510,8 +2510,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "115",
-                "guestPoint": "93",
+                "hostPoint": "121",
+                "guestPoint": "95",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 19
@@ -2525,8 +2525,8 @@
                     "guest": 26
                 },
                 "quarterPoints4": {
-                    "host": 19,
-                    "guest": 18
+                    "host": 25,
+                    "guest": 20
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2560,7 +2560,7 @@
             {
                 "sport": 4,
                 "hostPoint": "107",
-                "guestPoint": "116",
+                "guestPoint": "119",
                 "quarterPoints1": {
                     "host": 24,
                     "guest": 31
@@ -2575,7 +2575,7 @@
                 },
                 "quarterPoints4": {
                     "host": 30,
-                    "guest": 21
+                    "guest": 24
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2591,13 +2591,13 @@
                 "guestLink": null,
                 "hostId": 902802,
                 "guestId": 902780,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/61928\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%B1%D9%88%DA%A9%D9%84%DB%8C%D9%86-%D9%86%D8%AA%D8%B3-%D8%AF%D8%A7%D9%84%D8%A7%D8%B3-%D9%85%D8%A7%D9%88%D8%B1%DB%8C%DA%A9%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107216\/بازی-بروکلین-نتس-دالاس-ماوریکس",
@@ -2608,7 +2608,7 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "121",
+                "hostPoint": "123",
                 "guestPoint": "113",
                 "quarterPoints1": {
                     "host": 33,
@@ -2623,7 +2623,7 @@
                     "guest": 28
                 },
                 "quarterPoints4": {
-                    "host": 24,
+                    "host": 26,
                     "guest": 39
                 },
                 "overtimePoints": null,
@@ -2640,10 +2640,10 @@
                 "guestLink": null,
                 "hostId": 902803,
                 "guestId": 902785,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -2657,8 +2657,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "80",
-                "guestPoint": "92",
+                "hostPoint": "88",
+                "guestPoint": "97",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 33
@@ -2668,10 +2668,13 @@
                     "guest": 36
                 },
                 "quarterPoints3": {
-                    "host": 33,
+                    "host": 36,
                     "guest": 23
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 5,
+                    "guest": 5
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -2703,15 +2706,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "41",
-                "guestPoint": "45",
+                "hostPoint": "52",
+                "guestPoint": "52",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 33
                 },
                 "quarterPoints2": {
-                    "host": 13,
-                    "guest": 12
+                    "host": 24,
+                    "guest": 19
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
