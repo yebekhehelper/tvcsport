@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707411502,
+    "timeStamp": 1707412402,
     "todayMatches": {
         "leagues": [
             {
@@ -1105,7 +1105,7 @@
                 "guestLink": "\/football\/team\/389\/الهلال",
                 "hostId": 392,
                 "guestId": 389,
-                "status": 0,
+                "status": 1,
                 "statusDescription": null,
                 "statusTitle": "",
                 "isLive": false,
@@ -1123,7 +1123,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "2",
-                "liveTime": "",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/26\/C\/2mkgbtwz.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400036.png",
                 "hasPenalty": false,
@@ -1158,13 +1158,13 @@
                 "guestLink": "\/football\/team\/528\/ترابزون-اسپور",
                 "hostId": 902726,
                 "guestId": 528,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "18:00",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/61941\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DA%AF%D9%86%DA%86%D9%84%D8%B1%D8%A8%DB%8C%D8%B1%D9%84%DB%8C-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B2%D9%88%D9%86-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399886\/بازی-گنچلربیرلی-ترابزون-اسپور",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399886",
