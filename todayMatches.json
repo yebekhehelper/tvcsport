@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707363629,
+    "timeStamp": 1707364080,
     "todayMatches": {
         "leagues": [
             {
@@ -231,7 +231,6 @@
                     {
                         "date": "1402\/11\/19",
                         "matchIds": [
-                            "football-399883",
                             "football-399888"
                         ]
                     }
@@ -2547,59 +2546,6 @@
                 "hostGoals": "",
                 "guestGoals": "",
                 "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/23\/B\/aywxjtpu.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/19\/C\/3sjjngr0.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 19 بهمن 1402",
-                "scheduledStartTime": "04:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": null,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 399883,
-                "title": null,
-                "sportId": "football-399883",
-                "hostName": "گوادالاخارا",
-                "hostLink": null,
-                "guestName": "هیوستون دینامو",
-                "guestLink": null,
-                "hostId": 902633,
-                "guestId": 901132,
-                "status": 1,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "04:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/399883\/بازی-گوادالاخارا-هیوستون-دینامو",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399883",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-08T01:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/09\/18\/B\/0ya2zrcm.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/24\/C\/xs4k5vfs.png",
                 "hasPenalty": false,
@@ -3265,13 +3211,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "19",
-                "guestPoint": "36",
+                "hostPoint": "26",
+                "guestPoint": "38",
                 "quarterPoints1": {
                     "host": 19,
                     "guest": 36
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 7,
+                    "guest": 2
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -3305,13 +3254,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "36",
-                "guestPoint": "31",
+                "hostPoint": "43",
+                "guestPoint": "38",
                 "quarterPoints1": {
                     "host": 36,
                     "guest": 31
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 7,
+                    "guest": 7
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
