@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707402632,
+    "timeStamp": 1707403078,
     "todayMatches": {
         "leagues": [
             {
@@ -534,9 +534,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
-                "guestGoals": "1",
-                "liveTime": "",
+                "hostGoals": "1 (4)",
+                "guestGoals": "1 (5)",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150464.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/27\/C\/ci0x2qph.png",
                 "hasPenalty": false,
@@ -545,7 +545,10 @@
                 "predictionLink": null,
                 "predictionUrl": null,
                 "round": null,
-                "penaltyGoals": null,
+                "penaltyGoals": {
+                    "host": 4,
+                    "guest": 5
+                },
                 "matchGoals": {
                     "host": 1,
                     "guest": 1
@@ -571,13 +574,13 @@
                 "guestLink": "\/football\/team\/902864\/استقلال-آبی-پوش-ملاثانی",
                 "hostId": 21,
                 "guestId": 902864,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "پنالتی",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "15:00",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/61946\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B5%D9%86%D8%B9%D8%AA-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D9%85%D9%84%D8%A7%D8%AB%D8%A7%D9%86%DB%8C?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399572\/بازی-صنعت-نفت-آبادان-استقلال-آبی-پوش-ملاثانی",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399572",
@@ -589,7 +592,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150470.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/09\/10\/B\/hpl2gli5.png",
                 "hasPenalty": false,
@@ -624,13 +627,13 @@
                 "guestLink": "\/football\/team\/903039\/چادرملو-اردکان",
                 "hostId": 9,
                 "guestId": 903039,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "16:00",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/61947\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%DA%86%D8%A7%D8%AF%D8%B1%D9%85%D9%84%D9%88-%D8%A7%D8%B1%D8%AF%DA%A9%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399562\/بازی-فولاد-چادرملو-اردکان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399562",
