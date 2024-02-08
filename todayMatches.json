@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707409620,
+    "timeStamp": 1707410167,
     "todayMatches": {
         "leagues": [
             {
@@ -1122,8 +1122,8 @@
             {
                 "sport": 1,
                 "hostGoals": "1",
-                "guestGoals": "0",
-                "liveTime": "90+",
+                "guestGoals": "1",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/26\/C\/2mkgbtwz.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400036.png",
                 "hasPenalty": false,
@@ -1135,7 +1135,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 1,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
