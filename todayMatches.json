@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707410615,
+    "timeStamp": 1707411060,
     "todayMatches": {
         "leagues": [
             {
@@ -1211,7 +1211,7 @@
                 "guestLink": "\/football\/team\/427\/بشیکتاش",
                 "hostId": 902489,
                 "guestId": 427,
-                "status": 0,
+                "status": 1,
                 "statusDescription": null,
                 "statusTitle": "",
                 "isLive": false,
