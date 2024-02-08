@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707360759,
+    "timeStamp": 1707361203,
     "todayMatches": {
         "leagues": [
             {
@@ -3069,8 +3069,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "96",
-                "guestPoint": "121",
+                "hostPoint": "104",
+                "guestPoint": "127",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 15
@@ -3084,8 +3084,8 @@
                     "guest": 43
                 },
                 "quarterPoints4": {
-                    "host": 28,
-                    "guest": 30
+                    "host": 36,
+                    "guest": 36
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3101,13 +3101,13 @@
                 "guestLink": null,
                 "hostId": 902805,
                 "guestId": 902409,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/61950\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%81%DB%8C%D9%84%D8%A7%D8%AF%D9%84%D9%81%DB%8C%D8%A7-%D8%B3%D9%88%D9%86%D8%AA%DB%8C-%D8%B3%DB%8C%DA%A9%D8%B3%D8%B1%D8%B2-%DA%AF%D9%84%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D8%AA-%D9%88%D8%A7%D8%B1%DB%8C%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107220\/بازی-فیلادلفیا-گلدن-استیت-واریرز",
@@ -3216,8 +3216,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "114",
-                "guestPoint": "103",
+                "hostPoint": "116",
+                "guestPoint": "104",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 31
@@ -3231,8 +3231,8 @@
                     "guest": 26
                 },
                 "quarterPoints4": {
-                    "host": 36,
-                    "guest": 26
+                    "host": 38,
+                    "guest": 27
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3248,10 +3248,10 @@
                 "guestLink": null,
                 "hostId": 902800,
                 "guestId": 902791,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
