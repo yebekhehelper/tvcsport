@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707425005,
+    "timeStamp": 1707425471,
     "todayMatches": {
         "leagues": [
             {
@@ -1950,16 +1950,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "6",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/tqqynmtg.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/B\/pewcbaah.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 20 بهمن 1402",
                 "scheduledStartTime": "00:15",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/399747",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/399747",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -1987,10 +1987,10 @@
                 "guestLink": "\/football\/team\/284\/بنفیکا",
                 "hostId": 902941,
                 "guestId": 284,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "00:15",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/61954\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%88%DB%8C%D8%B2%D9%84%D8%A7-%D8%A8%D9%86%D9%81%DB%8C%DA%A9%D8%A7?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
