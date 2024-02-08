@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707403959,
+    "timeStamp": 1707404412,
     "todayMatches": {
         "leagues": [
             {
@@ -1121,9 +1121,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "1",
+                "guestGoals": "0",
+                "liveTime": "29",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/26\/C\/2mkgbtwz.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400036.png",
                 "hasPenalty": false,
@@ -1134,7 +1134,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -1158,17 +1158,17 @@
                 "guestLink": "\/football\/team\/528\/ترابزون-اسپور",
                 "hostId": 902726,
                 "guestId": 528,
-                "status": 0,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "18:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/61941\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DA%AF%D9%86%DA%86%D9%84%D8%B1%D8%A8%DB%8C%D8%B1%D9%84%DB%8C-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B2%D9%88%D9%86-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399886\/بازی-گنچلربیرلی-ترابزون-اسپور",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399886",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399886\/events",
                 "scheduledStartOn": "2024-02-08T14:30:00Z",
                 "stadium": null
             },
