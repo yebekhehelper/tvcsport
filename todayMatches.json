@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707490433,
+    "timeStamp": 1707491059,
     "todayMatches": {
         "leagues": [
             {
@@ -841,7 +841,7 @@
             },
             {
                 "sport": 2,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "0",
                 "hostLogo": null,
                 "guestLogo": null,
@@ -1389,7 +1389,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "61",
+                "liveTime": "71",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/sdk3yrp2.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/15\/C\/blttxejm.png",
                 "hasPenalty": false,
@@ -1477,7 +1477,7 @@
                 "guestLink": "\/football\/team\/394\/الوحده-امارات",
                 "hostId": 901098,
                 "guestId": 394,
-                "status": 0,
+                "status": 1,
                 "statusDescription": null,
                 "statusTitle": "",
                 "isLive": false,
@@ -1629,8 +1629,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "11",
-                "guestGoals": "11",
+                "hostGoals": "16",
+                "guestGoals": "14",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -2326,7 +2326,7 @@
                 "guestLink": null,
                 "hostId": 903438,
                 "guestId": 903441,
-                "status": 0,
+                "status": 1,
                 "statusDescription": null,
                 "statusTitle": "",
                 "isLive": false,
