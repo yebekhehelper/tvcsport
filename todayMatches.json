@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707456198,
+    "timeStamp": 1707456641,
     "todayMatches": {
         "leagues": [
             {
@@ -3014,8 +3014,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "113",
-                "guestPoint": "105",
+                "hostPoint": "118",
+                "guestPoint": "116",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 25
@@ -3029,8 +3029,8 @@
                     "guest": 28
                 },
                 "quarterPoints4": {
-                    "host": 16,
-                    "guest": 21
+                    "host": 21,
+                    "guest": 32
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3063,8 +3063,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "101",
-                "guestPoint": "102",
+                "hostPoint": "106",
+                "guestPoint": "114",
                 "quarterPoints1": {
                     "host": 23,
                     "guest": 29
@@ -3078,8 +3078,8 @@
                     "guest": 24
                 },
                 "quarterPoints4": {
-                    "host": 22,
-                    "guest": 19
+                    "host": 27,
+                    "guest": 31
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3095,13 +3095,13 @@
                 "guestLink": null,
                 "hostId": 902784,
                 "guestId": 902781,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/61974\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2-%D8%AF%D9%86%D9%88%D8%B1-%D9%86%D8%A7%DA%AF%D8%AA%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107651\/بازی-لس-آنجلس-لیکرز-دنور-ناگتس",
