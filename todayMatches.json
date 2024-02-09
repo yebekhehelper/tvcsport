@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707493718,
+    "timeStamp": 1707494140,
     "todayMatches": {
         "leagues": [
             {
@@ -842,7 +842,7 @@
             {
                 "sport": 2,
                 "hostGoals": "2",
-                "guestGoals": "1",
+                "guestGoals": "2",
                 "hostLogo": null,
                 "guestLogo": null,
                 "scheduledStartOn": "2024-02-09T14:30:00Z",
