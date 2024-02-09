@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707515864,
+    "timeStamp": 1707516748,
     "todayMatches": {
         "leagues": [
             {
@@ -2593,7 +2593,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "0",
-                "liveTime": "75",
+                "liveTime": "89",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/0vezlc3g.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01632648.png",
                 "hasPenalty": false,
@@ -3372,7 +3372,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01378911.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167865.png",
                 "hasPenalty": false,
@@ -3399,10 +3399,10 @@
                 "guestLink": "\/football\/team\/91\/بیرمنگام",
                 "hostId": 412,
                 "guestId": 91,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
