@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707455343,
+    "timeStamp": 1707456198,
     "todayMatches": {
         "leagues": [
             {
@@ -2857,7 +2857,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324221\/خلاصه-بسکتبال-نیویورک-نیکس-دالاس-ماوریکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107226\/بازی-نیویورک-نیکس-دالاس-ماوریکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107226",
@@ -3014,8 +3014,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "110",
-                "guestPoint": "96",
+                "hostPoint": "113",
+                "guestPoint": "105",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 25
@@ -3029,8 +3029,8 @@
                     "guest": 28
                 },
                 "quarterPoints4": {
-                    "host": 13,
-                    "guest": 12
+                    "host": 16,
+                    "guest": 21
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3063,8 +3063,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "94",
-                "guestPoint": "97",
+                "hostPoint": "101",
+                "guestPoint": "102",
                 "quarterPoints1": {
                     "host": 23,
                     "guest": 29
@@ -3078,8 +3078,8 @@
                     "guest": 24
                 },
                 "quarterPoints4": {
-                    "host": 15,
-                    "guest": 14
+                    "host": 22,
+                    "guest": 19
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
