@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707498749,
+    "timeStamp": 1707499465,
     "todayMatches": {
         "leagues": [
             {
@@ -1336,7 +1336,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "12",
+                "liveTime": "24",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/aic4mhyt.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/xraam3ey.png",
                 "hasPenalty": false,
@@ -1442,7 +1442,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "52",
+                "liveTime": "64",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/vlvneinj.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01592466.png",
                 "hasPenalty": false,
@@ -1663,8 +1663,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "14",
-                "guestGoals": "9",
+                "hostGoals": "29",
+                "guestGoals": "22",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1680,13 +1680,13 @@
                 "guestLink": null,
                 "hostId": 22,
                 "guestId": 26,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "18:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/handball\/62129\/%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%D8%A7%D8%B1%D8%A7%DA%A9-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%D9%87%D9%88%D8%A7%D9%86%DB%8C%D8%B1%D9%88%D8%B2-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/handball\/match\/41\/بازی-آلومینیوم-اراک-پرواز-هوانیروز",
@@ -2289,9 +2289,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "59",
+                "liveTime": "71",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/12\/C\/2q2ufwe5.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/12\/C\/g0fphcls.png",
                 "hasPenalty": false,
@@ -2302,7 +2302,7 @@
                 "round": 22,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
