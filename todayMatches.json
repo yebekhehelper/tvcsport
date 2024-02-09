@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707447205,
+    "timeStamp": 1707447714,
     "todayMatches": {
         "leagues": [
             {
@@ -2818,8 +2818,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "105",
-                "guestPoint": "115",
+                "hostPoint": "108",
+                "guestPoint": "122",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 28
@@ -2833,8 +2833,8 @@
                     "guest": 28
                 },
                 "quarterPoints4": {
-                    "host": 34,
-                    "guest": 28
+                    "host": 37,
+                    "guest": 35
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2850,13 +2850,13 @@
                 "guestLink": null,
                 "hostId": 902803,
                 "guestId": 902780,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/61973\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9-%D9%86%DB%8C%DA%A9%D8%B3-%D8%AF%D8%A7%D9%84%D8%A7%D8%B3-%D9%85%D8%A7%D9%88%D8%B1%DB%8C%DA%A9%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107226\/بازی-نیویورک-نیکس-دالاس-ماوریکس",
@@ -2867,8 +2867,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "93",
-                "guestPoint": "92",
+                "hostPoint": "95",
+                "guestPoint": "97",
                 "quarterPoints1": {
                     "host": 31,
                     "guest": 27
@@ -2882,8 +2882,8 @@
                     "guest": 28
                 },
                 "quarterPoints4": {
-                    "host": 12,
-                    "guest": 12
+                    "host": 14,
+                    "guest": 17
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2962,15 +2962,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "57",
-                "guestPoint": "41",
+                "hostPoint": "69",
+                "guestPoint": "54",
                 "quarterPoints1": {
                     "host": 40,
                     "guest": 28
                 },
                 "quarterPoints2": {
-                    "host": 17,
-                    "guest": 13
+                    "host": 29,
+                    "guest": 26
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
