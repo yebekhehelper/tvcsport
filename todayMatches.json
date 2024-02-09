@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707491059,
+    "timeStamp": 1707491910,
     "todayMatches": {
         "leagues": [
             {
@@ -859,7 +859,7 @@
                 "guestId": 516,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "نیمه اول",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "18:00",
                 "hasEvents": false,
@@ -1389,7 +1389,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "71",
+                "liveTime": "85",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/sdk3yrp2.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/15\/C\/blttxejm.png",
                 "hasPenalty": false,
@@ -1629,8 +1629,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "16",
-                "guestGoals": "14",
+                "hostGoals": "19",
+                "guestGoals": "18",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1663,8 +1663,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "",
-                "guestGoals": "",
+                "hostGoals": "0",
+                "guestGoals": "0",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1680,10 +1680,10 @@
                 "guestLink": null,
                 "hostId": 22,
                 "guestId": 26,
-                "status": 0,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "18:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/handball\/62129\/%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%D8%A7%D8%B1%D8%A7%DA%A9-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%D9%87%D9%88%D8%A7%D9%86%DB%8C%D8%B1%D9%88%D8%B2-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
