@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707571856,
+    "timeStamp": 1707572298,
     "todayMatches": {
         "leagues": [
             {
@@ -396,7 +396,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "47",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/p5sr0j2v.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/jwri2dhp.png",
                 "hasPenalty": false,
@@ -433,7 +433,7 @@
                 "guestId": 93,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "16:00",
                 "hasEvents": false,
@@ -767,7 +767,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "30",
+                "liveTime": "37",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01201577.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150333.png",
                 "hasPenalty": false,
@@ -2131,9 +2131,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "47",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168047.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167985.png",
                 "hasPenalty": false,
@@ -2144,7 +2144,7 @@
                 "round": 31,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 1
                 },
                 "videoId": null,
@@ -2162,7 +2162,7 @@
                 "guestId": 275,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "16:00",
                 "hasEvents": true,
@@ -2623,7 +2623,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "32",
+                "liveTime": "39",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01527022.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/29\/C\/uq3yw4q0.png",
                 "hasPenalty": false,
