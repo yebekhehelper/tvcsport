@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707552715,
+    "timeStamp": 1707553433,
     "todayMatches": {
         "leagues": [
             {
@@ -2865,7 +2865,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324327\/خلاصه-بسکتبال-بوستون-سلتیکس-واشینگتن-ویزاردز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106872\/بازی-بوستون-سلتیکس-واشینگتن-ویزاردز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106872",
