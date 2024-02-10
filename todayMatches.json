@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707547338,
+    "timeStamp": 1707547793,
     "todayMatches": {
         "leagues": [
             {
@@ -4556,7 +4556,7 @@
                 "time": "04:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324324\/خلاصه-بسکتبال-میلواکی-باکس-شارلوت-هورنتس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107652\/بازی-میلواکی-باکس-شارلوت-هورنتس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107652",
