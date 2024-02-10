@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707541667,
+    "timeStamp": 1707542515,
     "todayMatches": {
         "leagues": [
             {
@@ -4566,8 +4566,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "118",
-                "guestPoint": "91",
+                "hostPoint": "135",
+                "guestPoint": "106",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 35
@@ -4581,8 +4581,8 @@
                     "guest": 29
                 },
                 "quarterPoints4": {
-                    "host": 12,
-                    "guest": 5
+                    "host": 29,
+                    "guest": 20
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4598,13 +4598,13 @@
                 "guestLink": null,
                 "hostId": 902790,
                 "guestId": 902781,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62026\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%DA%A9%D8%B1%D8%A7%D9%85%D9%86%D8%AA%D9%88-%DA%A9%DB%8C%D9%86%DA%AF%D8%B2-%D8%AF%D9%86%D9%88%D8%B1-%D9%86%D8%A7%DA%AF%D8%AA%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106732\/بازی-ساکرامنتو-کینگز-دنور-ناگتس",
@@ -4615,8 +4615,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "96",
-                "guestPoint": "90",
+                "hostPoint": "105",
+                "guestPoint": "100",
                 "quarterPoints1": {
                     "host": 36,
                     "guest": 39
@@ -4626,8 +4626,8 @@
                     "guest": 35
                 },
                 "quarterPoints3": {
-                    "host": 9,
-                    "guest": 16
+                    "host": 18,
+                    "guest": 26
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
