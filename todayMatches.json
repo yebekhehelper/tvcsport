@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707534925,
+    "timeStamp": 1707535443,
     "todayMatches": {
         "leagues": [
             {
@@ -4518,7 +4518,7 @@
             {
                 "sport": 4,
                 "hostPoint": "120",
-                "guestPoint": "83",
+                "guestPoint": "84",
                 "quarterPoints1": {
                     "host": 31,
                     "guest": 17
@@ -4533,7 +4533,7 @@
                 },
                 "quarterPoints4": {
                     "host": 21,
-                    "guest": 20
+                    "guest": 21
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4549,10 +4549,10 @@
                 "guestLink": null,
                 "hostId": 902801,
                 "guestId": 902796,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -4566,11 +4566,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "7",
-                "guestPoint": "10",
+                "hostPoint": "18",
+                "guestPoint": "21",
                 "quarterPoints1": {
-                    "host": 7,
-                    "guest": 10
+                    "host": 18,
+                    "guest": 21
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
