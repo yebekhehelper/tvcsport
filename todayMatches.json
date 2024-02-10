@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707598188,
+    "timeStamp": 1707598645,
     "todayMatches": {
         "leagues": [
             {
@@ -1962,7 +1962,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "46",
+                "liveTime": "54",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169027.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168657.png",
                 "hasPenalty": false,
@@ -2916,7 +2916,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "19",
+                "liveTime": "26",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01621269.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633908.png",
                 "hasPenalty": false,
@@ -3120,7 +3120,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "90",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/e5ybs4iy.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150064.png",
                 "hasPenalty": false,
@@ -3155,10 +3155,10 @@
                 "guestLink": "\/football\/team\/164\/آلکمار",
                 "hostId": 902139,
                 "guestId": 164,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "22:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -3679,7 +3679,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "52",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/10\/26\/C\/coffk2gc.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/B\/ipnl3lkk.png",
                 "hasPenalty": false,
@@ -3716,7 +3716,7 @@
                 "guestId": 902724,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "23:15",
                 "hasEvents": true,
@@ -4788,14 +4788,14 @@
             {
                 "sport": 4,
                 "hostPoint": "56",
-                "guestPoint": "37",
+                "guestPoint": "49",
                 "quarterPoints1": {
                     "host": 47,
                     "guest": 30
                 },
                 "quarterPoints2": {
                     "host": 9,
-                    "guest": 7
+                    "guest": 19
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4830,11 +4830,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "12",
-                "guestPoint": "6",
+                "hostPoint": "19",
+                "guestPoint": "19",
                 "quarterPoints1": {
-                    "host": 12,
-                    "guest": 6
+                    "host": 19,
+                    "guest": 19
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
@@ -5437,8 +5437,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "2",
-                "liveTime": "63",
+                "guestGoals": "3",
+                "liveTime": "70",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01440159.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01440168.png",
                 "hasPenalty": false,
@@ -5450,7 +5450,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 2
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": null,
