@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707540924,
+    "timeStamp": 1707541667,
     "todayMatches": {
         "leagues": [
             {
@@ -4409,7 +4409,7 @@
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324316\/خلاصه-بسکتبال-فیلادلفیا-آتلانتا-هاوکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106871\/بازی-فیلادلفیا-آتلانتا-هاوکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106871",
@@ -4566,8 +4566,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "106",
-                "guestPoint": "86",
+                "hostPoint": "118",
+                "guestPoint": "91",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 35
@@ -4580,7 +4580,10 @@
                     "host": 39,
                     "guest": 29
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 12,
+                    "guest": 5
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -4612,8 +4615,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "87",
-                "guestPoint": "74",
+                "hostPoint": "96",
+                "guestPoint": "90",
                 "quarterPoints1": {
                     "host": 36,
                     "guest": 39
@@ -4622,7 +4625,10 @@
                     "host": 51,
                     "guest": 35
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 9,
+                    "guest": 16
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
