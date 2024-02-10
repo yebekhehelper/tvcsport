@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707539598,
+    "timeStamp": 1707540031,
     "todayMatches": {
         "leagues": [
             {
@@ -4409,7 +4409,7 @@
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/324316\/خلاصه-بسکتبال-فیلادلفیا-آتلانتا-هاوکس",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106871\/بازی-فیلادلفیا-آتلانتا-هاوکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106871",
@@ -4566,8 +4566,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "81",
-                "guestPoint": "66",
+                "hostPoint": "87",
+                "guestPoint": "70",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 35
@@ -4577,8 +4577,8 @@
                     "guest": 22
                 },
                 "quarterPoints3": {
-                    "host": 14,
-                    "guest": 9
+                    "host": 20,
+                    "guest": 13
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -4612,15 +4612,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "72",
-                "guestPoint": "63",
+                "hostPoint": "87",
+                "guestPoint": "74",
                 "quarterPoints1": {
                     "host": 36,
                     "guest": 39
                 },
                 "quarterPoints2": {
-                    "host": 36,
-                    "guest": 24
+                    "host": 51,
+                    "guest": 35
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
