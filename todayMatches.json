@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707603743,
+    "timeStamp": 1707604171,
     "todayMatches": {
         "leagues": [
             {
@@ -2919,7 +2919,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01621269.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633908.png",
                 "hasPenalty": false,
@@ -2950,10 +2950,10 @@
                 "guestLink": "\/football\/team\/901009\/استوریل",
                 "hostId": 902731,
                 "guestId": 901009,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "00:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -4790,8 +4790,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "139",
-                "guestPoint": "105",
+                "hostPoint": "146",
+                "guestPoint": "111",
                 "quarterPoints1": {
                     "host": 47,
                     "guest": 30
@@ -4805,8 +4805,8 @@
                     "guest": 27
                 },
                 "quarterPoints4": {
-                    "host": 29,
-                    "guest": 16
+                    "host": 36,
+                    "guest": 22
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4822,13 +4822,13 @@
                 "guestLink": null,
                 "hostId": 902780,
                 "guestId": 902793,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62027\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%AF%D8%A7%D9%84%D8%A7%D8%B3-%D9%85%D8%A7%D9%88%D8%B1%DB%8C%DA%A9%D8%B3-%D8%A7%D9%88%DA%A9%D9%84%D8%A7%D9%87%D8%A7%D9%85%D8%A7-%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AA%D8%A7%D9%86%D8%AF%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106730\/بازی-دالاس-ماوریکس-اوکلاهاما-سیتی-تاندر",
@@ -4839,8 +4839,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "88",
-                "guestPoint": "88",
+                "hostPoint": "96",
+                "guestPoint": "92",
                 "quarterPoints1": {
                     "host": 31,
                     "guest": 30
@@ -4854,8 +4854,8 @@
                     "guest": 23
                 },
                 "quarterPoints4": {
-                    "host": 12,
-                    "guest": 7
+                    "host": 20,
+                    "guest": 11
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
