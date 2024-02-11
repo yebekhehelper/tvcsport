@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707688455,
+    "timeStamp": 1707689116,
     "todayMatches": {
         "leagues": [
             {
@@ -679,7 +679,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "3",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/03\/C\/ugnf0f0l.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/26\/B\/hba5mnwl.png",
                 "hasPenalty": false,
@@ -714,13 +714,13 @@
                 "guestLink": "\/football\/team\/482\/گرانادا",
                 "hostId": 101,
                 "guestId": 482,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62039\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%D8%B3%D9%84%D9%88%D9%86%D8%A7-%DA%AF%D8%B1%D8%A7%D9%86%D8%A7%D8%AF%D8%A7?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/385843\/بازی-بارسلونا-گرانادا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385843",
@@ -1527,7 +1527,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "2",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/qi5e3eom.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/13lcdumm.png",
                 "hasPenalty": false,
@@ -1562,13 +1562,13 @@
                 "guestLink": "\/football\/team\/626\/ساحل-عاج",
                 "hostId": 343,
                 "guestId": 626,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62015\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%86%DB%8C%D8%AC%D8%B1%DB%8C%D9%87-%D8%B3%D8%A7%D8%AD%D9%84-%D8%B9%D8%A7%D8%AC?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399894\/بازی-نیجریه-ساحل-عاج",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399894",
@@ -1686,7 +1686,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "61",
+                "liveTime": "72",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/mahpaeke.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/B\/pewcbaah.png",
                 "hasPenalty": false,
@@ -2920,8 +2920,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "100",
-                "guestPoint": "83",
+                "hostPoint": "108",
+                "guestPoint": "100",
                 "quarterPoints1": {
                     "host": 29,
                     "guest": 27
@@ -2934,7 +2934,10 @@
                     "host": 33,
                     "guest": 26
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 8,
+                    "guest": 17
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
