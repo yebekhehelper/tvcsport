@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707689116,
+    "timeStamp": 1707690011,
     "todayMatches": {
         "leagues": [
             {
@@ -693,7 +693,7 @@
                     "host": 3,
                     "guest": 3
                 },
-                "videoId": null,
+                "videoId": 324427,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#ff0000",
@@ -721,7 +721,7 @@
                 "time": "23:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324427\/خلاصه-بازی-بارسلونا-3-گرانادا-3-گزارش-اختصاصی",
                 "matchPageLink": "\/football\/match\/385843\/بازی-بارسلونا-گرانادا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385843",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385843\/events",
@@ -1011,7 +1011,7 @@
                     "host": 0,
                     "guest": 0
                 },
-                "videoId": null,
+                "videoId": 324407,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#ddcb00",
@@ -1039,7 +1039,7 @@
                 "time": "17:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324407\/خلاصه-بازی-مونزا-0-هلاس-ورونا-0",
                 "matchPageLink": "\/football\/match\/386568\/بازی-مونزا-هلاس-ورونا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386568",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386568\/events",
@@ -1541,7 +1541,7 @@
                     "host": 1,
                     "guest": 2
                 },
-                "videoId": null,
+                "videoId": 324425,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#383838",
@@ -1569,7 +1569,7 @@
                 "time": "23:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324425\/خلاصه-بازی-نیجریه-1-ساحل-عاج-2",
                 "matchPageLink": "\/football\/match\/399894\/بازی-نیجریه-ساحل-عاج",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399894",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399894\/events",
@@ -1686,7 +1686,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "72",
+                "liveTime": "87",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/mahpaeke.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/B\/pewcbaah.png",
                 "hasPenalty": false,
@@ -2920,8 +2920,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "108",
-                "guestPoint": "100",
+                "hostPoint": "125",
+                "guestPoint": "113",
                 "quarterPoints1": {
                     "host": 29,
                     "guest": 27
@@ -2935,8 +2935,8 @@
                     "guest": 26
                 },
                 "quarterPoints4": {
-                    "host": 8,
-                    "guest": 17
+                    "host": 25,
+                    "guest": 30
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
