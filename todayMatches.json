@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707626627,
+    "timeStamp": 1707627079,
     "todayMatches": {
         "leagues": [
             {
@@ -5283,8 +5283,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "60",
-                "guestPoint": "62",
+                "hostPoint": "63",
+                "guestPoint": "64",
                 "quarterPoints1": {
                     "host": 24,
                     "guest": 29
@@ -5294,8 +5294,8 @@
                     "guest": 18
                 },
                 "quarterPoints3": {
-                    "host": 20,
-                    "guest": 15
+                    "host": 23,
+                    "guest": 17
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
