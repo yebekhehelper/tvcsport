@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707648739,
+    "timeStamp": 1707649170,
     "todayMatches": {
         "leagues": [
             {
@@ -2151,7 +2151,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "22",
+                "liveTime": "30",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/r5kg0tri.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633903.png",
                 "hasPenalty": false,
@@ -2840,7 +2840,7 @@
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324400\/خلاصه-بسکتبال-پورتلند-تریل-بلیزرز-نیو-اورلینز-پلیکانز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106877\/بازی-پورتلند-تریل-بلیزرز-نیو-اورلینز-پلیکانز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106877",
