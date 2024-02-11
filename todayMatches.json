@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707690011,
+    "timeStamp": 1707690459,
     "todayMatches": {
         "leagues": [
             {
@@ -1064,7 +1064,7 @@
                     "host": 1,
                     "guest": 4
                 },
-                "videoId": null,
+                "videoId": 324429,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#043fc8",
@@ -1092,7 +1092,7 @@
                 "time": "20:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324429\/خلاصه-بازی-جنوا-1-آتالانتا-4",
                 "matchPageLink": "\/football\/match\/386566\/بازی-جنوا-آتالانتا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386566",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386566\/events",
@@ -1685,8 +1685,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "1",
-                "liveTime": "87",
+                "guestGoals": "2",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/mahpaeke.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/B\/pewcbaah.png",
                 "hasPenalty": false,
@@ -1698,7 +1698,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -2920,7 +2920,7 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "125",
+                "hostPoint": "127",
                 "guestPoint": "113",
                 "quarterPoints1": {
                     "host": 29,
@@ -2935,7 +2935,7 @@
                     "guest": 26
                 },
                 "quarterPoints4": {
-                    "host": 25,
+                    "host": 27,
                     "guest": 30
                 },
                 "overtimePoints": null,
@@ -2952,13 +2952,13 @@
                 "guestLink": null,
                 "hostId": 902793,
                 "guestId": 902790,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62059\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%88%DA%A9%D9%84%D8%A7%D9%87%D8%A7%D9%85%D8%A7-%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AA%D8%A7%D9%86%D8%AF%D8%B1-%D8%B3%D8%A7%DA%A9%D8%B1%D8%A7%D9%85%D9%86%D8%AA%D9%88-%DA%A9%DB%8C%D9%86%DA%AF%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106878\/بازی-اوکلاهاما-سیتی-تاندر-ساکرامنتو-کینگز",
