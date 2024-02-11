@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707628365,
+    "timeStamp": 1707629081,
     "todayMatches": {
         "leagues": [
             {
@@ -1022,7 +1022,7 @@
                     "host": 1,
                     "guest": 1
                 },
-                "videoId": null,
+                "videoId": 324386,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#f2ff00",
@@ -1050,7 +1050,7 @@
                 "time": "16:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324386\/خلاصه-بازی-آلاوس-1-ویارئال-1",
                 "matchPageLink": "\/football\/match\/385841\/بازی-آلاوس-ویارئال",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385841",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385841\/events",
@@ -5273,7 +5273,7 @@
                 "time": "05:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/324387\/خلاصه-بسکتبال-گلدن-استیت-فینیکس-سانز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107236\/بازی-گلدن-استیت-واریرز-فینیکس-سانز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107236",
@@ -5283,8 +5283,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "78",
-                "guestPoint": "86",
+                "hostPoint": "84",
+                "guestPoint": "93",
                 "quarterPoints1": {
                     "host": 24,
                     "guest": 29
@@ -5298,8 +5298,8 @@
                     "guest": 17
                 },
                 "quarterPoints4": {
-                    "host": 15,
-                    "guest": 22
+                    "host": 21,
+                    "guest": 29
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -5315,10 +5315,10 @@
                 "guestLink": null,
                 "hostId": 902789,
                 "guestId": 902787,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
