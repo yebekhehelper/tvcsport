@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707759654,
+    "timeStamp": 1707760097,
     "todayMatches": {
         "leagues": [
             {
@@ -508,7 +508,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "41",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/xxgyfzsh.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01438837.png",
                 "hasPenalty": false,
@@ -545,15 +545,15 @@
                 "guestId": 427,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "20:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62068\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DA%A9%D8%A7%DB%8C%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1-%D8%A8%D8%B4%DB%8C%DA%A9%D8%AA%D8%A7%D8%B4?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/395185\/بازی-کایسری-اسپور-بشیکتاش",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395185",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395185\/events",
                 "scheduledStartOn": "2024-02-12T17:00:00Z",
                 "stadium": null
             },
@@ -561,7 +561,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "41",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/29\/C\/fokfemom.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/w3c2vtd4.png",
                 "hasPenalty": false,
@@ -598,7 +598,7 @@
                 "guestId": 902489,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "20:30",
                 "hasEvents": true,
