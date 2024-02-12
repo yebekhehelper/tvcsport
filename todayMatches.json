@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707766988,
+    "timeStamp": 1707767415,
     "todayMatches": {
         "leagues": [
             {
@@ -245,16 +245,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "5",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/26\/B\/5s34qk4i.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/04\/16\/B\/4s0wd2vq.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 23 بهمن 1402",
                 "scheduledStartTime": "23:15",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/386567",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/386567",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 24,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -282,10 +282,10 @@
                 "guestLink": "\/football\/team\/72\/اودینزه",
                 "hostId": 62,
                 "guestId": 72,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "23:15",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62066\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DB%8C%D9%88%D9%88%D9%86%D8%AA%D9%88%D8%B3-%D8%A7%D9%88%D8%AF%DB%8C%D9%86%D8%B2%D9%87-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
