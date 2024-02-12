@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707763662,
+    "timeStamp": 1707764096,
     "todayMatches": {
         "leagues": [
             {
@@ -508,7 +508,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "90",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/xxgyfzsh.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01438837.png",
                 "hasPenalty": false,
@@ -543,13 +543,13 @@
                 "guestLink": "\/football\/team\/427\/بشیکتاش",
                 "hostId": 902622,
                 "guestId": 427,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "20:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62068\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DA%A9%D8%A7%DB%8C%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1-%D8%A8%D8%B4%DB%8C%DA%A9%D8%AA%D8%A7%D8%B4?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/395185\/بازی-کایسری-اسپور-بشیکتاش",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395185",
@@ -559,9 +559,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "88",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/29\/C\/fokfemom.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/w3c2vtd4.png",
                 "hasPenalty": false,
@@ -572,7 +572,7 @@
                 "round": 25,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 0
                 },
                 "videoId": null,
