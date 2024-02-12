@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707775888,
+    "timeStamp": 1707776765,
     "todayMatches": {
         "leagues": [
             {
@@ -544,7 +544,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "2",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/28\/C\/0pzmubft.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/05\/01\/B\/pksgd114.png",
                 "hasPenalty": false,
@@ -579,13 +579,13 @@
                 "guestLink": "\/football\/team\/403\/پورتو",
                 "hostId": 902940,
                 "guestId": 403,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:45",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62067\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A2%D8%B1%D9%88%DA%A9%D8%A7-%D9%BE%D9%88%D8%B1%D8%AA%D9%88?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/390987\/بازی-اروکا-پورتو",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/390987",
