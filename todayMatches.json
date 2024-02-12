@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707767858,
+    "timeStamp": 1707768766,
     "todayMatches": {
         "leagues": [
             {
@@ -139,16 +139,16 @@
         "matches": [
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "13",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/jjlclofj.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/0cuop3h2.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 23 بهمن 1402",
                 "scheduledStartTime": "23:30",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/356277",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/356277",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 24,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -176,10 +176,10 @@
                 "guestLink": "\/football\/team\/81\/چلسی",
                 "hostId": 900872,
                 "guestId": 81,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "23:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62064\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DA%A9%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7%D9%84-%D9%BE%D8%A7%D9%84%D8%A7%D8%B3-%DA%86%D9%84%D8%B3%DB%8C-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -192,16 +192,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "13",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/06\/24\/B\/opmbz3bz.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/03\/C\/oq3u2pni.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 23 بهمن 1402",
                 "scheduledStartTime": "23:30",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/385842",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/385842",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 24,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -229,10 +229,10 @@
                 "guestLink": "\/football\/team\/104\/اتلتیک-بیلبائو",
                 "hostId": 107,
                 "guestId": 104,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "23:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -246,8 +246,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "13",
+                "guestGoals": "1",
+                "liveTime": "28",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/26\/B\/5s34qk4i.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/04\/16\/B\/4s0wd2vq.png",
                 "hasPenalty": false,
@@ -259,7 +259,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
