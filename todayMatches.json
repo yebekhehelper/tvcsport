@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707764096,
+    "timeStamp": 1707764911,
     "todayMatches": {
         "leagues": [
             {
@@ -561,7 +561,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/29\/C\/fokfemom.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/w3c2vtd4.png",
                 "hasPenalty": false,
@@ -596,10 +596,10 @@
                 "guestLink": null,
                 "hostId": 903347,
                 "guestId": 902489,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "20:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
