@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707757991,
+    "timeStamp": 1707758749,
     "todayMatches": {
         "leagues": [
             {
@@ -508,7 +508,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "13",
+                "liveTime": "26",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/xxgyfzsh.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01438837.png",
                 "hasPenalty": false,
@@ -561,7 +561,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "13",
+                "liveTime": "26",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/29\/C\/fokfemom.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/w3c2vtd4.png",
                 "hasPenalty": false,
@@ -601,12 +601,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "20:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/395187\/بازی-سامسون-اسپور-آنتالیااسپور",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395187",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395187\/events",
                 "scheduledStartOn": "2024-02-12T17:00:00Z",
                 "stadium": null
             },
