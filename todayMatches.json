@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707725625,
+    "timeStamp": 1707726447,
     "todayMatches": {
         "leagues": [
             {
@@ -163,7 +163,7 @@
                     "fontColor": "#FFFFFF"
                 },
                 "hostStyle": {
-                    "backgroundColor": "#002aff",
+                    "backgroundColor": "#2962ff",
                     "font": 0,
                     "fontColor": "#FFFFFF"
                 },
