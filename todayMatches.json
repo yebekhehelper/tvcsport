@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707814774,
+    "timeStamp": 1707815704,
     "todayMatches": {
         "leagues": [
             {
@@ -58,7 +58,6 @@
                     {
                         "date": "1402\/11\/24",
                         "matchIds": [
-                            "football-399933",
                             "football-399935",
                             "football-399934"
                         ]
@@ -358,59 +357,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/390990",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-02-13T15:30:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/18\/C\/wex1cswb.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/18\/C\/0powbpvf.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 24 بهمن 1402",
-                "scheduledStartTime": "16:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": null,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 399933,
-                "title": null,
-                "sportId": "football-399933",
-                "hostName": "نوجوانان ایتالیا",
-                "hostLink": null,
-                "guestName": "نوجوانان فرانسه",
-                "guestLink": "\/football\/team\/902518\/نوجوانان-فرانسه",
-                "hostId": 900928,
-                "guestId": 902518,
-                "status": 1,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "16:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/399933\/بازی-نوجوانان-ایتالیا-نوجوانان-فرانسه",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399933",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-13T13:00:00Z",
                 "stadium": null
             },
             {
