@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707830570,
+    "timeStamp": 1707831013,
     "todayMatches": {
         "leagues": [
             {
@@ -58,7 +58,6 @@
                     {
                         "date": "1402\/11\/24",
                         "matchIds": [
-                            "football-399935",
                             "football-399934"
                         ]
                     }
@@ -357,51 +356,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/390990",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-02-13T15:30:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628305.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628304.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 24 بهمن 1402",
-                "scheduledStartTime": "16:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": null,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": null,
-                "hostStyle": null,
-                "id": 399935,
-                "title": null,
-                "sportId": "football-399935",
-                "hostName": "سووتوف",
-                "hostLink": null,
-                "guestName": "احمد گروژنی",
-                "guestLink": null,
-                "hostId": 902137,
-                "guestId": 902417,
-                "status": 1,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "16:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/399935\/بازی-سووتوف-احمد-گروژنی",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399935",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-13T13:00:00Z",
                 "stadium": null
             },
             {
@@ -810,9 +764,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "5",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01592466.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01592455.png",
                 "hasPenalty": false,
@@ -847,10 +801,10 @@
                 "guestLink": "\/football\/team\/902815\/شارجه-امارات",
                 "hostId": 394,
                 "guestId": 902815,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "16:55",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62148\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D9%87-%D8%B4%D8%A7%D8%B1%D8%AC%D9%87?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
