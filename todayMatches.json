@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707860683,
+    "timeStamp": 1707861138,
     "todayMatches": {
         "leagues": [
             {
@@ -343,7 +343,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "2",
-                "liveTime": "85",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01440158.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/p5sr0j2v.png",
                 "hasPenalty": false,
@@ -396,7 +396,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "86",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/09\/07\/B\/jdj5ii42.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150318.png",
                 "hasPenalty": false,
@@ -1789,7 +1789,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "2",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/27\/B\/jdbzjubl.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167879.png",
                 "hasPenalty": false,
@@ -1824,10 +1824,10 @@
                 "guestLink": "\/football\/team\/99\/هال-سیتی",
                 "hostId": 901546,
                 "guestId": 99,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:15",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -1894,8 +1894,8 @@
             {
                 "sport": 1,
                 "hostGoals": "3",
-                "guestGoals": "0",
-                "liveTime": "87",
+                "guestGoals": "1",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01378921.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/qdnz2wyl.png",
                 "hasPenalty": false,
@@ -1907,7 +1907,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 3,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -1944,7 +1944,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "83",
+                "liveTime": "90",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167985.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/02\/B\/v0iegxu4.png",
                 "hasPenalty": false,
