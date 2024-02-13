@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707827173,
+    "timeStamp": 1707828232,
     "todayMatches": {
         "leagues": [
             {
@@ -410,7 +410,7 @@
                 "guestGoals": "",
                 "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/n2315juu.png",
-                "guestLogo": "https:\/\/static.varzeshe3.com\/img\/default\/team-logo.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2024\/02\/13\/C\/mplg1jxv.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 24 بهمن 1402",
                 "scheduledStartTime": "17:30",
@@ -424,7 +424,11 @@
                 },
                 "videoId": null,
                 "referee": null,
-                "guestStyle": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
                 "hostStyle": {
                     "backgroundColor": "#383838",
                     "font": 0,
@@ -866,7 +870,7 @@
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01637259.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 24 بهمن 1402",
-                "scheduledStartTime": "16:55",
+                "scheduledStartTime": "17:55",
                 "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/391999",
                 "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/391999",
                 "round": 13,
@@ -896,14 +900,14 @@
                 "statusDescription": null,
                 "statusTitle": "",
                 "isLive": false,
-                "time": "16:55",
+                "time": "17:55",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62147\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%DA%A9%D9%84%D8%A8%D8%A7-%D8%AE%D9%88%D8%B1%D9%81%DA%A9%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/391999\/بازی-الاتحاد-کلبا-خور-فکان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391999",
                 "eventsApi": null,
-                "scheduledStartOn": "2024-02-13T13:25:00Z",
+                "scheduledStartOn": "2024-02-13T14:25:00Z",
                 "stadium": null
             },
             {
