@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707795936,
+    "timeStamp": 1707796396,
     "todayMatches": {
         "leagues": [
             {
@@ -2011,8 +2011,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "103",
-                "guestPoint": "100",
+                "hostPoint": "110",
+                "guestPoint": "104",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 22
@@ -2026,8 +2026,8 @@
                     "guest": 30
                 },
                 "quarterPoints4": {
-                    "host": 25,
-                    "guest": 12
+                    "host": 32,
+                    "guest": 16
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2060,8 +2060,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "78",
-                "guestPoint": "86",
+                "hostPoint": "83",
+                "guestPoint": "96",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 34
@@ -2071,10 +2071,13 @@
                     "guest": 29
                 },
                 "quarterPoints3": {
-                    "host": 23,
-                    "guest": 23
+                    "host": 25,
+                    "guest": 30
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 3,
+                    "guest": 3
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -2106,11 +2109,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "5",
-                "guestPoint": "6",
+                "hostPoint": "9",
+                "guestPoint": "12",
                 "quarterPoints1": {
-                    "host": 5,
-                    "guest": 6
+                    "host": 9,
+                    "guest": 12
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
