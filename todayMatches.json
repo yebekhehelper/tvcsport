@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707934460,
+    "timeStamp": 1707935319,
     "todayMatches": {
         "leagues": [
             {
@@ -545,7 +545,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "14",
+                "liveTime": "29",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/01\/01\/B\/uvoqwfje.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/09\/18\/B\/0ya2zrcm.png",
                 "hasPenalty": false,
@@ -916,7 +916,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "14",
+                "liveTime": "28",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/28\/C\/x3ydmvax.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/08\/C\/dmpyhyef.png",
                 "hasPenalty": false,
@@ -2750,7 +2750,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "2",
-                "liveTime": "57",
+                "liveTime": "71",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/C\/pzbaisbf.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/24\/B\/1bflajbm.png",
                 "hasPenalty": false,
@@ -2801,9 +2801,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": "53",
+                "hostGoals": "1",
+                "guestGoals": "2",
+                "liveTime": "67",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/C\/3ye3pusj.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/27\/C\/k0mpvlh0.png",
                 "hasPenalty": false,
@@ -2814,8 +2814,8 @@
                 "round": 25,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 1
+                    "host": 1,
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -2856,7 +2856,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "53",
+                "liveTime": "68",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/07\/C\/vtwwx1jn.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/27\/C\/rjyaqw3p.png",
                 "hasPenalty": false,
