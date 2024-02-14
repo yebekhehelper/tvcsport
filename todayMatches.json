@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707904831,
+    "timeStamp": 1707905902,
     "todayMatches": {
         "leagues": [
             {
@@ -416,20 +416,20 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "1",
+                "guestGoals": "0",
+                "liveTime": "18",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168137.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01617594.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 25 بهمن 1402",
                 "scheduledStartTime": "13:30",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/399427",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/399427",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -445,17 +445,17 @@
                 "guestLink": "\/football\/team\/648\/پوهانگ-استیلرز",
                 "hostId": 384,
                 "guestId": 648,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "13:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62160\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DA%86%D9%88%D9%86%D8%A8%D9%88%DA%A9-%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B2-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D9%BE%D9%88%D9%87%D8%A7%D9%86%DA%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84%D8%B1%D8%B2-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399427\/بازی-چونبوک-موتورز-پوهانگ-استیلرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399427",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399427\/events",
                 "scheduledStartOn": "2024-02-14T10:00:00Z",
                 "stadium": null
             },
