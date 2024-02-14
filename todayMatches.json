@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707879077,
+    "timeStamp": 1707879515,
     "todayMatches": {
         "leagues": [
             {
@@ -2579,8 +2579,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "108",
-                "guestPoint": "116",
+                "hostPoint": "110",
+                "guestPoint": "118",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 36
@@ -2594,8 +2594,8 @@
                     "guest": 26
                 },
                 "quarterPoints4": {
-                    "host": 26,
-                    "guest": 18
+                    "host": 28,
+                    "guest": 20
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2611,10 +2611,10 @@
                 "guestLink": null,
                 "hostId": 902802,
                 "guestId": 902795,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -2628,8 +2628,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "109",
-                "guestPoint": "123",
+                "hostPoint": "113",
+                "guestPoint": "127",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 31
@@ -2643,8 +2643,8 @@
                     "guest": 32
                 },
                 "quarterPoints4": {
-                    "host": 27,
-                    "guest": 31
+                    "host": 31,
+                    "guest": 35
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2660,13 +2660,13 @@
                 "guestLink": null,
                 "hostId": 902804,
                 "guestId": 902793,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62177\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%88%D8%B1%D9%84%D8%A7%D9%86%D8%AF%D9%88-%D9%85%D8%AC%DB%8C%DA%A9-%D8%A7%D9%88%DA%A9%D9%84%D8%A7%D9%87%D8%A7%D9%85%D8%A7-%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AA%D8%A7%D9%86%D8%AF%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107242\/بازی-اورلاندو-مجیک-اوکلاهاما-سیتی-تاندر",
@@ -2677,8 +2677,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "76",
-                "guestPoint": "98",
+                "hostPoint": "78",
+                "guestPoint": "106",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 40
@@ -2691,7 +2691,10 @@
                     "host": 24,
                     "guest": 29
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 2,
+                    "guest": 8
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
