@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707883018,
+    "timeStamp": 1707884025,
     "todayMatches": {
         "leagues": [
             {
@@ -2726,15 +2726,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "47",
-                "guestPoint": "54",
+                "hostPoint": "64",
+                "guestPoint": "67",
                 "quarterPoints1": {
                     "host": 38,
                     "guest": 39
                 },
                 "quarterPoints2": {
-                    "host": 9,
-                    "guest": 15
+                    "host": 26,
+                    "guest": 28
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2769,15 +2769,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "41",
-                "guestPoint": "48",
+                "hostPoint": "51",
+                "guestPoint": "59",
                 "quarterPoints1": {
                     "host": 25,
                     "guest": 37
                 },
                 "quarterPoints2": {
-                    "host": 16,
-                    "guest": 11
+                    "host": 26,
+                    "guest": 22
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2812,13 +2812,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "29",
-                "guestPoint": "13",
+                "hostPoint": "43",
+                "guestPoint": "32",
                 "quarterPoints1": {
-                    "host": 29,
-                    "guest": 13
+                    "host": 34,
+                    "guest": 24
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 9,
+                    "guest": 8
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
