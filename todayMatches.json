@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707918705,
+    "timeStamp": 1707919145,
     "todayMatches": {
         "leagues": [
             {
@@ -461,9 +461,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "2",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2024\/02\/14\/C\/rkzibzhj.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
                 "hasPenalty": false,
@@ -474,7 +474,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 2
                 },
                 "videoId": null,
@@ -494,10 +494,10 @@
                 "guestLink": null,
                 "hostId": 903468,
                 "guestId": 900863,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "15:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -1690,8 +1690,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "17",
-                "guestGoals": "20",
+                "hostGoals": "22",
+                "guestGoals": "28",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1724,8 +1724,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "16",
-                "guestGoals": "18",
+                "hostGoals": "22",
+                "guestGoals": "23",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1792,8 +1792,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "15",
-                "guestGoals": "15",
+                "hostGoals": "19",
+                "guestGoals": "20",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
