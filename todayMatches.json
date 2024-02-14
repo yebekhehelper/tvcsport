@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707928252,
+    "timeStamp": 1707928772,
     "todayMatches": {
         "leagues": [
             {
@@ -229,21 +229,6 @@
                             "football-397257",
                             "football-397258",
                             "football-397259"
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 205,
-                "logo": "https:\/\/match-cdn.varzesh3.com\/basketball-league\/2023\/05\/17\/B\/1kd3a51d.png",
-                "title": "بسکتبال باشگاه‌های غرب آسیا",
-                "sport": 4,
-                "link": null,
-                "dates": [
-                    {
-                        "date": "1402\/11\/25",
-                        "matchIds": [
-                            "basketball-107881"
                         ]
                     }
                 ]
@@ -1380,9 +1365,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "36",
+                "liveTime": "44",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/q2bob4lt.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/19\/C\/3sjjngr0.png",
                 "hasPenalty": false,
@@ -1393,7 +1378,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -1422,12 +1407,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "19:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399938\/بازی-اورلاندو-سيتي-هیوستون-دینامو",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399938",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399938\/events",
                 "scheduledStartOn": "2024-02-14T16:00:00Z",
                 "stadium": null
             },
@@ -2918,43 +2903,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397259",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-02-14T17:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
-                "quarterPoints2": null,
-                "quarterPoints3": null,
-                "quarterPoints4": null,
-                "overtimePoints": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "19:30",
-                "scheduledStartDate": " 25 بهمن 1402",
-                "id": 107881,
-                "title": "",
-                "sportId": "basketball-107881",
-                "hostName": "نفت جنوب عراق",
-                "hostLink": null,
-                "guestName": "شهرداری گرگان",
-                "guestLink": null,
-                "hostId": 903009,
-                "guestId": 572,
-                "status": 0,
-                "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
-                "time": "19:30",
-                "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62176\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%86%D9%81%D8%AA-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
-                "videoLink": null,
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/107881\/بازی-نفت-جنوب-عراق-شهرداری-گرگان",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107881",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-14T16:00:00Z",
                 "stadium": null
             }
         ],
