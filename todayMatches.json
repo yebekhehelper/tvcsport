@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707888825,
+    "timeStamp": 1707889263,
     "todayMatches": {
         "leagues": [
             {
@@ -2726,8 +2726,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "128",
-                "guestPoint": "123",
+                "hostPoint": "130",
+                "guestPoint": "125",
                 "quarterPoints1": {
                     "host": 38,
                     "guest": 39
@@ -2741,8 +2741,8 @@
                     "guest": 25
                 },
                 "quarterPoints4": {
-                    "host": 34,
-                    "guest": 31
+                    "host": 36,
+                    "guest": 33
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2758,13 +2758,13 @@
                 "guestLink": null,
                 "hostId": 902788,
                 "guestId": 902790,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62178\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%81%DB%8C%D9%86%DB%8C%DA%A9%D8%B3-%D8%B3%D8%A7%D9%86%D8%B2-%D8%B3%D8%A7%DA%A9%D8%B1%D8%A7%D9%85%D9%86%D8%AA%D9%88-%DA%A9%DB%8C%D9%86%DA%AF%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106837\/بازی-فینیکس-سانز-ساکرامنتو-کینگز",
@@ -2824,8 +2824,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "114",
-                "guestPoint": "100",
+                "hostPoint": "121",
+                "guestPoint": "104",
                 "quarterPoints1": {
                     "host": 34,
                     "guest": 24
@@ -2839,8 +2839,8 @@
                     "guest": 31
                 },
                 "quarterPoints4": {
-                    "host": 15,
-                    "guest": 21
+                    "host": 22,
+                    "guest": 25
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
