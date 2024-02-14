@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707917827,
+    "timeStamp": 1707918273,
     "todayMatches": {
         "leagues": [
             {
@@ -463,7 +463,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "2",
-                "liveTime": "77",
+                "liveTime": "84",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2024\/02\/14\/C\/rkzibzhj.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
                 "hasPenalty": false,
@@ -883,7 +883,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150548.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01546047.png",
                 "hasPenalty": false,
@@ -918,13 +918,13 @@
                 "guestLink": "\/football\/team\/902865\/شهرداری-آستارا",
                 "hostId": 300,
                 "guestId": 902865,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "15:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62375\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%86%D9%81%D8%AA-%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399232\/بازی-نفت-مسجدسلیمان-شهرداری-آستارا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399232",
@@ -998,8 +998,8 @@
                     "guest": 25
                 },
                 "setPoints3": {
-                    "host": 6,
-                    "guest": 5
+                    "host": 17,
+                    "guest": 13
                 },
                 "setPoints4": null,
                 "setPoints5": null,
@@ -1043,7 +1043,10 @@
                     "host": 29,
                     "guest": 27
                 },
-                "setPoints3": null,
+                "setPoints3": {
+                    "host": 5,
+                    "guest": 2
+                },
                 "setPoints4": null,
                 "setPoints5": null,
                 "hostLogo": null,
@@ -1077,7 +1080,7 @@
             {
                 "sport": 3,
                 "hostPoint": "0",
-                "guestPoint": "1",
+                "guestPoint": "2",
                 "setPoints1": {
                     "host": 21,
                     "guest": 25
@@ -1297,9 +1300,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "2",
-                "liveTime": "35",
+                "hostGoals": "1",
+                "guestGoals": "3",
+                "liveTime": "42",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01440155.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/24\/C\/t5lxex4s.png",
                 "hasPenalty": false,
@@ -1310,8 +1313,8 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 2
+                    "host": 1,
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": null,
@@ -1681,8 +1684,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "15",
-                "guestGoals": "18",
+                "hostGoals": "17",
+                "guestGoals": "20",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1715,8 +1718,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "14",
-                "guestGoals": "15",
+                "hostGoals": "16",
+                "guestGoals": "18",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1749,8 +1752,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "15",
-                "guestGoals": "18",
+                "hostGoals": "19",
+                "guestGoals": "24",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1783,8 +1786,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "11",
-                "guestGoals": "12",
+                "hostGoals": "15",
+                "guestGoals": "15",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
