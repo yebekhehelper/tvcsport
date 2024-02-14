@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707917389,
+    "timeStamp": 1707917827,
     "todayMatches": {
         "leagues": [
             {
@@ -463,7 +463,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "2",
-                "liveTime": "70",
+                "liveTime": "77",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2024\/02\/14\/C\/rkzibzhj.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
                 "hasPenalty": false,
@@ -830,7 +830,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/12\/12\/C\/h5fkek34.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/21\/C\/0zctf432.png",
                 "hasPenalty": false,
@@ -865,13 +865,13 @@
                 "guestLink": "\/football\/team\/902741\/خوشه-طلایی",
                 "hostId": 13,
                 "guestId": 902741,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "15:00",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62376\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%DB%8C%D9%BE%D8%A7-%D8%AE%D9%88%D8%B4%D9%87-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399229\/بازی-سایپا-خوشه-طلایی",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399229",
@@ -883,7 +883,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "85",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150548.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01546047.png",
                 "hasPenalty": false,
@@ -997,7 +997,10 @@
                     "host": 23,
                     "guest": 25
                 },
-                "setPoints3": null,
+                "setPoints3": {
+                    "host": 6,
+                    "guest": 5
+                },
                 "setPoints4": null,
                 "setPoints5": null,
                 "hostLogo": null,
@@ -1030,15 +1033,15 @@
             },
             {
                 "sport": 3,
-                "hostPoint": "1",
+                "hostPoint": "2",
                 "guestPoint": "0",
                 "setPoints1": {
                     "host": 26,
                     "guest": 24
                 },
                 "setPoints2": {
-                    "host": 21,
-                    "guest": 21
+                    "host": 29,
+                    "guest": 27
                 },
                 "setPoints3": null,
                 "setPoints4": null,
@@ -1126,7 +1129,10 @@
                     "host": 25,
                     "guest": 18
                 },
-                "setPoints3": null,
+                "setPoints3": {
+                    "host": 7,
+                    "guest": 6
+                },
                 "setPoints4": null,
                 "setPoints5": null,
                 "hostLogo": null,
@@ -1160,16 +1166,19 @@
             {
                 "sport": 3,
                 "hostPoint": "0",
-                "guestPoint": "1",
+                "guestPoint": "2",
                 "setPoints1": {
                     "host": 18,
                     "guest": 25
                 },
                 "setPoints2": {
-                    "host": 20,
-                    "guest": 23
+                    "host": 22,
+                    "guest": 25
                 },
-                "setPoints3": null,
+                "setPoints3": {
+                    "host": 1,
+                    "guest": 2
+                },
                 "setPoints4": null,
                 "setPoints5": null,
                 "hostLogo": null,
@@ -1209,8 +1218,8 @@
                     "guest": 25
                 },
                 "setPoints2": {
-                    "host": 9,
-                    "guest": 10
+                    "host": 21,
+                    "guest": 23
                 },
                 "setPoints3": null,
                 "setPoints4": null,
@@ -1252,8 +1261,8 @@
                     "guest": 16
                 },
                 "setPoints2": {
-                    "host": 19,
-                    "guest": 20
+                    "host": 25,
+                    "guest": 25
                 },
                 "setPoints3": null,
                 "setPoints4": null,
@@ -1290,7 +1299,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "2",
-                "liveTime": "27",
+                "liveTime": "35",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01440155.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/24\/C\/t5lxex4s.png",
                 "hasPenalty": false,
@@ -1672,8 +1681,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "9",
-                "guestGoals": "14",
+                "hostGoals": "15",
+                "guestGoals": "18",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1740,8 +1749,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "14",
-                "guestGoals": "15",
+                "hostGoals": "15",
+                "guestGoals": "18",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
