@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707975737,
+    "timeStamp": 1707976192,
     "todayMatches": {
         "leagues": [
             {
@@ -4110,8 +4110,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "120",
-                "guestPoint": "126",
+                "hostPoint": "125",
+                "guestPoint": "130",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 23
@@ -4125,8 +4125,8 @@
                     "guest": 34
                 },
                 "quarterPoints4": {
-                    "host": 23,
-                    "guest": 40
+                    "host": 28,
+                    "guest": 44
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4142,13 +4142,13 @@
                 "guestLink": null,
                 "hostId": 902409,
                 "guestId": 902783,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62218\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%DA%AF%D9%84%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D8%AA-%D9%88%D8%A7%D8%B1%DB%8C%D8%B1%D8%B2-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%DA%A9%D9%84%DB%8C%D9%BE%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106722\/بازی-گلدن-استیت-واریرز-لس-آنجلس-کلیپرز",
