@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707967117,
+    "timeStamp": 1707967619,
     "todayMatches": {
         "leagues": [
             {
@@ -3816,8 +3816,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "102",
-                "guestPoint": "97",
+                "hostPoint": "113",
+                "guestPoint": "105",
                 "quarterPoints1": {
                     "host": 36,
                     "guest": 21
@@ -3831,8 +3831,8 @@
                     "guest": 32
                 },
                 "quarterPoints4": {
-                    "host": 18,
-                    "guest": 16
+                    "host": 29,
+                    "guest": 24
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3865,8 +3865,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "113",
-                "guestPoint": "109",
+                "hostPoint": "121",
+                "guestPoint": "115",
                 "quarterPoints1": {
                     "host": 31,
                     "guest": 26
@@ -3880,8 +3880,8 @@
                     "guest": 38
                 },
                 "quarterPoints4": {
-                    "host": 14,
-                    "guest": 11
+                    "host": 22,
+                    "guest": 17
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3914,8 +3914,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "91",
-                "guestPoint": "68",
+                "hostPoint": "105",
+                "guestPoint": "81",
                 "quarterPoints1": {
                     "host": 25,
                     "guest": 32
@@ -3929,8 +3929,8 @@
                     "guest": 14
                 },
                 "quarterPoints4": {
-                    "host": 3,
-                    "guest": 3
+                    "host": 17,
+                    "guest": 16
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3963,8 +3963,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "69",
-                "guestPoint": "70",
+                "hostPoint": "76",
+                "guestPoint": "76",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 34
@@ -3973,7 +3973,10 @@
                     "host": 41,
                     "guest": 36
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 7,
+                    "guest": 6
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4049,8 +4052,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "53",
-                "guestPoint": "41",
+                "hostPoint": "62",
+                "guestPoint": "51",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 16
@@ -4059,7 +4062,10 @@
                     "host": 26,
                     "guest": 25
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 9,
+                    "guest": 10
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4092,11 +4098,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "7",
-                "guestPoint": "5",
+                "hostPoint": "14",
+                "guestPoint": "13",
                 "quarterPoints1": {
-                    "host": 7,
-                    "guest": 5
+                    "host": 14,
+                    "guest": 13
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
