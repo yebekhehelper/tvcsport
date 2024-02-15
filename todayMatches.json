@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1707994216,
+    "timeStamp": 1707994648,
     "todayMatches": {
         "leagues": [
             {
@@ -450,7 +450,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "45+",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/C\/goegr013.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/09\/20\/C\/b2fnkj0t.png",
                 "hasPenalty": false,
@@ -487,7 +487,7 @@
                 "guestId": 903467,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "13:30",
                 "hasEvents": true,
