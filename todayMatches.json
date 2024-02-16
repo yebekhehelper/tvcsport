@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708101576,
+    "timeStamp": 1708102012,
     "todayMatches": {
         "leagues": [
             {
@@ -1367,7 +1367,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "39",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/12\/C\/z5pkjdr4.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/12\/C\/wtfkhhje.png",
                 "hasPenalty": false,
@@ -1404,15 +1404,15 @@
                 "guestId": 903440,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "19:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/396597\/بازی-اسلاون-ایسترا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396597",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396597\/events",
                 "scheduledStartOn": "2024-02-16T16:00:00Z",
                 "stadium": null
             },
