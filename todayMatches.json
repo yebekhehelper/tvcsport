@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708091010,
+    "timeStamp": 1708091440,
     "todayMatches": {
         "leagues": [
             {
@@ -256,16 +256,16 @@
         "matches": [
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150467.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150464.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 27 بهمن 1402",
                 "scheduledStartTime": "17:15",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/398814",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/398814",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 16,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -293,10 +293,10 @@
                 "guestLink": "\/football\/team\/21\/صنعت-نفت-آبادان",
                 "hostId": 4,
                 "guestId": 21,
-                "status": 0,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "17:15",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62238\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%B5%D9%86%D8%B9%D8%AA-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -671,7 +671,7 @@
             {
                 "sport": 2,
                 "hostGoals": "2",
-                "guestGoals": "2",
+                "guestGoals": "3",
                 "hostLogo": null,
                 "guestLogo": null,
                 "scheduledStartOn": "2024-02-16T12:30:00Z",
@@ -703,7 +703,7 @@
             {
                 "sport": 2,
                 "hostGoals": "0",
-                "guestGoals": "0",
+                "guestGoals": "1",
                 "hostLogo": null,
                 "guestLogo": null,
                 "scheduledStartOn": "2024-02-16T12:30:00Z",
@@ -752,7 +752,7 @@
                 "guestId": 902871,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "نیمه دوم",
                 "isLive": true,
                 "time": "16:00",
                 "hasEvents": false,
