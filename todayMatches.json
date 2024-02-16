@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708093538,
+    "timeStamp": 1708094018,
     "todayMatches": {
         "leagues": [
             {
@@ -258,7 +258,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "37",
+                "liveTime": "45",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150467.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150464.png",
                 "hasPenalty": false,
@@ -639,7 +639,7 @@
             {
                 "sport": 2,
                 "hostGoals": "3",
-                "guestGoals": "1",
+                "guestGoals": "3",
                 "hostLogo": null,
                 "guestLogo": null,
                 "scheduledStartOn": "2024-02-16T12:30:00Z",
@@ -750,10 +750,10 @@
                 "guestLink": "\/futsal\/team\/902871\/کراپ-الوند",
                 "hostId": 514,
                 "guestId": 902871,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "نیمه دوم",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "16:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -959,7 +959,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "26",
+                "liveTime": "34",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/01\/01\/B\/tsgw0wue.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/04\/11\/C\/11babltz.png",
                 "hasPenalty": false,
