@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708092732,
+    "timeStamp": 1708093538,
     "todayMatches": {
         "leagues": [
             {
@@ -258,7 +258,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "37",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150467.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150464.png",
                 "hasPenalty": false,
@@ -638,7 +638,7 @@
             },
             {
                 "sport": 2,
-                "hostGoals": "2",
+                "hostGoals": "3",
                 "guestGoals": "1",
                 "hostLogo": null,
                 "guestLogo": null,
@@ -766,8 +766,8 @@
             },
             {
                 "sport": 2,
-                "hostGoals": "0",
-                "guestGoals": "3",
+                "hostGoals": "1",
+                "guestGoals": "4",
                 "hostLogo": null,
                 "guestLogo": null,
                 "scheduledStartOn": "2024-02-16T12:30:00Z",
@@ -782,10 +782,10 @@
                 "guestLink": "\/futsal\/team\/524\/گیتی-پسند",
                 "hostId": 902958,
                 "guestId": 524,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "نیمه دوم",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "16:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -959,7 +959,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "12",
+                "liveTime": "26",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/01\/01\/B\/tsgw0wue.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/04\/11\/C\/11babltz.png",
                 "hasPenalty": false,
@@ -999,12 +999,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "17:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62234\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B6%D9%85%DA%A9-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/394554\/بازی-ضمک-الشباب",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394554",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394554\/events",
                 "scheduledStartOn": "2024-02-16T14:00:00Z",
                 "stadium": null
             },
