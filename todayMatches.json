@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708098229,
+    "timeStamp": 1708098667,
     "todayMatches": {
         "leagues": [
             {
@@ -258,7 +258,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150467.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150464.png",
                 "hasPenalty": false,
@@ -293,13 +293,13 @@
                 "guestLink": "\/football\/team\/21\/صنعت-نفت-آبادان",
                 "hostId": 4,
                 "guestId": 21,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "17:15",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62238\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%B5%D9%86%D8%B9%D8%AA-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/398814\/بازی-استقلال-صنعت-نفت-آبادان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/398814",
@@ -959,7 +959,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "87",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/01\/01\/B\/tsgw0wue.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/04\/11\/C\/11babltz.png",
                 "hasPenalty": false,
