@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708050746,
+    "timeStamp": 1708051187,
     "todayMatches": {
         "leagues": [
             {
@@ -2671,7 +2671,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/24\/C\/5501eu2y.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01624082.png",
                 "hasPenalty": false,
@@ -2706,13 +2706,13 @@
                 "guestLink": "\/football\/team\/901114\/نيولز-اولد-بويز",
                 "hostId": 903067,
                 "guestId": 901114,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62231\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1-%D9%85%DB%8C%D8%A7%D9%85%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%86%DB%8C%D9%88%D9%84%D8%B2-%D8%A7%D9%88%D9%84%D8%AF-%D8%A8%D9%88%DB%8C%D8%B2-%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400519\/بازی-اینتر-میامی-نيولز-اولد-بويز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400519",
