@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708090554,
+    "timeStamp": 1708091010,
     "todayMatches": {
         "leagues": [
             {
@@ -656,7 +656,7 @@
                 "guestId": 902558,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "نیمه دوم",
                 "isLive": true,
                 "time": "16:00",
                 "hasEvents": false,
@@ -688,7 +688,7 @@
                 "guestId": 902959,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "نیمه دوم",
                 "isLive": true,
                 "time": "16:00",
                 "hasEvents": true,
