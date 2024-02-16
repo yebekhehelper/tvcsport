@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708088865,
+    "timeStamp": 1708089676,
     "todayMatches": {
         "leagues": [
             {
@@ -592,7 +592,7 @@
                 "guestId": 902934,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "نیمه اول",
+                "statusTitle": "نیمه دوم",
                 "isLive": true,
                 "time": "15:30",
                 "hasEvents": true,
@@ -624,7 +624,7 @@
                 "guestId": 901037,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "نیمه اول",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "16:00",
                 "hasEvents": true,
@@ -671,7 +671,7 @@
             {
                 "sport": 2,
                 "hostGoals": "2",
-                "guestGoals": "1",
+                "guestGoals": "2",
                 "hostLogo": null,
                 "guestLogo": null,
                 "scheduledStartOn": "2024-02-16T12:30:00Z",
@@ -688,7 +688,7 @@
                 "guestId": 902959,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "نیمه اول",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "16:00",
                 "hasEvents": true,
@@ -720,7 +720,7 @@
                 "guestId": 902957,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "نیمه اول",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "16:00",
                 "hasEvents": false,
@@ -784,7 +784,7 @@
                 "guestId": 524,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "نیمه اول",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "16:00",
                 "hasEvents": true,
