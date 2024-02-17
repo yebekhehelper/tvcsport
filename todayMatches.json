@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708208712,
+    "timeStamp": 1708209166,
     "todayMatches": {
         "leagues": [
             {
@@ -2761,7 +2761,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "89",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/05\/01\/B\/pksgd114.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/0vezlc3g.png",
                 "hasPenalty": false,
@@ -2796,13 +2796,13 @@
                 "guestLink": "\/football\/team\/903259\/استرلا",
                 "hostId": 403,
                 "guestId": 903259,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "00:00",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62306\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%BE%D9%88%D8%B1%D8%AA%D9%88-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D8%A7-%D8%AF%D8%A7-%D8%A2%D9%85%D8%A7%D8%AF%D9%88%D8%B1%D8%A7?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/391002\/بازی-پورتو-استرلا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391002",
