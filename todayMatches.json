@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708169740,
+    "timeStamp": 1708170192,
     "todayMatches": {
         "leagues": [
             {
@@ -2337,9 +2337,12 @@
             },
             {
                 "sport": 41,
-                "hostGoals": "",
-                "guestGoals": "",
-                "firstTime": null,
+                "hostGoals": "1",
+                "guestGoals": "0",
+                "firstTime": {
+                    "host": 1,
+                    "guest": 0
+                },
                 "secondTime": null,
                 "thirdTime": null,
                 "extraTime": null,
@@ -2358,10 +2361,10 @@
                 "guestLink": null,
                 "hostId": 901590,
                 "guestId": 902029,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "15:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/beach-soccer\/62311\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%D8%AD%D9%84%DB%8C-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D9%85%D8%B5%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -3022,7 +3025,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "46",
+                "liveTime": "53",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/w3c2vtd4.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/v1vy1dqs.png",
                 "hasPenalty": false,
