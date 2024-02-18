@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708252040,
+    "timeStamp": 1708252479,
     "todayMatches": {
         "leagues": [
             {
@@ -2326,9 +2326,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "2",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/ivwbdds1.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/aic4mhyt.png",
                 "hasPenalty": false,
@@ -2363,10 +2363,10 @@
                 "guestLink": "\/football\/team\/902945\/آدانا-دمیراسپور",
                 "hostId": 902237,
                 "guestId": 902945,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "14:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62342\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A2%D9%84%D8%A7%D9%86%DB%8C%D8%A7-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1-%D8%A2%D8%AF%D8%A7%D9%86%D8%A7-%D8%AF%D9%85%DB%8C%D8%B1-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
