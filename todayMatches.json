@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708257202,
+    "timeStamp": 1708258107,
     "todayMatches": {
         "leagues": [
             {
@@ -765,7 +765,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "21",
+                "liveTime": "36",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150107.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/28\/C\/x3ydmvax.png",
                 "hasPenalty": false,
@@ -1028,9 +1028,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "1",
+                "liveTime": "9",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01427424.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167933.png",
                 "hasPenalty": false,
@@ -1042,7 +1042,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -1065,17 +1065,17 @@
                 "guestLink": "\/football\/team\/146\/لوریان",
                 "hostId": 902414,
                 "guestId": 146,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "15:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/386940\/بازی-استراسبورگ-لوریان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386940",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386940\/events",
                 "scheduledStartOn": "2024-02-18T12:00:00Z",
                 "stadium": null
             },
@@ -1613,7 +1613,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "36",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167957.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167959.png",
                 "hasPenalty": false,
@@ -1642,7 +1642,7 @@
                 "guestId": 163,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "14:45",
                 "hasEvents": true,
@@ -2175,12 +2175,15 @@
             {
                 "sport": 41,
                 "hostGoals": "1",
-                "guestGoals": "1",
+                "guestGoals": "2",
                 "firstTime": {
                     "host": 1,
                     "guest": 1
                 },
-                "secondTime": null,
+                "secondTime": {
+                    "host": 0,
+                    "guest": 1
+                },
                 "thirdTime": null,
                 "extraTime": null,
                 "penalties": null,
@@ -2330,8 +2333,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "0",
-                "liveTime": "61",
+                "guestGoals": "2",
+                "liveTime": "76",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/ivwbdds1.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/aic4mhyt.png",
                 "hasPenalty": false,
@@ -2343,7 +2346,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 0
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -2696,9 +2699,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "8",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/C\/gccerdwa.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01639309.png",
                 "hasPenalty": false,
@@ -2733,10 +2736,10 @@
                 "guestLink": "\/football\/team\/287\/گلاسکو-رنجرز",
                 "hostId": 903128,
                 "guestId": 287,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "15:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
