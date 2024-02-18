@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708252922,
+    "timeStamp": 1708253368,
     "todayMatches": {
         "leagues": [
             {
@@ -2328,7 +2328,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "9",
+                "liveTime": "17",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/ivwbdds1.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/aic4mhyt.png",
                 "hasPenalty": false,
@@ -2368,12 +2368,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "14:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62342\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A2%D9%84%D8%A7%D9%86%DB%8C%D8%A7-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1-%D8%A2%D8%AF%D8%A7%D9%86%D8%A7-%D8%AF%D9%85%DB%8C%D8%B1-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/395190\/بازی-آلانیااسپور-آدانا-دمیراسپور",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395190",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395190\/events",
                 "scheduledStartOn": "2024-02-18T10:30:00Z",
                 "stadium": null
             },
