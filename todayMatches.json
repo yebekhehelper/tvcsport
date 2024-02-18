@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708295231,
+    "timeStamp": 1708295673,
     "todayMatches": {
         "leagues": [
             {
@@ -1703,7 +1703,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/C\/ebxyndjx.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01528945.png",
                 "hasPenalty": false,
@@ -1738,10 +1738,10 @@
                 "guestLink": "\/football\/team\/902861\/فارنسی",
                 "hostId": 295,
                 "guestId": 902861,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "00:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
