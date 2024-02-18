@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708291211,
+    "timeStamp": 1708291638,
     "todayMatches": {
         "leagues": [
             {
@@ -749,7 +749,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "61",
+                "liveTime": "68",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/26\/B\/ygtesv21.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01201577.png",
                 "hasPenalty": false,
@@ -1172,8 +1172,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "0",
-                "liveTime": "65",
+                "guestGoals": "1",
+                "liveTime": "72",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/06\/22\/B\/bnfmqeca.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150116.png",
                 "hasPenalty": false,
@@ -1185,7 +1185,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -1491,7 +1491,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "79",
+                "liveTime": "87",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01437419.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150159.png",
                 "hasPenalty": false,
