@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708253368,
+    "timeStamp": 1708253820,
     "todayMatches": {
         "leagues": [
             {
@@ -2326,9 +2326,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "17",
+                "liveTime": "24",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/ivwbdds1.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/aic4mhyt.png",
                 "hasPenalty": false,
@@ -2339,7 +2339,7 @@
                 "round": 26,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
