@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708285823,
+    "timeStamp": 1708286268,
     "todayMatches": {
         "leagues": [
             {
@@ -977,7 +977,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "2",
+                "liveTime": "9",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/06\/22\/B\/bnfmqeca.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150116.png",
                 "hasPenalty": false,
@@ -1295,7 +1295,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "5",
+                "liveTime": "13",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01437419.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150159.png",
                 "hasPenalty": false,
@@ -1335,12 +1335,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "23:15",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62332\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%B1%D8%B3%D8%AA-%D9%85%D8%A7%D8%B1%D8%B3%DB%8C?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/386932\/بازی-برست-مارسی",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386932",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386932\/events",
                 "scheduledStartOn": "2024-02-18T19:45:00Z",
                 "stadium": null
             },
@@ -1452,9 +1452,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "5",
+                "hostGoals": "6",
                 "guestGoals": "1",
-                "liveTime": "88",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/B\/pewcbaah.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/tqqynmtg.png",
                 "hasPenalty": false,
@@ -1465,7 +1465,7 @@
                 "round": 22,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 5,
+                    "host": 6,
                     "guest": 1
                 },
                 "videoId": null,
@@ -1489,13 +1489,13 @@
                 "guestLink": "\/football\/team\/902941\/ویزلا",
                 "hostId": 284,
                 "guestId": 902941,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "21:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62338\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D9%86%D9%81%DB%8C%DA%A9%D8%A7-%D9%88%DB%8C%D8%B2%D9%84%D8%A7?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/390996\/بازی-بنفیکا-ویزلا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/390996",
@@ -1506,8 +1506,8 @@
             {
                 "sport": 1,
                 "hostGoals": "1",
-                "guestGoals": "2",
-                "liveTime": "89",
+                "guestGoals": "3",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633908.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/0zpaewt2.png",
                 "hasPenalty": false,
@@ -1519,7 +1519,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 1,
-                    "guest": 2
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": null,
@@ -2123,7 +2123,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "2",
-                "liveTime": "78",
+                "liveTime": "86",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/B\/ipnl3lkk.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/B\/1klsjwx3.png",
                 "hasPenalty": false,
@@ -3366,7 +3366,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "2",
-                "liveTime": "60",
+                "liveTime": "67",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168189.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168381.png",
                 "hasPenalty": false,
