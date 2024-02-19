@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708348013,
+    "timeStamp": 1708348878,
     "todayMatches": {
         "leagues": [
             {
@@ -308,7 +308,7 @@
                     "host": 2,
                     "guest": 1
                 },
-                "videoId": null,
+                "videoId": 325035,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#383838",
@@ -336,7 +336,7 @@
                 "time": "00:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/325035\/خلاصه-بازی-براگا-2-فارنسی-1",
                 "matchPageLink": "\/football\/match\/390997\/بازی-براگا-فارنسی",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/390997",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/390997\/events",
@@ -970,8 +970,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "7",
-                "guestGoals": "11",
+                "hostGoals": "8",
+                "guestGoals": "12",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1004,8 +1004,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "10",
-                "guestGoals": "4",
+                "hostGoals": "16",
+                "guestGoals": "12",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1038,8 +1038,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "18",
-                "guestGoals": "9",
+                "hostGoals": "21",
+                "guestGoals": "16",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1072,8 +1072,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "12",
-                "guestGoals": "11",
+                "hostGoals": "16",
+                "guestGoals": "13",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1107,7 +1107,7 @@
             {
                 "sport": 5,
                 "hostGoals": "12",
-                "guestGoals": "8",
+                "guestGoals": "14",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
