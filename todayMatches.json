@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708349760,
+    "timeStamp": 1708350206,
     "todayMatches": {
         "leagues": [
             {
@@ -750,10 +750,16 @@
             },
             {
                 "sport": 41,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "firstTime": null,
-                "secondTime": null,
+                "hostGoals": "2",
+                "guestGoals": "1",
+                "firstTime": {
+                    "host": 0,
+                    "guest": 0
+                },
+                "secondTime": {
+                    "host": 2,
+                    "guest": 1
+                },
                 "thirdTime": null,
                 "extraTime": null,
                 "penalties": null,
@@ -970,8 +976,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "8",
-                "guestGoals": "12",
+                "hostGoals": "10",
+                "guestGoals": "18",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1004,8 +1010,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "16",
-                "guestGoals": "12",
+                "hostGoals": "22",
+                "guestGoals": "13",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1038,8 +1044,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "21",
-                "guestGoals": "16",
+                "hostGoals": "24",
+                "guestGoals": "18",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1072,8 +1078,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "17",
-                "guestGoals": "14",
+                "hostGoals": "18",
+                "guestGoals": "16",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1106,8 +1112,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "13",
-                "guestGoals": "15",
+                "hostGoals": "18",
+                "guestGoals": "20",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
