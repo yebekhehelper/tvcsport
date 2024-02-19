@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708347256,
+    "timeStamp": 1708348013,
     "todayMatches": {
         "leagues": [
             {
@@ -750,8 +750,8 @@
             },
             {
                 "sport": 41,
-                "hostGoals": "",
-                "guestGoals": "",
+                "hostGoals": "0",
+                "guestGoals": "0",
                 "firstTime": null,
                 "secondTime": null,
                 "thirdTime": null,
@@ -771,10 +771,10 @@
                 "guestLink": null,
                 "hostId": 902635,
                 "guestId": 901573,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "16:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/beach-soccer\/62363\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%D8%AD%D9%84%DB%8C-%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -970,8 +970,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "1",
-                "guestGoals": "6",
+                "hostGoals": "7",
+                "guestGoals": "11",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1004,8 +1004,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "8",
-                "guestGoals": "3",
+                "hostGoals": "10",
+                "guestGoals": "4",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1038,8 +1038,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "7",
-                "guestGoals": "5",
+                "hostGoals": "18",
+                "guestGoals": "9",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1072,8 +1072,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "5",
-                "guestGoals": "6",
+                "hostGoals": "12",
+                "guestGoals": "11",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1106,8 +1106,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "9",
-                "guestGoals": "6",
+                "hostGoals": "12",
+                "guestGoals": "8",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
