@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708326770,
+    "timeStamp": 1708327346,
     "todayMatches": {
         "leagues": [
             {
@@ -976,7 +976,7 @@
                     "host": 1,
                     "guest": 2
                 },
-                "videoId": null,
+                "videoId": 325022,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#840000",
@@ -1004,7 +1004,7 @@
                 "time": "15:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/325022\/خلاصه-بازی-لاتزیو-1-بولونیا-2",
                 "matchPageLink": "\/football\/match\/386575\/بازی-لاتزیو-بولونیا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386575",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386575\/events",
