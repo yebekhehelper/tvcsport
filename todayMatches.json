@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708342817,
+    "timeStamp": 1708343260,
     "todayMatches": {
         "leagues": [
             {
@@ -700,9 +700,12 @@
             },
             {
                 "sport": 41,
-                "hostGoals": "",
-                "guestGoals": "",
-                "firstTime": null,
+                "hostGoals": "1",
+                "guestGoals": "1",
+                "firstTime": {
+                    "host": 1,
+                    "guest": 1
+                },
                 "secondTime": null,
                 "thirdTime": null,
                 "extraTime": null,
@@ -721,10 +724,10 @@
                 "guestLink": null,
                 "hostId": 902029,
                 "guestId": 902611,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "15:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/beach-soccer\/62362\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%D8%AD%D9%84%DB%8C-%D9%85%D8%B5%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
