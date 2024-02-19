@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708363534,
+    "timeStamp": 1708363982,
     "todayMatches": {
         "leagues": [
             {
@@ -629,14 +629,14 @@
             {
                 "sport": 41,
                 "hostGoals": "0",
-                "guestGoals": "1",
+                "guestGoals": "2",
                 "firstTime": {
                     "host": 0,
                     "guest": 0
                 },
                 "secondTime": {
                     "host": 0,
-                    "guest": 1
+                    "guest": 2
                 },
                 "thirdTime": null,
                 "extraTime": null,
@@ -674,7 +674,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "2",
-                "liveTime": "25",
+                "liveTime": "32",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400035.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/xxgyfzsh.png",
                 "hasPenalty": false,
@@ -727,7 +727,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "27",
+                "liveTime": "35",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01438837.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/n4rorj0t.png",
                 "hasPenalty": false,
@@ -1037,7 +1037,7 @@
                 "sport": 1,
                 "hostGoals": "4",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/12\/B\/wsu4vmt5.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/12\/B\/kqy4fh1w.png",
                 "hasPenalty": false,
@@ -1072,10 +1072,10 @@
                 "guestLink": null,
                 "hostId": 903428,
                 "guestId": 903426,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "19:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -1090,7 +1090,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "65",
+                "liveTime": "73",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169271.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/C\/n43nldlo.png",
                 "hasPenalty": false,
@@ -1139,7 +1139,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "24",
+                "liveTime": "32",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/27\/B\/aeu2afoa.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/C\/vmnwkk00.png",
                 "hasPenalty": false,
@@ -1179,12 +1179,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "20:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/397269\/بازی-پافوس-سالامیس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397269",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397269\/events",
                 "scheduledStartOn": "2024-02-19T17:00:00Z",
                 "stadium": null
             }
