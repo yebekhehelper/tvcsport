@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708332341,
+    "timeStamp": 1708332794,
     "todayMatches": {
         "leagues": [
             {
@@ -397,9 +397,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "41",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/12\/C\/jegossuh.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628305.png",
                 "hasPenalty": false,
@@ -410,7 +410,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 1
                 },
                 "videoId": null,
@@ -432,7 +432,7 @@
                 "guestId": 902137,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "11:30",
                 "hasEvents": true,
