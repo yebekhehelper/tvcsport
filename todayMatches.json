@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708331898,
+    "timeStamp": 1708332341,
     "todayMatches": {
         "leagues": [
             {
@@ -398,8 +398,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "34",
+                "guestGoals": "1",
+                "liveTime": "41",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/12\/C\/jegossuh.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628305.png",
                 "hasPenalty": false,
@@ -411,7 +411,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -435,12 +435,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "11:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400525\/بازی-دینامو-مسکو-سووتوف",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400525",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400525\/events",
                 "scheduledStartOn": "2024-02-19T08:00:00Z",
                 "stadium": null
             },
