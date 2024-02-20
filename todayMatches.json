@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708451728,
+    "timeStamp": 1708452754,
     "todayMatches": {
         "leagues": [
             {
@@ -774,7 +774,7 @@
             {
                 "sport": 41,
                 "hostGoals": "3",
-                "guestGoals": "3",
+                "guestGoals": "4",
                 "firstTime": {
                     "host": 1,
                     "guest": 2
@@ -787,7 +787,10 @@
                     "host": 1,
                     "guest": 1
                 },
-                "extraTime": null,
+                "extraTime": {
+                    "host": 0,
+                    "guest": 1
+                },
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -803,13 +806,13 @@
                 "guestLink": null,
                 "hostId": 901572,
                 "guestId": 901571,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "20:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/beach-soccer\/62443\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%D8%AD%D9%84%DB%8C-%D9%85%DA%A9%D8%B2%DB%8C%DA%A9-%D8%A8%D8%B1%D8%B2%DB%8C%D9%84?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/beach-soccer\/match\/170\/بازی-مکزیک-برزیل",
