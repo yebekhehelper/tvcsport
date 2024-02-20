@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708446543,
+    "timeStamp": 1708447066,
     "todayMatches": {
         "leagues": [
             {
@@ -726,7 +726,7 @@
             },
             {
                 "sport": 41,
-                "hostGoals": "4",
+                "hostGoals": "6",
                 "guestGoals": "4",
                 "firstTime": {
                     "host": 0,
@@ -737,7 +737,7 @@
                     "guest": 1
                 },
                 "thirdTime": {
-                    "host": 3,
+                    "host": 5,
                     "guest": 2
                 },
                 "extraTime": null,
@@ -756,13 +756,13 @@
                 "guestLink": null,
                 "hostId": 901589,
                 "guestId": 902375,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "19:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/beach-soccer\/62442\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%D8%AD%D9%84%DB%8C-%DA%98%D8%A7%D9%BE%D9%86-%D8%B3%D9%86%DA%AF%D8%A7%D9%84?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/beach-soccer\/match\/169\/بازی-ژاپن-سنگال",
