@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708441647,
+    "timeStamp": 1708442357,
     "todayMatches": {
         "leagues": [
             {
@@ -603,9 +603,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "3",
                 "guestGoals": "0",
-                "liveTime": "51",
+                "liveTime": "63",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150408.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628319.png",
                 "hasPenalty": false,
@@ -616,7 +616,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 3,
                     "guest": 0
                 },
                 "videoId": null,
@@ -637,12 +637,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "17:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400526\/بازی-زسکامسکو-خیمکی",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400526",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400526\/events",
                 "scheduledStartOn": "2024-02-20T14:00:00Z",
                 "stadium": null
             },
