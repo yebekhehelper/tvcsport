@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708436520,
+    "timeStamp": 1708436971,
     "todayMatches": {
         "leagues": [
             {
@@ -553,7 +553,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/27\/C\/ci0x2qph.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/14\/B\/wx5mzkyj.png",
                 "hasPenalty": false,
@@ -588,13 +588,13 @@
                 "guestLink": "\/football\/team\/36\/داماش-گیلان",
                 "hostId": 902864,
                 "guestId": 36,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "15:15",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62657\/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A2%D8%A8%DB%8C-%D9%BE%D9%88%D8%B4-%D9%85%D9%84%D8%A7%D8%AB%D8%A7%D9%86%DB%8C-%D8%AF%D8%A7%D9%85%D8%A7%D8%B4-%DA%AF%DB%8C%D9%84%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399237\/بازی-استقلال-آبی-پوش-ملاثانی-داماش-گیلان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399237",
@@ -847,7 +847,7 @@
             },
             {
                 "sport": 41,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "2",
                 "firstTime": {
                     "host": 0,
@@ -857,7 +857,10 @@
                     "host": 0,
                     "guest": 2
                 },
-                "thirdTime": null,
+                "thirdTime": {
+                    "host": 1,
+                    "guest": 0
+                },
                 "extraTime": null,
                 "penalties": null,
                 "guestLogo": null,
