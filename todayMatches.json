@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708435186,
+    "timeStamp": 1708435625,
     "todayMatches": {
         "leagues": [
             {
@@ -408,7 +408,7 @@
                     "host": 1,
                     "guest": 1
                 },
-                "videoId": null,
+                "videoId": 325148,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#383838",
@@ -436,7 +436,7 @@
                 "time": "14:45",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/325148\/خلاصه-بازی-فجر-سپاسی-1-سایپا-1",
                 "matchPageLink": "\/football\/match\/399239\/بازی-فجر-سپاسی-سایپا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399239",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399239\/events",
@@ -553,7 +553,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "72",
+                "liveTime": "79",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/27\/C\/ci0x2qph.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/14\/B\/wx5mzkyj.png",
                 "hasPenalty": false,
@@ -848,12 +848,15 @@
             {
                 "sport": 41,
                 "hostGoals": "0",
-                "guestGoals": "0",
+                "guestGoals": "1",
                 "firstTime": {
                     "host": 0,
                     "guest": 0
                 },
-                "secondTime": null,
+                "secondTime": {
+                    "host": 0,
+                    "guest": 1
+                },
                 "thirdTime": null,
                 "extraTime": null,
                 "penalties": null,
