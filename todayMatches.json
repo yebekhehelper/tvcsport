@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708430187,
+    "timeStamp": 1708431497,
     "todayMatches": {
         "leagues": [
             {
@@ -341,7 +341,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "41",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01630563.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/12\/12\/C\/h5fkek34.png",
                 "hasPenalty": false,
@@ -378,7 +378,7 @@
                 "guestId": 13,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "14:45",
                 "hasEvents": false,
@@ -394,7 +394,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "39",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/05\/25\/D\/li0uxnme.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/18\/D\/xyzlwvow.PNG",
                 "hasPenalty": false,
@@ -431,7 +431,7 @@
                 "guestId": 903462,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "14:45",
                 "hasEvents": true,
@@ -447,7 +447,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "38",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/C\/gzueny5i.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/09\/10\/B\/hpl2gli5.png",
                 "hasPenalty": false,
@@ -484,7 +484,7 @@
                 "guestId": 903039,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "14:45",
                 "hasEvents": true,
@@ -498,9 +498,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "12",
+                "hostGoals": "1",
+                "guestGoals": "1",
+                "liveTime": "32",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/27\/C\/ci0x2qph.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/14\/B\/wx5mzkyj.png",
                 "hasPenalty": false,
@@ -511,8 +511,8 @@
                 "round": 20,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 0
+                    "host": 1,
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -540,12 +540,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "15:15",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62657\/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A2%D8%A8%DB%8C-%D9%BE%D9%88%D8%B4-%D9%85%D9%84%D8%A7%D8%AB%D8%A7%D9%86%DB%8C-%D8%AF%D8%A7%D9%85%D8%A7%D8%B4-%DA%AF%DB%8C%D9%84%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399237\/بازی-استقلال-آبی-پوش-ملاثانی-داماش-گیلان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399237",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399237\/events",
                 "scheduledStartOn": "2024-02-20T11:45:00Z",
                 "stadium": null
             },
@@ -800,17 +800,20 @@
             },
             {
                 "sport": 41,
-                "hostGoals": "2",
+                "hostGoals": "3",
                 "guestGoals": "0",
                 "firstTime": {
                     "host": 2,
                     "guest": 0
                 },
                 "secondTime": {
+                    "host": 1,
+                    "guest": 0
+                },
+                "thirdTime": {
                     "host": 0,
                     "guest": 0
                 },
-                "thirdTime": null,
                 "extraTime": null,
                 "penalties": null,
                 "guestLogo": null,
