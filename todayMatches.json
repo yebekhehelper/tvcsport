@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708437410,
+    "timeStamp": 1708438223,
     "todayMatches": {
         "leagues": [
             {
@@ -92,7 +92,6 @@
                     {
                         "date": "1402\/12\/01",
                         "matchIds": [
-                            "football-397353",
                             "football-397349",
                             "football-397352"
                         ]
@@ -604,9 +603,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "9",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150408.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628319.png",
                 "hasPenalty": false,
@@ -633,10 +632,10 @@
                 "guestLink": null,
                 "hostId": 415,
                 "guestId": 902846,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "17:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -645,59 +644,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400526",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-02-20T14:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/cuw503ml.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01437555.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 1 اسفند 1402",
-                "scheduledStartTime": "18:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 14,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 397353,
-                "title": null,
-                "sportId": "football-397353",
-                "hostName": "الوکره قطر",
-                "hostLink": "\/football\/team\/901107\/الوکره-قطر",
-                "guestName": "السد",
-                "guestLink": "\/football\/team\/400\/السد",
-                "hostId": 901107,
-                "guestId": 400,
-                "status": 0,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "18:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/397353\/بازی-الوکره-قطر-السد",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397353",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-20T15:00:00Z",
                 "stadium": null
             },
             {
@@ -847,8 +793,8 @@
             },
             {
                 "sport": 41,
-                "hostGoals": "1",
-                "guestGoals": "2",
+                "hostGoals": "2",
+                "guestGoals": "3",
                 "firstTime": {
                     "host": 0,
                     "guest": 0
@@ -858,8 +804,8 @@
                     "guest": 2
                 },
                 "thirdTime": {
-                    "host": 1,
-                    "guest": 0
+                    "host": 2,
+                    "guest": 1
                 },
                 "extraTime": null,
                 "penalties": null,
@@ -877,13 +823,13 @@
                 "guestLink": null,
                 "hostId": 902614,
                 "guestId": 901588,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "16:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/beach-soccer\/62439\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%D8%AD%D9%84%DB%8C-%D8%B9%D9%85%D8%A7%D9%86-%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/beach-soccer\/match\/168\/بازی-عمان-پرتغال",
