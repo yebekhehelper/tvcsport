@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708444594,
+    "timeStamp": 1708445598,
     "todayMatches": {
         "leagues": [
             {
@@ -78,22 +78,6 @@
                         "date": "1402\/12\/01",
                         "matchIds": [
                             "football-400526"
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 37,
-                "logo": "https:\/\/match-cdn.varzesh3.com\/football-league\/2023\/03\/12\/C\/cnffyjl3.png",
-                "title": "لیگ ستارگان قطر",
-                "sport": 1,
-                "link": "\/football\/league\/37\/لیگ-ستارگان-قطر",
-                "dates": [
-                    {
-                        "date": "1402\/12\/01",
-                        "matchIds": [
-                            "football-397349",
-                            "football-397352"
                         ]
                     }
                 ]
@@ -647,104 +631,6 @@
                 "stadium": null
             },
             {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/14\/B\/voe3v41t.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01397486.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 1 اسفند 1402",
-                "scheduledStartTime": "20:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 14,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": null,
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 397349,
-                "title": null,
-                "sportId": "football-397349",
-                "hostName": "الدحیل",
-                "hostLink": "\/football\/team\/645\/الدحیل",
-                "guestName": "العربی",
-                "guestLink": "\/football\/team\/644\/العربی",
-                "hostId": 645,
-                "guestId": 644,
-                "status": 0,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "20:30",
-                "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62438\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D8%AD%DB%8C%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%DB%8C?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/397349\/بازی-الدحیل-العربی",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397349",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-20T17:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01397485.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01644224.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 1 اسفند 1402",
-                "scheduledStartTime": "20:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 14,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": null,
-                "id": 397352,
-                "title": null,
-                "sportId": "football-397352",
-                "hostName": "الریان ",
-                "hostLink": "\/football\/team\/397\/الریان",
-                "guestName": "شمال",
-                "guestLink": "\/football\/team\/902971\/شمال",
-                "hostId": 397,
-                "guestId": 902971,
-                "status": 0,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "20:30",
-                "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62437\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%DB%8C%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/397352\/بازی-الریان-شمال",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397352",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-20T17:00:00Z",
-                "stadium": null
-            },
-            {
                 "sport": 41,
                 "hostGoals": "4",
                 "guestGoals": "1",
@@ -840,7 +726,7 @@
             },
             {
                 "sport": 41,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "2",
                 "firstTime": {
                     "host": 0,
@@ -850,7 +736,10 @@
                     "host": 1,
                     "guest": 1
                 },
-                "thirdTime": null,
+                "thirdTime": {
+                    "host": 1,
+                    "guest": 0
+                },
                 "extraTime": null,
                 "penalties": null,
                 "guestLogo": null,
