@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708457970,
+    "timeStamp": 1708458412,
     "todayMatches": {
         "leagues": [
             {
@@ -324,7 +324,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "9",
+                "liveTime": "17",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/p5sr0j2v.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/zfgrlvky.png",
                 "hasPenalty": false,
@@ -921,9 +921,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "1",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/02\/C\/ybpxzjmm.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167985.png",
                 "hasPenalty": false,
@@ -954,10 +954,10 @@
                 "guestLink": "\/football\/team\/275\/وست-برومویچ",
                 "hostId": 902315,
                 "guestId": 275,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "23:15",
                 "hasEvents": false,
                 "liveStreamSource": "",
