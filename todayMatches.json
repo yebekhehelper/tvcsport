@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708534464,
+    "timeStamp": 1708535163,
     "todayMatches": {
         "leagues": [
             {
@@ -1447,9 +1447,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "6",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/C\/yyywfbwb.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/07\/C\/vtwwx1jn.png",
                 "hasPenalty": false,
@@ -1484,10 +1484,10 @@
                 "guestLink": null,
                 "hostId": 903455,
                 "guestId": 902963,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "20:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
