@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708642041,
+    "timeStamp": 1708642467,
     "todayMatches": {
         "leagues": [
             {
@@ -1738,9 +1738,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1 (2)",
-                "guestGoals": "1 (1)",
-                "liveTime": "",
+                "hostGoals": "1 (4)",
+                "guestGoals": "1 (2)",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150101.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150041.png",
                 "hasPenalty": false,
@@ -1750,8 +1750,8 @@
                 "predictionUrl": null,
                 "round": null,
                 "penaltyGoals": {
-                    "host": 2,
-                    "guest": 1
+                    "host": 4,
+                    "guest": 2
                 },
                 "matchGoals": {
                     "host": 1,
@@ -1778,13 +1778,13 @@
                 "guestLink": "\/football\/team\/162\/فاینورد",
                 "hostId": 71,
                 "guestId": 162,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "پنالتی",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62482\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A2%D8%A7%D8%B3-%D8%B1%D9%85-%D9%81%D8%A7%DB%8C%D9%86%D9%88%D8%B1%D8%AF-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399183\/بازی-آاس-رم-فاینورد",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399183",
