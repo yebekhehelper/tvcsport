@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708609297,
+    "timeStamp": 1708609727,
     "todayMatches": {
         "leagues": [
             {
@@ -260,16 +260,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "2",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/10\/B\/uz3ygqmp.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150467.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 3 اسفند 1402",
                 "scheduledStartTime": "17:15",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/398822",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/398822",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 17,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -297,10 +297,10 @@
                 "guestLink": "\/football\/team\/4\/استقلال",
                 "hostId": 14,
                 "guestId": 4,
-                "status": 0,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "17:15",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62493\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%85%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -1307,14 +1307,14 @@
             {
                 "sport": 41,
                 "hostGoals": "3",
-                "guestGoals": "1",
+                "guestGoals": "2",
                 "firstTime": {
                     "host": 0,
                     "guest": 1
                 },
                 "secondTime": {
                     "host": 3,
-                    "guest": 0
+                    "guest": 1
                 },
                 "thirdTime": null,
                 "extraTime": null,
