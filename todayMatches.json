@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708641587,
+    "timeStamp": 1708642041,
     "todayMatches": {
         "leagues": [
             {
@@ -1738,8 +1738,8 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
-                "guestGoals": "1",
+                "hostGoals": "1 (2)",
+                "guestGoals": "1 (1)",
                 "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150101.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150041.png",
@@ -1749,7 +1749,10 @@
                 "predictionLink": null,
                 "predictionUrl": null,
                 "round": null,
-                "penaltyGoals": null,
+                "penaltyGoals": {
+                    "host": 2,
+                    "guest": 1
+                },
                 "matchGoals": {
                     "host": 1,
                     "guest": 1
@@ -1777,7 +1780,7 @@
                 "guestId": 162,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پنالتی",
                 "isLive": true,
                 "time": "23:30",
                 "hasEvents": true,
