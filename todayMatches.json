@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708561706,
+    "timeStamp": 1708565406,
     "todayMatches": {
         "leagues": [
             {
@@ -2742,9 +2742,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "20",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/24\/C\/5501eu2y.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/07\/C\/efk3rjnr.png",
                 "hasPenalty": false,
@@ -2779,17 +2779,17 @@
                 "guestLink": null,
                 "hostId": 903067,
                 "guestId": 902432,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "04:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62489\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1-%D9%85%DB%8C%D8%A7%D9%85%DB%8C-%D8%B3%D8%A7%D9%84%D8%AA-%D9%84%DB%8C%DA%A9?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400534\/بازی-اینتر-میامی-رئال-سالت-لیک",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400534",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400534\/events",
                 "scheduledStartOn": "2024-02-22T01:00:00Z",
                 "stadium": null
             },
