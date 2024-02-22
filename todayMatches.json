@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708614586,
+    "timeStamp": 1708615386,
     "todayMatches": {
         "leagues": [
             {
@@ -260,9 +260,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "62",
+                "hostGoals": "1",
+                "guestGoals": "1",
+                "liveTime": "75",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/10\/B\/uz3ygqmp.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150467.png",
                 "hasPenalty": false,
@@ -273,8 +273,8 @@
                 "round": 17,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 0
+                    "host": 1,
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": "علی اصغر مومنی",
