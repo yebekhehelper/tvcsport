@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708591839,
+    "timeStamp": 1708592286,
     "todayMatches": {
         "leagues": [
             {
@@ -1797,7 +1797,7 @@
                     "host": 2,
                     "guest": 0
                 },
-                "videoId": null,
+                "videoId": 325356,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#383838",
@@ -1825,7 +1825,7 @@
                 "time": "04:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/325356\/خلاصه-بازی-اینترمیامی-2-رئال-سالت-لیک-0",
                 "matchPageLink": "\/football\/match\/400534\/بازی-اینتر-میامی-رئال-سالت-لیک",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400534",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400534\/events",
