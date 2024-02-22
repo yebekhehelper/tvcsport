@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708601489,
+    "timeStamp": 1708601935,
     "todayMatches": {
         "leagues": [
             {
@@ -154,16 +154,16 @@
         "matches": [
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "8",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/09\/22\/D\/mkpra0fi.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/06\/D\/0vd40qhy.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 3 اسفند 1402",
                 "scheduledStartTime": "15:00",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/398818",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/398818",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 17,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -191,10 +191,10 @@
                 "guestLink": "\/football\/team\/902983\/شمس-آذر-قزوین",
                 "hostId": 902565,
                 "guestId": 902983,
-                "status": 0,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "15:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62492\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1-%D8%B4%D9%85%D8%B3-%D8%A2%D8%B0%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -1259,10 +1259,10 @@
             },
             {
                 "sport": 41,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
                 "firstTime": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "secondTime": null,
