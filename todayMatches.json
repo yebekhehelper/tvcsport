@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708665978,
+    "timeStamp": 1708666498,
     "todayMatches": {
         "leagues": [
             {
@@ -3154,7 +3154,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/325501\/خلاصه-بسکتبال-دالاس-ماوریکس-فینیکس-سانز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106854\/بازی-دالاس-ماوریکس-فینیکس-سانز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106854",
@@ -3409,8 +3409,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "121",
-                "guestPoint": "102",
+                "hostPoint": "128",
+                "guestPoint": "110",
                 "quarterPoints1": {
                     "host": 31,
                     "guest": 28
@@ -3424,8 +3424,8 @@
                     "guest": 26
                 },
                 "quarterPoints4": {
-                    "host": 23,
-                    "guest": 20
+                    "host": 30,
+                    "guest": 28
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3441,13 +3441,13 @@
                 "guestLink": null,
                 "hostId": 902409,
                 "guestId": 902784,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62677\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%DA%AF%D9%84%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D8%AA-%D9%88%D8%A7%D8%B1%DB%8C%D8%B1%D8%B2-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106859\/بازی-گلدن-استیت-واریرز-لس-آنجلس-لیکرز",
@@ -3668,7 +3668,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "20",
+                "liveTime": "29",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169153.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/05\/06\/C\/l45hrwu0.png",
                 "hasPenalty": false,
