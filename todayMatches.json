@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708729069,
+    "timeStamp": 1708729879,
     "todayMatches": {
         "leagues": [
             {
@@ -486,14 +486,6 @@
                         "date": "1402\/12\/04",
                         "matchIds": [
                             "football-396937"
-                        ]
-                    },
-                    {
-                        "date": "1402\/12\/05",
-                        "matchIds": [
-                            "football-396940",
-                            "football-397056",
-                            "football-396939"
                         ]
                     }
                 ]
@@ -5699,161 +5691,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396937",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396937\/events",
                 "scheduledStartOn": "2024-02-23T13:30:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01440178.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/26\/B\/22r1xx5x.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 5 اسفند 1402",
-                "scheduledStartTime": "18:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 18,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": null,
-                "id": 396940,
-                "title": null,
-                "sportId": "football-396940",
-                "hostName": "الکساندریا",
-                "hostLink": null,
-                "guestName": "شاختار",
-                "guestLink": "\/football\/team\/296\/شاختار",
-                "hostId": 902482,
-                "guestId": 296,
-                "status": 0,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "18:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/396940\/بازی-الکساندریا-شاختار",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396940",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-24T15:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/07\/C\/02fmq2w2.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/b2lgfwtk.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 5 اسفند 1402",
-                "scheduledStartTime": "18:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 18,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 397056,
-                "title": null,
-                "sportId": "football-397056",
-                "hostName": "زوریا",
-                "hostLink": null,
-                "guestName": "ورسکلا",
-                "guestLink": null,
-                "hostId": 902227,
-                "guestId": 587,
-                "status": 0,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "18:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/397056\/بازی-زوریا-ورسکلا",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397056",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-24T15:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/w3ws20j3.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/exdfa5mk.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 5 اسفند 1402",
-                "scheduledStartTime": "18:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 18,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 396939,
-                "title": null,
-                "sportId": "football-396939",
-                "hostName": "ابولون",
-                "hostLink": null,
-                "guestName": "اودسا",
-                "guestLink": null,
-                "hostId": 903451,
-                "guestId": 903447,
-                "status": 0,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "18:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/396939\/بازی-ابولون-اودسا",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396939",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-24T15:00:00Z",
                 "stadium": null
             },
             {
