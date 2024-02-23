@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708699937,
+    "timeStamp": 1708700366,
     "todayMatches": {
         "leagues": [
             {
@@ -749,10 +749,10 @@
                 "guestLink": "\/futsal\/team\/901037\/فوتسال-مس-سونگون",
                 "hostId": 902957,
                 "guestId": 901037,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "نیمه دوم",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "16:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -2232,8 +2232,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "2",
-                "liveTime": "61",
+                "guestGoals": "3",
+                "liveTime": "68",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/jvals0c0.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/zybq51r3.png",
                 "hasPenalty": false,
@@ -2245,7 +2245,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 2
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": null,
