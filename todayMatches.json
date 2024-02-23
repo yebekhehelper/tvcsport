@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708701467,
+    "timeStamp": 1708702035,
     "todayMatches": {
         "leagues": [
             {
@@ -954,7 +954,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "57",
+                "liveTime": "67",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/23\/B\/5g2bqovg.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/01\/02\/B\/zkd4jnyb.png",
                 "hasPenalty": false,
@@ -1006,8 +1006,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "0",
-                "liveTime": "58",
+                "guestGoals": "1",
+                "liveTime": "67",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551545.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/23\/B\/bfxw4fxd.png",
                 "hasPenalty": false,
@@ -1019,7 +1019,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -2233,7 +2233,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "3",
-                "liveTime": "86",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/jvals0c0.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/zybq51r3.png",
                 "hasPenalty": false,
@@ -2268,10 +2268,10 @@
                 "guestLink": null,
                 "hostId": 903449,
                 "guestId": 903448,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "17:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
