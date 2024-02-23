@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708665210,
+    "timeStamp": 1708665978,
     "todayMatches": {
         "leagues": [
             {
@@ -3409,8 +3409,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "113",
-                "guestPoint": "96",
+                "hostPoint": "121",
+                "guestPoint": "102",
                 "quarterPoints1": {
                     "host": 31,
                     "guest": 28
@@ -3424,8 +3424,8 @@
                     "guest": 26
                 },
                 "quarterPoints4": {
-                    "host": 15,
-                    "guest": 14
+                    "host": 23,
+                    "guest": 20
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3458,7 +3458,7 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "126",
+                "hostPoint": "127",
                 "guestPoint": "122",
                 "quarterPoints1": {
                     "host": 30,
@@ -3473,7 +3473,7 @@
                     "guest": 30
                 },
                 "quarterPoints4": {
-                    "host": 33,
+                    "host": 34,
                     "guest": 35
                 },
                 "overtimePoints": null,
@@ -3490,10 +3490,10 @@
                 "guestLink": null,
                 "hostId": 902790,
                 "guestId": 902791,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -3668,7 +3668,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "7",
+                "liveTime": "20",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169153.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/05\/06\/C\/l45hrwu0.png",
                 "hasPenalty": false,
