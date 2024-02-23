@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708656821,
+    "timeStamp": 1708657583,
     "todayMatches": {
         "leagues": [
             {
@@ -3115,8 +3115,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "120",
-                "guestPoint": "108",
+                "hostPoint": "123",
+                "guestPoint": "113",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 33
@@ -3130,8 +3130,8 @@
                     "guest": 28
                 },
                 "quarterPoints4": {
-                    "host": 24,
-                    "guest": 17
+                    "host": 27,
+                    "guest": 22
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3147,13 +3147,13 @@
                 "guestLink": null,
                 "hostId": 902780,
                 "guestId": 902788,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62676\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%AF%D8%A7%D9%84%D8%A7%D8%B3-%D9%85%D8%A7%D9%88%D8%B1%DB%8C%DA%A9%D8%B3-%D9%81%DB%8C%D9%86%DB%8C%DA%A9%D8%B3-%D8%B3%D8%A7%D9%86%D8%B2-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106854\/بازی-دالاس-ماوریکس-فینیکس-سانز",
@@ -3164,8 +3164,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "106",
-                "guestPoint": "90",
+                "hostPoint": "115",
+                "guestPoint": "99",
                 "quarterPoints1": {
                     "host": 35,
                     "guest": 33
@@ -3179,8 +3179,8 @@
                     "guest": 23
                 },
                 "quarterPoints4": {
-                    "host": 10,
-                    "guest": 8
+                    "host": 19,
+                    "guest": 17
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3213,8 +3213,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "101",
-                "guestPoint": "75",
+                "hostPoint": "111",
+                "guestPoint": "84",
                 "quarterPoints1": {
                     "host": 31,
                     "guest": 27
@@ -3225,9 +3225,12 @@
                 },
                 "quarterPoints3": {
                     "host": 38,
-                    "guest": 25
+                    "guest": 29
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 10,
+                    "guest": 5
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -3259,8 +3262,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "90",
-                "guestPoint": "109",
+                "hostPoint": "105",
+                "guestPoint": "122",
                 "quarterPoints1": {
                     "host": 23,
                     "guest": 31
@@ -3274,8 +3277,8 @@
                     "guest": 37
                 },
                 "quarterPoints4": {
-                    "host": 7,
-                    "guest": 13
+                    "host": 22,
+                    "guest": 26
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3308,15 +3311,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "60",
-                "guestPoint": "38",
+                "hostPoint": "72",
+                "guestPoint": "49",
                 "quarterPoints1": {
                     "host": 38,
                     "guest": 25
                 },
                 "quarterPoints2": {
-                    "host": 22,
-                    "guest": 13
+                    "host": 34,
+                    "guest": 24
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -3351,15 +3354,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "38",
-                "guestPoint": "39",
+                "hostPoint": "46",
+                "guestPoint": "51",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 34
                 },
                 "quarterPoints2": {
-                    "host": 12,
-                    "guest": 5
+                    "host": 20,
+                    "guest": 17
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
