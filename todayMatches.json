@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708779321,
+    "timeStamp": 1708780136,
     "todayMatches": {
         "leagues": [
             {
@@ -2552,9 +2552,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "23",
+                "liveTime": "37",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167879.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167985.png",
                 "hasPenalty": false,
@@ -2565,7 +2565,7 @@
                 "round": 34,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -2590,12 +2590,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "16:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/394194\/بازی-هال-سیتی-وست-برومویچ",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394194",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394194\/events",
                 "scheduledStartOn": "2024-02-24T12:30:00Z",
                 "stadium": null
             },
@@ -3087,9 +3087,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "9",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633904.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400035.png",
                 "hasPenalty": false,
@@ -3120,10 +3120,10 @@
                 "guestLink": "\/football\/team\/902475\/باشاک-شهیر",
                 "hostId": 902725,
                 "guestId": 902475,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "16:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
