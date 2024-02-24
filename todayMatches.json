@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708746084,
+    "timeStamp": 1708746531,
     "todayMatches": {
         "leagues": [
             {
@@ -4627,8 +4627,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "113",
-                "guestPoint": "111",
+                "hostPoint": "114",
+                "guestPoint": "110",
                 "quarterPoints1": {
                     "host": 20,
                     "guest": 28
@@ -4642,8 +4642,8 @@
                     "guest": 24
                 },
                 "quarterPoints4": {
-                    "host": 24,
-                    "guest": 35
+                    "host": 25,
+                    "guest": 34
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4659,10 +4659,10 @@
                 "guestLink": null,
                 "hostId": 902782,
                 "guestId": 902788,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -4823,11 +4823,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "21",
-                "guestPoint": "26",
+                "hostPoint": "27",
+                "guestPoint": "33",
                 "quarterPoints1": {
-                    "host": 21,
-                    "guest": 26
+                    "host": 27,
+                    "guest": 31
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
@@ -4863,13 +4863,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "22",
+                "hostPoint": "24",
                 "guestPoint": "18",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 15
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 2,
+                    "guest": 3
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -4903,15 +4906,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "25",
-                "guestPoint": "30",
+                "hostPoint": "31",
+                "guestPoint": "39",
                 "quarterPoints1": {
                     "host": 20,
                     "guest": 25
                 },
                 "quarterPoints2": {
-                    "host": 5,
-                    "guest": 5
+                    "host": 11,
+                    "guest": 14
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4946,9 +4949,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "7",
+                "guestPoint": "10",
+                "quarterPoints1": {
+                    "host": 7,
+                    "guest": 10
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4966,10 +4972,10 @@
                 "guestLink": null,
                 "hostId": 902784,
                 "guestId": 902791,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "07:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62600\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2-%D8%B3%D9%86-%D8%A2%D9%86%D8%AA%D9%88%D9%86%DB%8C%D9%88-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
