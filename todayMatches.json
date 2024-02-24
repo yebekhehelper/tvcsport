@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708759941,
+    "timeStamp": 1708760367,
     "todayMatches": {
         "leagues": [
             {
@@ -5358,7 +5358,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "69",
+                "liveTime": "76",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2024\/02\/13\/C\/ekq1i4zj.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168123.png",
                 "hasPenalty": false,
@@ -5406,8 +5406,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "1",
-                "liveTime": "72",
+                "guestGoals": "2",
+                "liveTime": "79",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168133.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551538.png",
                 "hasPenalty": false,
@@ -5419,7 +5419,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -5450,9 +5450,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "2",
+                "hostGoals": "1",
                 "guestGoals": "2",
-                "liveTime": "72",
+                "liveTime": "79",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01576473.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169151.png",
                 "hasPenalty": false,
@@ -5463,7 +5463,7 @@
                 "round": 1,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 2,
+                    "host": 1,
                     "guest": 2
                 },
                 "videoId": null,
