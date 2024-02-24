@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708752771,
+    "timeStamp": 1708753201,
     "todayMatches": {
         "leagues": [
             {
@@ -4490,7 +4490,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/325572\/خلاصه-بسکتبال-فیلادلفیا-کلیولند-کاوالیرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106676\/بازی-فیلادلفیا-کلیولند-کاوالیرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106676",
@@ -4777,10 +4777,10 @@
                 "guestLink": null,
                 "hostId": 902786,
                 "guestId": 902801,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -4892,8 +4892,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "114",
-                "guestPoint": "98",
+                "hostPoint": "116",
+                "guestPoint": "101",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 26
@@ -4907,8 +4907,8 @@
                     "guest": 31
                 },
                 "quarterPoints4": {
-                    "host": 17,
-                    "guest": 8
+                    "host": 19,
+                    "guest": 11
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -5836,7 +5836,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "2",
-                "liveTime": "73",
+                "liveTime": "80",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/B\/ncbt5i2j.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551536.jpg",
                 "hasPenalty": false,
@@ -5885,7 +5885,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "29",
+                "liveTime": "36",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618073.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618074.png",
                 "hasPenalty": false,
@@ -5930,7 +5930,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "28",
+                "liveTime": "35",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618069.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/B\/zxbshcd1.png",
                 "hasPenalty": false,
