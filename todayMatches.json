@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708742124,
+    "timeStamp": 1708742602,
     "todayMatches": {
         "leagues": [
             {
@@ -198,7 +198,6 @@
                     {
                         "date": "1402\/12\/05",
                         "matchIds": [
-                            "football-400533",
                             "football-401027",
                             "football-401028"
                         ]
@@ -2443,59 +2442,6 @@
                 "hostGoals": "",
                 "guestGoals": "",
                 "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/ybpgc5ep.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/rl1bh2ee.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 5 اسفند 1402",
-                "scheduledStartTime": "00:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": null,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 400533,
-                "title": null,
-                "sportId": "football-400533",
-                "hostName": "اروگوئه",
-                "hostLink": "\/football\/team\/472\/اروگوئه",
-                "guestName": "اکوادور",
-                "guestLink": "\/football\/team\/461\/اکوادور",
-                "hostId": 472,
-                "guestId": 461,
-                "status": 1,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "00:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/400533\/بازی-اروگوئه-اکوادور",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400533",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-23T21:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/12\/C\/jegossuh.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150408.png",
                 "hasPenalty": false,
@@ -4583,8 +4529,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "85",
-                "guestPoint": "81",
+                "hostPoint": "90",
+                "guestPoint": "85",
                 "quarterPoints1": {
                     "host": 25,
                     "guest": 25
@@ -4598,8 +4544,8 @@
                     "guest": 20
                 },
                 "quarterPoints4": {
-                    "host": 11,
-                    "guest": 11
+                    "host": 16,
+                    "guest": 15
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4632,8 +4578,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "105",
-                "guestPoint": "110",
+                "hostPoint": "114",
+                "guestPoint": "116",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 33
@@ -4647,8 +4593,8 @@
                     "guest": 31
                 },
                 "quarterPoints4": {
-                    "host": 15,
-                    "guest": 14
+                    "host": 22,
+                    "guest": 20
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4681,8 +4627,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "72",
-                "guestPoint": "64",
+                "hostPoint": "81",
+                "guestPoint": "68",
                 "quarterPoints1": {
                     "host": 20,
                     "guest": 28
@@ -4692,8 +4638,8 @@
                     "guest": 24
                 },
                 "quarterPoints3": {
-                    "host": 15,
-                    "guest": 12
+                    "host": 24,
+                    "guest": 16
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -4727,8 +4673,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "69",
-                "guestPoint": "65",
+                "hostPoint": "75",
+                "guestPoint": "74",
                 "quarterPoints1": {
                     "host": 29,
                     "guest": 29
@@ -4738,8 +4684,8 @@
                     "guest": 24
                 },
                 "quarterPoints3": {
-                    "host": 10,
-                    "guest": 12
+                    "host": 16,
+                    "guest": 21
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -4773,8 +4719,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "93",
-                "guestPoint": "70",
+                "hostPoint": "107",
+                "guestPoint": "77",
                 "quarterPoints1": {
                     "host": 41,
                     "guest": 28
@@ -4784,8 +4730,8 @@
                     "guest": 29
                 },
                 "quarterPoints3": {
-                    "host": 13,
-                    "guest": 13
+                    "host": 27,
+                    "guest": 20
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -4819,8 +4765,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "66",
-                "guestPoint": "74",
+                "hostPoint": "74",
+                "guestPoint": "79",
                 "quarterPoints1": {
                     "host": 24,
                     "guest": 31
@@ -4830,8 +4776,8 @@
                     "guest": 27
                 },
                 "quarterPoints3": {
-                    "host": 8,
-                    "guest": 16
+                    "host": 16,
+                    "guest": 21
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
