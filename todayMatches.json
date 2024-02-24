@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708749611,
+    "timeStamp": 1708750093,
     "todayMatches": {
         "leagues": [
             {
@@ -4823,8 +4823,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "61",
-                "guestPoint": "60",
+                "hostPoint": "68",
+                "guestPoint": "71",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 31
@@ -4834,8 +4834,8 @@
                     "guest": 20
                 },
                 "quarterPoints3": {
-                    "host": 4,
-                    "guest": 9
+                    "host": 11,
+                    "guest": 20
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -4869,8 +4869,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "64",
-                "guestPoint": "45",
+                "hostPoint": "73",
+                "guestPoint": "52",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 15
@@ -4880,8 +4880,8 @@
                     "guest": 14
                 },
                 "quarterPoints3": {
-                    "host": 21,
-                    "guest": 16
+                    "host": 30,
+                    "guest": 23
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -4915,8 +4915,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "72",
-                "guestPoint": "89",
+                "hostPoint": "77",
+                "guestPoint": "95",
                 "quarterPoints1": {
                     "host": 20,
                     "guest": 25
@@ -4926,8 +4926,8 @@
                     "guest": 38
                 },
                 "quarterPoints3": {
-                    "host": 24,
-                    "guest": 26
+                    "host": 29,
+                    "guest": 32
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -5899,7 +5899,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "37",
+                "liveTime": "45",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/B\/ncbt5i2j.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551536.jpg",
                 "hasPenalty": false,
