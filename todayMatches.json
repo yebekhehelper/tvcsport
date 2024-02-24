@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708815222,
+    "timeStamp": 1708815851,
     "todayMatches": {
         "leagues": [
             {
@@ -6435,7 +6435,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "51",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/kzwjwzps.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/xcqhgbpl.png",
                 "hasPenalty": false,
@@ -6472,7 +6472,7 @@
                 "guestId": 903109,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "01:15",
                 "hasEvents": true,
