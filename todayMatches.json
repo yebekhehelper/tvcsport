@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708776572,
+    "timeStamp": 1708778014,
     "todayMatches": {
         "leagues": [
             {
@@ -2552,9 +2552,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "1",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167879.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167985.png",
                 "hasPenalty": false,
@@ -2585,10 +2585,10 @@
                 "guestLink": "\/football\/team\/275\/وست-برومویچ",
                 "hostId": 99,
                 "guestId": 275,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "16:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -3034,9 +3034,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "2",
+                "hostGoals": "3",
                 "guestGoals": "2",
-                "liveTime": "76",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/xxgyfzsh.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/ko3j35ft.png",
                 "hasPenalty": false,
@@ -3047,7 +3047,7 @@
                 "round": 27,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 2,
+                    "host": 3,
                     "guest": 2
                 },
                 "videoId": null,
@@ -3071,13 +3071,13 @@
                 "guestLink": null,
                 "hostId": 902622,
                 "guestId": 902621,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "14:00",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62596\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DA%A9%D8%A7%DB%8C%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1-%D8%A2%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%DA%AF%D9%88%DA%86%D9%88?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/395205\/بازی-کایسری-اسپور-آنکاراگوچو",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395205",
