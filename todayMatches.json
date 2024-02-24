@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708751283,
+    "timeStamp": 1708752318,
     "todayMatches": {
         "leagues": [
             {
@@ -282,9 +282,7 @@
                         "date": "1402\/12\/05",
                         "matchIds": [
                             "beachsoccer-175",
-                            "beachsoccer-177",
-                            "beachsoccer-176",
-                            "beachsoccer-178"
+                            "beachsoccer-176"
                         ]
                     }
                 ]
@@ -3359,49 +3357,11 @@
                 "isLive": false,
                 "time": "17:30",
                 "hasEvents": false,
-                "liveStreamSource": "",
+                "liveStreamSource": "https:\/\/www.anten.ir\/beach-soccer\/62601\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%D8%AD%D9%84%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%B2%DB%8C%D9%84?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/beach-soccer\/match\/175\/بازی-ایران-برزیل",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/beach-soccer\/matches\/175",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-24T14:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 41,
-                "hostGoals": "",
-                "guestGoals": "",
-                "firstTime": null,
-                "secondTime": null,
-                "thirdTime": null,
-                "extraTime": null,
-                "penalties": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartDate": " 5 اسفند 1402",
-                "scheduledStartTime": "17:30",
-                "hasPenalty": false,
-                "id": 177,
-                "title": null,
-                "sportId": "beachsoccer-177",
-                "hostName": "ایران",
-                "hostLink": null,
-                "guestName": "برزیل",
-                "guestLink": null,
-                "hostId": 900934,
-                "guestId": 901571,
-                "status": 1,
-                "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
-                "time": "17:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "videoId": null,
-                "matchPageLink": "\/beach-soccer\/match\/177\/بازی-ایران-برزیل",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/beach-soccer\/matches\/177",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-02-24T14:00:00Z",
                 "stadium": null
@@ -3435,49 +3395,11 @@
                 "isLive": false,
                 "time": "19:00",
                 "hasEvents": false,
-                "liveStreamSource": "",
+                "liveStreamSource": "https:\/\/www.anten.ir\/beach-soccer\/62602\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%D8%AD%D9%84%DB%8C-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D8%A8%D9%84%D8%A7%D8%B1%D9%88%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/beach-soccer\/match\/176\/بازی-ایتالیا-بلاروس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/beach-soccer\/matches\/176",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-24T15:30:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 41,
-                "hostGoals": "",
-                "guestGoals": "",
-                "firstTime": null,
-                "secondTime": null,
-                "thirdTime": null,
-                "extraTime": null,
-                "penalties": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartDate": " 5 اسفند 1402",
-                "scheduledStartTime": "19:00",
-                "hasPenalty": false,
-                "id": 178,
-                "title": null,
-                "sportId": "beachsoccer-178",
-                "hostName": "ایتالیا",
-                "hostLink": null,
-                "guestName": "بلاروس",
-                "guestLink": null,
-                "hostId": 901590,
-                "guestId": 902636,
-                "status": 1,
-                "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
-                "time": "19:00",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "videoId": null,
-                "matchPageLink": "\/beach-soccer\/match\/178\/بازی-ایتالیا-بلاروس",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/beach-soccer\/matches\/178",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-02-24T15:30:00Z",
                 "stadium": null
@@ -4823,8 +4745,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "74",
-                "guestPoint": "91",
+                "hostPoint": "98",
+                "guestPoint": "105",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 31
@@ -4838,8 +4760,8 @@
                     "guest": 36
                 },
                 "quarterPoints4": {
-                    "host": 4,
-                    "guest": 4
+                    "host": 28,
+                    "guest": 18
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4872,8 +4794,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "89",
-                "guestPoint": "74",
+                "hostPoint": "97",
+                "guestPoint": "84",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 15
@@ -4887,8 +4809,8 @@
                     "guest": 23
                 },
                 "quarterPoints4": {
-                    "host": 16,
-                    "guest": 22
+                    "host": 24,
+                    "guest": 32
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4904,10 +4826,10 @@
                 "guestLink": null,
                 "hostId": 902409,
                 "guestId": 902796,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -4921,8 +4843,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "91",
-                "guestPoint": "110",
+                "hostPoint": "112",
+                "guestPoint": "127",
                 "quarterPoints1": {
                     "host": 20,
                     "guest": 25
@@ -4936,8 +4858,8 @@
                     "guest": 32
                 },
                 "quarterPoints4": {
-                    "host": 14,
-                    "guest": 15
+                    "host": 35,
+                    "guest": 32
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4953,10 +4875,10 @@
                 "guestLink": null,
                 "hostId": 902789,
                 "guestId": 902781,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -4970,8 +4892,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "87",
-                "guestPoint": "74",
+                "hostPoint": "105",
+                "guestPoint": "95",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 26
@@ -4981,10 +4903,13 @@
                     "guest": 33
                 },
                 "quarterPoints3": {
-                    "host": 21,
-                    "guest": 15
+                    "host": 31,
+                    "guest": 31
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 8,
+                    "guest": 5
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -5005,7 +4930,7 @@
                 "isLive": true,
                 "time": "07:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62600\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2-%D8%B3%D9%86-%D8%A2%D9%86%D8%AA%D9%88%D9%86%DB%8C%D9%88-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106891\/بازی-لس-آنجلس-لیکرز-سن-آنتونیو-اسپرز",
@@ -5910,8 +5835,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": "48",
+                "guestGoals": "2",
+                "liveTime": "65",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/B\/ncbt5i2j.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551536.jpg",
                 "hasPenalty": false,
@@ -5923,7 +5848,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -5960,7 +5885,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "4",
+                "liveTime": "21",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618073.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618074.png",
                 "hasPenalty": false,
@@ -6003,9 +5928,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "3",
+                "liveTime": "20",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618069.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/B\/zxbshcd1.png",
                 "hasPenalty": false,
@@ -6016,7 +5941,7 @@
                 "round": 1,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -6041,12 +5966,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "08:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399944\/بازی-ساگان-توسو-آلبیرکس-نیگاتا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399944",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399944\/events",
                 "scheduledStartOn": "2024-02-24T05:00:00Z",
                 "stadium": null
             },
