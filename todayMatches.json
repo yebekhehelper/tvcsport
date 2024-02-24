@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708732639,
+    "timeStamp": 1708735770,
     "todayMatches": {
         "leagues": [
             {
@@ -4583,9 +4583,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "13",
+                "guestPoint": "16",
+                "quarterPoints1": {
+                    "host": 13,
+                    "guest": 16
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4603,10 +4606,10 @@
                 "guestLink": null,
                 "hostId": 902805,
                 "guestId": 902410,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62599\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%81%DB%8C%D9%84%D8%A7%D8%AF%D9%84%D9%81%DB%8C%D8%A7-%D8%B3%D9%88%D9%86%D8%AA%DB%8C-%D8%B3%DB%8C%DA%A9%D8%B3%D8%B1%D8%B2-%DA%A9%D9%84%DB%8C%D9%88%D9%84%D9%86%D8%AF-%DA%A9%D8%A7%D9%88%D8%A7%D9%84%DB%8C%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -4620,9 +4623,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "2",
+                "guestPoint": "11",
+                "quarterPoints1": {
+                    "host": 2,
+                    "guest": 11
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4640,10 +4646,10 @@
                 "guestLink": null,
                 "hostId": 902794,
                 "guestId": 902806,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
