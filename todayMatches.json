@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708901652,
+    "timeStamp": 1708902404,
     "todayMatches": {
         "leagues": [
             {
@@ -3750,8 +3750,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "116",
-                "guestPoint": "106",
+                "hostPoint": "123",
+                "guestPoint": "113",
                 "quarterPoints1": {
                     "host": 45,
                     "guest": 28
@@ -3765,8 +3765,8 @@
                     "guest": 27
                 },
                 "quarterPoints4": {
-                    "host": 21,
-                    "guest": 16
+                    "host": 28,
+                    "guest": 23
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3782,13 +3782,13 @@
                 "guestLink": null,
                 "hostId": 902788,
                 "guestId": 902784,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "00:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62641\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%81%DB%8C%D9%86%DB%8C%DA%A9%D8%B3-%D8%B3%D8%A7%D9%86%D8%B2-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106620\/بازی-فینیکس-سانز-لس-آنجلس-لیکرز",
@@ -3799,15 +3799,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "51",
-                "guestPoint": "47",
+                "hostPoint": "67",
+                "guestPoint": "60",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 32
                 },
                 "quarterPoints2": {
-                    "host": 19,
-                    "guest": 15
+                    "host": 35,
+                    "guest": 28
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4193,7 +4193,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "44",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/5j1zaf2r.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/btpabjuj.png",
                 "hasPenalty": false,
@@ -4230,7 +4230,7 @@
                 "guestId": 901119,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "01:30",
                 "hasEvents": true,
