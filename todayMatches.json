@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708830471,
+    "timeStamp": 1708831332,
     "todayMatches": {
         "leagues": [
             {
@@ -6232,8 +6232,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "103",
-                "guestPoint": "106",
+                "hostPoint": "109",
+                "guestPoint": "112",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 32
@@ -6247,8 +6247,8 @@
                     "guest": 25
                 },
                 "quarterPoints4": {
-                    "host": 18,
-                    "guest": 16
+                    "host": 24,
+                    "guest": 22
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -6281,8 +6281,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "71",
-                "guestPoint": "84",
+                "hostPoint": "84",
+                "guestPoint": "97",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 30
@@ -6292,8 +6292,8 @@
                     "guest": 32
                 },
                 "quarterPoints3": {
-                    "host": 13,
-                    "guest": 22
+                    "host": 26,
+                    "guest": 35
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -6327,7 +6327,7 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "42",
+                "hostPoint": "45",
                 "guestPoint": "45",
                 "quarterPoints1": {
                     "host": 23,
@@ -6727,7 +6727,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "68",
+                "liveTime": "83",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/2jak0r1k.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/0l2zefac.png",
                 "hasPenalty": false,
@@ -6780,7 +6780,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "70",
+                "liveTime": "84",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/fkj055fy.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/1da1cjrk.png",
                 "hasPenalty": false,
@@ -6833,7 +6833,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "70",
+                "liveTime": "84",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/19\/C\/3sjjngr0.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/yxsw3paj.png",
                 "hasPenalty": false,
@@ -6884,9 +6884,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "69",
+                "hostGoals": "1",
+                "guestGoals": "1",
+                "liveTime": "83",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/rz003xef.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/07\/C\/efk3rjnr.png",
                 "hasPenalty": false,
@@ -6897,8 +6897,8 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 0
+                    "host": 1,
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
