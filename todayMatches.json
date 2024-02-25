@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708898250,
+    "timeStamp": 1708899057,
     "todayMatches": {
         "leagues": [
             {
@@ -860,7 +860,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150318.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/13\/B\/ndlaeicb.png",
                 "hasPenalty": false,
@@ -874,7 +874,7 @@
                     "host": 1,
                     "guest": 0
                 },
-                "videoId": null,
+                "videoId": 325711,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#d20b0b",
@@ -895,14 +895,14 @@
                 "guestLink": "\/football\/team\/103\/سویا",
                 "hostId": 102,
                 "guestId": 103,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62612\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B1%D8%A6%D8%A7%D9%84-%D9%85%D8%A7%D8%AF%D8%B1%DB%8C%D8%AF-%D8%B3%D9%88%DB%8C%D8%A7?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
-                "videoLink": null,
+                "liveStreamSource": "",
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/325711\/خلاصه-بازی-رئال-مادرید-1-سویا-0",
                 "matchPageLink": "\/football\/match\/385869\/بازی-رئال-مادرید-سویا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385869",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385869\/events",
@@ -2012,9 +2012,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "2",
-                "liveTime": "65",
+                "hostGoals": "3",
+                "guestGoals": "3",
+                "liveTime": "79",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/ktpxfrus.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/02\/C\/53yaxk3b.png",
                 "hasPenalty": false,
@@ -2025,8 +2025,8 @@
                 "round": 23,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 2,
-                    "guest": 2
+                    "host": 3,
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": null,
@@ -3740,7 +3740,7 @@
                 "time": "21:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/325710\/خلاصه-بسکتبال-فیلادلفیا-سیکسرز-میلواکی-باکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106892\/بازی-فیلادلفیا-میلواکی-باکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106892",
@@ -3750,8 +3750,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "72",
-                "guestPoint": "63",
+                "hostPoint": "80",
+                "guestPoint": "72",
                 "quarterPoints1": {
                     "host": 45,
                     "guest": 28
@@ -3760,7 +3760,10 @@
                     "host": 27,
                     "guest": 35
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 8,
+                    "guest": 9
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4179,9 +4182,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "1",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/5j1zaf2r.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/btpabjuj.png",
                 "hasPenalty": false,
@@ -4216,10 +4219,10 @@
                 "guestLink": "\/football\/team\/901119\/نیویورک-ردبولز",
                 "hostId": 903108,
                 "guestId": 901119,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "01:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
