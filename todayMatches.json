@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708857876,
+    "timeStamp": 1708858321,
     "todayMatches": {
         "leagues": [
             {
@@ -1183,7 +1183,7 @@
                 "guestLink": null,
                 "hostId": 900934,
                 "guestId": 902636,
-                "status": 0,
+                "status": 1,
                 "statusDescription": null,
                 "statusTitle": null,
                 "isLive": false,
@@ -1221,7 +1221,7 @@
                 "guestLink": null,
                 "hostId": 901571,
                 "guestId": 901590,
-                "status": 0,
+                "status": 1,
                 "statusDescription": null,
                 "statusTitle": null,
                 "isLive": false,
@@ -2844,8 +2844,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "16",
+                "guestGoals": "1",
+                "liveTime": "23",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/r5kg0tri.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/29\/C\/uq3yw4q0.png",
                 "hasPenalty": false,
@@ -2857,7 +2857,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -3347,7 +3347,7 @@
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/325646\/خلاصه-بسکتبال-مینه-سوتا-تیمبرولوز-بروکلین-نتس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107255\/بازی-مینه-سوتا-تیمبرولوز-بروکلین-نتس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107255",
