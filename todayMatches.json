@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708858773,
+    "timeStamp": 1708859536,
     "todayMatches": {
         "leagues": [
             {
@@ -426,8 +426,8 @@
                     {
                         "date": "1402\/12\/06",
                         "matchIds": [
-                            "football-396942",
                             "football-397055",
+                            "football-396942",
                             "football-396938",
                             "football-396941"
                         ]
@@ -2845,7 +2845,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "31",
+                "liveTime": "43",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/r5kg0tri.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/29\/C\/uq3yw4q0.png",
                 "hasPenalty": false,
@@ -4942,62 +4942,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/3i0nktfz.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/om3uyb3f.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 6 اسفند 1402",
-                "scheduledStartTime": "14:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 18,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 396942,
-                "title": null,
-                "sportId": "football-396942",
-                "hostName": "ورس ریونه",
-                "hostLink": null,
-                "guestName": "کولوس کوالیوکا",
-                "guestLink": null,
-                "hostId": 903452,
-                "guestId": 903446,
-                "status": 1,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "14:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/396942\/بازی-ورس-ریونه-کولوس-کوالیوکا",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396942",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-25T11:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "5",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/26\/D\/cqepzgm4.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/li5ziulq.png",
                 "hasPenalty": false,
@@ -5032,10 +4979,10 @@
                 "guestLink": null,
                 "hostId": 903074,
                 "guestId": 903453,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "14:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -5044,6 +4991,59 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397055",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-02-25T11:00:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 1,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "7",
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/3i0nktfz.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/om3uyb3f.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 6 اسفند 1402",
+                "scheduledStartTime": "14:35",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": 18,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
+                },
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "hostStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "id": 396942,
+                "title": null,
+                "sportId": "football-396942",
+                "hostName": "ورس ریونه",
+                "hostLink": null,
+                "guestName": "کولوس کوالیوکا",
+                "guestLink": null,
+                "hostId": 903452,
+                "guestId": 903446,
+                "status": 2,
+                "statusDescription": null,
+                "statusTitle": "",
+                "isLive": true,
+                "time": "14:35",
+                "hasEvents": false,
+                "liveStreamSource": "",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/396942\/بازی-ورس-ریونه-کولوس-کوالیوکا",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396942",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-02-25T11:05:00Z",
                 "stadium": null
             },
             {
