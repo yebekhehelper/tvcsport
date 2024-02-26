@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708988219,
+    "timeStamp": 1708989117,
     "todayMatches": {
         "leagues": [
             {
@@ -122,21 +122,6 @@
                         "date": "1402\/12\/07",
                         "matchIds": [
                             "football-391007"
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 68,
-                "logo": "https:\/\/match-cdn.varzesh3.com\/football-league\/2022\/10\/15\/B\/0do55qps.png",
-                "title": "جام حذفی پرتغال",
-                "sport": 1,
-                "link": null,
-                "dates": [
-                    {
-                        "date": "1402\/12\/08",
-                        "matchIds": [
-                            "football-399748"
                         ]
                     }
                 ]
@@ -1368,59 +1353,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391007",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391007\/events",
                 "scheduledStartOn": "2024-02-26T20:15:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01632653.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/05\/01\/B\/pksgd114.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 8 اسفند 1402",
-                "scheduledStartTime": "19:30",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/399748",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/399748",
-                "round": null,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#1d65ca",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 399748,
-                "title": null,
-                "sportId": "football-399748",
-                "hostName": "سانتا کلارا",
-                "hostLink": "\/football\/team\/902728\/سانتا-کلارا",
-                "guestName": "پورتو",
-                "guestLink": "\/football\/team\/403\/پورتو",
-                "hostId": 902728,
-                "guestId": 403,
-                "status": 1,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "19:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/399748\/بازی-سانتا-کلارا-پورتو",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399748",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399748\/events",
-                "scheduledStartOn": "2024-02-27T16:00:00Z",
                 "stadium": null
             },
             {
