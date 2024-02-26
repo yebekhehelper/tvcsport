@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708919816,
+    "timeStamp": 1708920800,
     "todayMatches": {
         "leagues": [
             {
@@ -4142,8 +4142,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "68",
-                "guestPoint": "79",
+                "hostPoint": "80",
+                "guestPoint": "93",
                 "quarterPoints1": {
                     "host": 18,
                     "guest": 24
@@ -4157,8 +4157,8 @@
                     "guest": 23
                 },
                 "quarterPoints4": {
-                    "host": 9,
-                    "guest": 9
+                    "host": 21,
+                    "guest": 23
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4174,10 +4174,10 @@
                 "guestLink": null,
                 "hostId": 902789,
                 "guestId": 902796,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -4191,8 +4191,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "51",
-                "guestPoint": "58",
+                "hostPoint": "62",
+                "guestPoint": "75",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 25
@@ -4201,7 +4201,10 @@
                     "host": 23,
                     "guest": 33
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 11,
+                    "guest": 17
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4341,8 +4344,8 @@
             {
                 "sport": 1,
                 "hostGoals": "1",
-                "guestGoals": "0",
-                "liveTime": "87",
+                "guestGoals": "1",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/12\/B\/m0joqcr1.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/24\/C\/5501eu2y.png",
                 "hasPenalty": false,
@@ -4354,7 +4357,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 1,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -4377,13 +4380,13 @@
                 "guestLink": "\/football\/team\/903067\/اینتر-میامی",
                 "hostId": 473,
                 "guestId": 903067,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "05:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62644\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%DA%AF%D9%84%DA%A9%D8%B3%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1-%D9%85%DB%8C%D8%A7%D9%85%DB%8C?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400548\/بازی-لس-آنجلس-گلکسی-اینتر-میامی",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400548",
