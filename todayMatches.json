@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708914557,
+    "timeStamp": 1708915088,
     "todayMatches": {
         "leagues": [
             {
@@ -3898,7 +3898,7 @@
             {
                 "sport": 4,
                 "hostPoint": "103",
-                "guestPoint": "113",
+                "guestPoint": "119",
                 "quarterPoints1": {
                     "host": 36,
                     "guest": 30
@@ -3913,7 +3913,7 @@
                 },
                 "quarterPoints4": {
                     "host": 16,
-                    "guest": 22
+                    "guest": 28
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3929,13 +3929,13 @@
                 "guestLink": null,
                 "hostId": 902409,
                 "guestId": 902781,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62642\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%DA%AF%D9%84%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D8%AA-%D9%88%D8%A7%D8%B1%DB%8C%D8%B1%D8%B2-%D8%AF%D9%86%D9%88%D8%B1-%D9%86%D8%A7%DA%AF%D8%AA%D8%B3-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106811\/بازی-گلدن-استیت-واریرز-دنور-ناگتس",
@@ -4093,8 +4093,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "72",
-                "guestPoint": "54",
+                "hostPoint": "80",
+                "guestPoint": "59",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 18
@@ -4104,8 +4104,8 @@
                     "guest": 21
                 },
                 "quarterPoints3": {
-                    "host": 9,
-                    "guest": 15
+                    "host": 17,
+                    "guest": 20
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -4140,10 +4140,10 @@
             {
                 "sport": 4,
                 "hostPoint": "18",
-                "guestPoint": "17",
+                "guestPoint": "24",
                 "quarterPoints1": {
                     "host": 18,
-                    "guest": 17
+                    "guest": 24
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
@@ -4324,7 +4324,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "19",
+                "liveTime": "28",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/12\/B\/m0joqcr1.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/24\/C\/5501eu2y.png",
                 "hasPenalty": false,
