@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1708918937,
+    "timeStamp": 1708919373,
     "todayMatches": {
         "leagues": [
             {
@@ -4142,8 +4142,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "59",
-                "guestPoint": "69",
+                "hostPoint": "65",
+                "guestPoint": "73",
                 "quarterPoints1": {
                     "host": 18,
                     "guest": 24
@@ -4154,9 +4154,12 @@
                 },
                 "quarterPoints3": {
                     "host": 25,
-                    "guest": 22
+                    "guest": 23
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 6,
+                    "guest": 3
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -4189,14 +4192,14 @@
             {
                 "sport": 4,
                 "hostPoint": "51",
-                "guestPoint": "56",
+                "guestPoint": "58",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 25
                 },
                 "quarterPoints2": {
                     "host": 23,
-                    "guest": 31
+                    "guest": 33
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4337,9 +4340,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "72",
+                "liveTime": "79",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/12\/B\/m0joqcr1.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/24\/C\/5501eu2y.png",
                 "hasPenalty": false,
@@ -4350,7 +4353,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
