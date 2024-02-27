@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709075899,
+    "timeStamp": 1709076324,
     "todayMatches": {
         "leagues": [
             {
@@ -1625,9 +1625,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1 (2)",
-                "guestGoals": "1 (2)",
-                "liveTime": "",
+                "hostGoals": "1 (4)",
+                "guestGoals": "1 (5)",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167991.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167883.png",
                 "hasPenalty": false,
@@ -1637,8 +1637,8 @@
                 "predictionUrl": null,
                 "round": null,
                 "penaltyGoals": {
-                    "host": 2,
-                    "guest": 2
+                    "host": 4,
+                    "guest": 5
                 },
                 "matchGoals": {
                     "host": 1,
@@ -1665,13 +1665,13 @@
                 "guestLink": "\/football\/team\/106\/مایورکا",
                 "hostId": 278,
                 "guestId": 106,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "پنالتی",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "00:00",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62764\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B1%D8%A6%D8%A7%D9%84-%D8%B3%D9%88%D8%B3%DB%8C%D8%AF%D8%A7%D8%AF-%D9%85%D8%A7%DB%8C%D9%88%D8%B1%DA%A9%D8%A7?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399810\/بازی-رئال-سوسیداد-مایورکا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399810",
