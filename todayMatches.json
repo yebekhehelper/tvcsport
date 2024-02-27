@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709075180,
+    "timeStamp": 1709075899,
     "todayMatches": {
         "leagues": [
             {
@@ -1625,9 +1625,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
-                "guestGoals": "1",
-                "liveTime": "105+",
+                "hostGoals": "1 (2)",
+                "guestGoals": "1 (2)",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167991.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167883.png",
                 "hasPenalty": false,
@@ -1636,7 +1636,10 @@
                 "predictionLink": null,
                 "predictionUrl": null,
                 "round": null,
-                "penaltyGoals": null,
+                "penaltyGoals": {
+                    "host": 2,
+                    "guest": 2
+                },
                 "matchGoals": {
                     "host": 1,
                     "guest": 1
@@ -1664,7 +1667,7 @@
                 "guestId": 106,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پنالتی",
                 "isLive": true,
                 "time": "00:00",
                 "hasEvents": true,
