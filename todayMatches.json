@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709010874,
+    "timeStamp": 1709011594,
     "todayMatches": {
         "leagues": [
             {
@@ -44,6 +44,7 @@
                     {
                         "date": "1402\/12\/08",
                         "matchIds": [
+                            "football-399251",
                             "football-399247",
                             "football-399248",
                             "football-399252",
@@ -51,7 +52,6 @@
                             "football-399253",
                             "football-399249",
                             "football-399250",
-                            "football-399251",
                             "football-399254"
                         ]
                     }
@@ -471,6 +471,59 @@
                 "hostGoals": "",
                 "guestGoals": "",
                 "liveTime": null,
+                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150548.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/22\/B\/dqgun1p2.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 8 اسفند 1402",
+                "scheduledStartTime": "14:30",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": 21,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
+                },
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "hostStyle": {
+                    "backgroundColor": "#f5d314",
+                    "font": 1,
+                    "fontColor": "#0F1928"
+                },
+                "id": 399251,
+                "title": null,
+                "sportId": "football-399251",
+                "hostName": "نفت مسجدسلیمان",
+                "hostLink": "\/football\/team\/300\/نفت-مسجدسلیمان",
+                "guestName": "دریا بابل",
+                "guestLink": "\/football\/team\/902751\/دریا-بابل",
+                "hostId": 300,
+                "guestId": 902751,
+                "status": 0,
+                "statusDescription": null,
+                "statusTitle": "",
+                "isLive": false,
+                "time": "14:30",
+                "hasEvents": false,
+                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62854\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%86%D9%81%D8%AA-%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86-%D8%AF%D8%B1%DB%8C%D8%A7-%DA%A9%D8%A7%D8%B3%D9%BE%DB%8C%D9%86-%D8%A8%D8%A7%D8%A8%D9%84?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/399251\/بازی-نفت-مسجدسلیمان-دریا-بابل",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399251",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-02-27T11:00:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/18\/D\/xyzlwvow.PNG",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01546047.png",
                 "hasPenalty": false,
@@ -833,59 +886,6 @@
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399250\/بازی-نفت-و-گاز-گچساران-فجر-سپاسی",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399250",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-02-27T11:45:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150548.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/22\/B\/dqgun1p2.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 8 اسفند 1402",
-                "scheduledStartTime": "15:15",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 21,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#f5d314",
-                    "font": 1,
-                    "fontColor": "#0F1928"
-                },
-                "id": 399251,
-                "title": null,
-                "sportId": "football-399251",
-                "hostName": "نفت مسجدسلیمان",
-                "hostLink": "\/football\/team\/300\/نفت-مسجدسلیمان",
-                "guestName": "دریا بابل",
-                "guestLink": "\/football\/team\/902751\/دریا-بابل",
-                "hostId": 300,
-                "guestId": 902751,
-                "status": 0,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "15:15",
-                "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62854\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%86%D9%81%D8%AA-%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86-%D8%AF%D8%B1%DB%8C%D8%A7-%DA%A9%D8%A7%D8%B3%D9%BE%DB%8C%D9%86-%D8%A8%D8%A7%D8%A8%D9%84?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/399251\/بازی-نفت-مسجدسلیمان-دریا-بابل",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399251",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-02-27T11:45:00Z",
                 "stadium": null
@@ -1770,7 +1770,7 @@
             {
                 "sport": 4,
                 "hostPoint": "110",
-                "guestPoint": "119",
+                "guestPoint": "121",
                 "quarterPoints1": {
                     "host": 33,
                     "guest": 32
@@ -1785,7 +1785,7 @@
                 },
                 "quarterPoints4": {
                     "host": 29,
-                    "guest": 18
+                    "guest": 20
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -1801,13 +1801,13 @@
                 "guestLink": null,
                 "hostId": 902790,
                 "guestId": 902800,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62758\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%DA%A9%D8%B1%D8%A7%D9%85%D9%86%D8%AA%D9%88-%DA%A9%DB%8C%D9%86%DA%AF%D8%B2-%D9%85%DB%8C%D8%A7%D9%85%DB%8C-%D9%87%DB%8C%D8%AA?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107261\/بازی-ساکرامنتو-کینگز-میامی-هیت",
