@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709031597,
+    "timeStamp": 1709032392,
     "todayMatches": {
         "leagues": [
             {
@@ -155,16 +155,16 @@
         "matches": [
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "14",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01437525.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01323791.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 8 اسفند 1402",
                 "scheduledStartTime": "14:30",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/398829",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/398829",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 18,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -192,10 +192,10 @@
                 "guestLink": "\/football\/team\/37\/نساجی-مازندران",
                 "hostId": 44,
                 "guestId": 37,
-                "status": 0,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "14:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62751\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DA%AF%D9%84-%DA%AF%D9%87%D8%B1-%D9%86%D8%B3%D8%A7%D8%AC%DB%8C?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
