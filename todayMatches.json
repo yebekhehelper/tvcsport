@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709110649,
+    "timeStamp": 1709111518,
     "todayMatches": {
         "leagues": [
             {
@@ -315,8 +315,8 @@
                 "hasPenalty": false,
                 "scheduledStartDate": " 9 اسفند 1402",
                 "scheduledStartTime": "15:00",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/398824",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/398824",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 18,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -344,13 +344,13 @@
                 "guestLink": "\/football\/team\/902565\/هوادار",
                 "hostId": 901631,
                 "guestId": 902565,
-                "status": 0,
-                "statusDescription": null,
-                "statusTitle": "",
+                "status": 4,
+                "statusDescription": "بازی به دلیل برف سنگین در اراک به تعویق افتاد.",
+                "statusTitle": "تعویق",
                 "isLive": false,
                 "time": "15:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62780\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%D8%A7%D8%B1%D8%A7%DA%A9-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/398824\/بازی-آلومینیوم-اراک-هوادار",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/398824",
