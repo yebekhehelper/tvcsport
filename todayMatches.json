@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709104790,
+    "timeStamp": 1709105237,
     "todayMatches": {
         "leagues": [
             {
@@ -2379,7 +2379,7 @@
                 "sportId": "basketball-106723",
                 "hostName": "بوستون سلتیکس",
                 "hostLink": null,
-                "guestName": "فیلادلفیا",
+                "guestName": "فیلادلفیا سیکسرز",
                 "guestLink": null,
                 "hostId": 902795,
                 "guestId": 902805,
@@ -2392,7 +2392,7 @@
                 "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
-                "matchPageLink": "\/basketball\/match\/106723\/بازی-بوستون-سلتیکس-فیلادلفیا",
+                "matchPageLink": "\/basketball\/match\/106723\/بازی-بوستون-سلتیکس-فیلادلفیا-سیکسرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106723",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-02-28T00:30:00Z",
