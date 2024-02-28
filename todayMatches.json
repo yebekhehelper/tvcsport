@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709135922,
+    "timeStamp": 1709137076,
     "todayMatches": {
         "leagues": [
             {
@@ -1135,7 +1135,7 @@
             {
                 "sport": 3,
                 "hostPoint": "1",
-                "guestPoint": "1",
+                "guestPoint": "2",
                 "setPoints1": {
                     "host": 21,
                     "guest": 25
@@ -1145,10 +1145,13 @@
                     "guest": 25
                 },
                 "setPoints3": {
-                    "host": 12,
-                    "guest": 11
+                    "host": 22,
+                    "guest": 25
                 },
-                "setPoints4": null,
+                "setPoints4": {
+                    "host": 5,
+                    "guest": 5
+                },
                 "setPoints5": null,
                 "hostLogo": null,
                 "guestLogo": null,
@@ -1231,7 +1234,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "65",
+                "liveTime": "84",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400036.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400035.png",
                 "hasPenalty": false,
@@ -2428,7 +2431,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "57",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168753.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/12\/B\/zwvdneil.png",
                 "hasPenalty": false,
@@ -2465,7 +2468,7 @@
                 "guestId": 903429,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "18:30",
                 "hasEvents": true,
@@ -2481,7 +2484,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "59",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/C\/n43nldlo.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168381.png",
                 "hasPenalty": false,
@@ -2514,7 +2517,7 @@
                 "guestId": 532,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "18:30",
                 "hasEvents": true,
