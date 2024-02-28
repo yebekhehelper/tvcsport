@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709135477,
+    "timeStamp": 1709135922,
     "todayMatches": {
         "leagues": [
             {
@@ -1231,7 +1231,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "57",
+                "liveTime": "65",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400036.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400035.png",
                 "hasPenalty": false,
@@ -2428,7 +2428,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "45+",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168753.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/12\/B\/zwvdneil.png",
                 "hasPenalty": false,
@@ -2465,7 +2465,7 @@
                 "guestId": 903429,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "18:30",
                 "hasEvents": true,
