@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709135032,
+    "timeStamp": 1709135477,
     "todayMatches": {
         "leagues": [
             {
@@ -415,7 +415,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150479.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01199233.png",
                 "hasPenalty": false,
@@ -429,7 +429,7 @@
                     "host": 0,
                     "guest": 1
                 },
-                "videoId": null,
+                "videoId": 326003,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#d70808",
@@ -450,14 +450,14 @@
                 "guestLink": "\/football\/team\/6\/پرسپولیس",
                 "hostId": 1,
                 "guestId": 6,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "17:15",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62782\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
-                "videoLink": null,
+                "liveStreamSource": "",
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326003\/خلاصه-بازی-ذوب-آهن-0-پرسپولیس-1",
                 "matchPageLink": "\/football\/match\/398828\/بازی-ذوب-آهن-پرسپولیس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/398828",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/398828\/events",
@@ -1144,7 +1144,10 @@
                     "host": 22,
                     "guest": 25
                 },
-                "setPoints3": null,
+                "setPoints3": {
+                    "host": 12,
+                    "guest": 11
+                },
                 "setPoints4": null,
                 "setPoints5": null,
                 "hostLogo": null,
@@ -1226,9 +1229,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "50",
+                "liveTime": "57",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400036.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400035.png",
                 "hasPenalty": false,
@@ -1239,7 +1242,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -2425,7 +2428,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "42",
+                "liveTime": "45+",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168753.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/12\/B\/zwvdneil.png",
                 "hasPenalty": false,
@@ -2478,7 +2481,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "42",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/C\/n43nldlo.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168381.png",
                 "hasPenalty": false,
@@ -2511,7 +2514,7 @@
                 "guestId": 532,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "18:30",
                 "hasEvents": true,
