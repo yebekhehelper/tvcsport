@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709088892,
+    "timeStamp": 1709089728,
     "todayMatches": {
         "leagues": [
             {
@@ -2383,13 +2383,13 @@
                 "guestLink": null,
                 "hostId": 902795,
                 "guestId": 902805,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62795\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D9%88%D8%B3%D8%AA%D9%88%D9%86-%D8%B3%D9%84%D8%AA%DB%8C%DA%A9%D8%B3-%D9%81%DB%8C%D9%84%D8%A7%D8%AF%D9%84%D9%81%DB%8C%D8%A7-%D8%B3%D9%88%D9%86%D8%AA%DB%8C-%D8%B3%DB%8C%DA%A9%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106723\/بازی-بوستون-سلتیکس-فیلادلفیا",
@@ -2498,8 +2498,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "80",
-                "guestPoint": "82",
+                "hostPoint": "88",
+                "guestPoint": "95",
                 "quarterPoints1": {
                     "host": 29,
                     "guest": 22
@@ -2513,8 +2513,8 @@
                     "guest": 29
                 },
                 "quarterPoints4": {
-                    "host": 3,
-                    "guest": 3
+                    "host": 11,
+                    "guest": 16
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2547,8 +2547,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "114",
-                "guestPoint": "65",
+                "hostPoint": "120",
+                "guestPoint": "77",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 16
@@ -2562,8 +2562,8 @@
                     "guest": 23
                 },
                 "quarterPoints4": {
-                    "host": 18,
-                    "guest": 16
+                    "host": 24,
+                    "guest": 28
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2596,8 +2596,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "97",
-                "guestPoint": "75",
+                "hostPoint": "111",
+                "guestPoint": "105",
                 "quarterPoints1": {
                     "host": 29,
                     "guest": 21
@@ -2611,8 +2611,8 @@
                     "guest": 24
                 },
                 "quarterPoints4": {
-                    "host": 12,
-                    "guest": 8
+                    "host": 26,
+                    "guest": 38
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2682,9 +2682,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "6",
+                "guestPoint": "4",
+                "quarterPoints1": {
+                    "host": 6,
+                    "guest": 4
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2702,10 +2705,10 @@
                 "guestLink": null,
                 "hostId": 902793,
                 "guestId": 902782,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62796\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%88%DA%A9%D9%84%D8%A7%D9%87%D8%A7%D9%85%D8%A7-%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AA%D8%A7%D9%86%D8%AF%D8%B1-%D9%87%DB%8C%D9%88%D8%B3%D8%AA%D9%88%D9%86-%D8%B1%D8%A7%DA%A9%D8%AA%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
