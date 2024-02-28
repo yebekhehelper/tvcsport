@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709097285,
+    "timeStamp": 1709098016,
     "todayMatches": {
         "leagues": [
             {
@@ -2537,7 +2537,7 @@
                 "time": "04:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/325922\/خلاصه-بسکتبال-شیکاگو-بولز-دیترویت-پیستونز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106629\/بازی-شیکاگو-بولز-دیترویت-پیستونز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106629",
@@ -2645,8 +2645,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "92",
-                "guestPoint": "101",
+                "hostPoint": "96",
+                "guestPoint": "106",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 15
@@ -2660,8 +2660,8 @@
                     "guest": 34
                 },
                 "quarterPoints4": {
-                    "host": 16,
-                    "guest": 21
+                    "host": 20,
+                    "guest": 26
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2677,10 +2677,10 @@
                 "guestLink": null,
                 "hostId": 902789,
                 "guestId": 902800,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -2694,8 +2694,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "104",
-                "guestPoint": "89",
+                "hostPoint": "112",
+                "guestPoint": "95",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 29
@@ -2709,8 +2709,8 @@
                     "guest": 24
                 },
                 "quarterPoints4": {
-                    "host": 20,
-                    "guest": 15
+                    "host": 28,
+                    "guest": 21
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2726,13 +2726,13 @@
                 "guestLink": null,
                 "hostId": 902793,
                 "guestId": 902782,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62796\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%88%DA%A9%D9%84%D8%A7%D9%87%D8%A7%D9%85%D8%A7-%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AA%D8%A7%D9%86%D8%AF%D8%B1-%D9%87%DB%8C%D9%88%D8%B3%D8%AA%D9%88%D9%86-%D8%B1%D8%A7%DA%A9%D8%AA%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107664\/بازی-اوکلاهاما-سیتی-تاندر-هیوستون-راکتس",
