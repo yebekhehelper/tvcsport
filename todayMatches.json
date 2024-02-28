@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709117621,
+    "timeStamp": 1709118099,
     "todayMatches": {
         "leagues": [
             {
@@ -201,16 +201,16 @@
         "matches": [
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "1",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/16\/C\/l2wuyhxr.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01398462.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 9 اسفند 1402",
                 "scheduledStartTime": "14:30",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/398830",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/398830",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 18,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -238,10 +238,10 @@
                 "guestLink": "\/football\/team\/488\/استقلال-خوزستان",
                 "hostId": 18,
                 "guestId": 488,
-                "status": 0,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "14:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62778\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
