@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709146463,
+    "timeStamp": 1709147107,
     "todayMatches": {
         "leagues": [
             {
@@ -1288,9 +1288,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "50",
+                "liveTime": "60",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01438837.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/n4rorj0t.png",
                 "hasPenalty": false,
@@ -1301,7 +1301,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 0
                 },
                 "videoId": null,
@@ -2536,7 +2536,7 @@
                 "sport": 1,
                 "hostGoals": "4",
                 "guestGoals": "2",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/C\/dd32goo2.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/12\/B\/3jl52wys.png",
                 "hasPenalty": false,
@@ -2571,10 +2571,10 @@
                 "guestLink": null,
                 "hostId": 901697,
                 "guestId": 903427,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "20:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -2640,9 +2640,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "1",
+                "guestGoals": "0",
+                "liveTime": "5",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168007.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168203.png",
                 "hasPenalty": false,
@@ -2653,7 +2653,7 @@
                 "round": 25,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -2673,17 +2673,17 @@
                 "guestLink": null,
                 "hostId": 288,
                 "guestId": 428,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "22:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/396367\/بازی-پاناتینایکوس-آریس-سالونیکی",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396367",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396367\/events",
                 "scheduledStartOn": "2024-02-28T19:00:00Z",
                 "stadium": null
             }
