@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709214685,
+    "timeStamp": 1709215134,
     "todayMatches": {
         "leagues": [
             {
@@ -761,9 +761,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "16",
+                "liveTime": "23",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/15\/C\/blttxejm.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/10\/B\/5v4q4f11.png",
                 "hasPenalty": false,
@@ -774,7 +774,7 @@
                 "round": 15,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -803,12 +803,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "17:05",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/392008\/بازی-العین-امارات-حتا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/392008",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/392008\/events",
                 "scheduledStartOn": "2024-02-29T13:35:00Z",
                 "stadium": null
             },
