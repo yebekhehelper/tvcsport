@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709183415,
+    "timeStamp": 1709184356,
     "todayMatches": {
         "leagues": [
             {
@@ -2395,7 +2395,7 @@
                 "time": "04:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326039\/خلاصه-بسکتبال-مینه-سوتا-تیمبرولوز-ممفیس-گریزلیز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106844\/بازی-مینه-سوتا-تیمبرولوز-ممفیس-گریزلیز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106844",
@@ -2454,8 +2454,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "104",
-                "guestPoint": "96",
+                "hostPoint": "108",
+                "guestPoint": "114",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 29
@@ -2469,8 +2469,8 @@
                     "guest": 25
                 },
                 "quarterPoints4": {
-                    "host": 8,
-                    "guest": 19
+                    "host": 12,
+                    "guest": 37
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
