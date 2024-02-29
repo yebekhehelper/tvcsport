@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709188935,
+    "timeStamp": 1709189367,
     "todayMatches": {
         "leagues": [
             {
@@ -2493,7 +2493,7 @@
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326045\/خلاصه-بسکتبال-لس-آنجلس-کلیپرز-لس-آنجلس-لیکرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106849\/بازی-لس-آنجلس-کلیپرز-لس-آنجلس-لیکرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106849",
