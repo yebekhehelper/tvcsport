@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709190684,
+    "timeStamp": 1709191306,
     "todayMatches": {
         "leagues": [
             {
@@ -2294,7 +2294,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/326041\/خلاصه-بسکتبال-تورنتو-رپترز-دالاس-ماوریکس",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107268\/بازی-تورنتو-رپترز-دالاس-ماوریکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107268",
@@ -2346,7 +2346,7 @@
                 "time": "04:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/326042\/خلاصه-بسکتبال-شیکاگو-بولز-کلیولند-کاوالیرز",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106774\/بازی-شیکاگو-بولز-کلیولند-کاوالیرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106774",
@@ -2444,7 +2444,7 @@
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/326040\/خلاصه-بسکتبال-دنور-ناگتس-ساکرامنتو-کینگز",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106885\/بازی-دنور-ناگتس-ساکرامنتو-کینگز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106885",
