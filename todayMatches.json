@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709207132,
+    "timeStamp": 1709207585,
     "todayMatches": {
         "leagues": [
             {
@@ -867,8 +867,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "20",
-                "guestGoals": "22",
+                "hostGoals": "22",
+                "guestGoals": "23",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -884,13 +884,13 @@
                 "guestLink": null,
                 "hostId": 25,
                 "guestId": 24,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "13:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/handball\/62845\/%D9%87%D9%86%D8%AF%D8%A8%D8%A7%D9%84-%D8%B2%D8%BA%D8%A7%D9%84-%D8%B3%D9%86%DA%AF-%D8%B7%D8%A8%D8%B3-%DA%AF%DB%8C%D8%AA%DB%8C-%D9%BE%D8%B3%D9%86%D8%AF-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/handball\/match\/132\/بازی-زغال-سنگ-طبس-گیتی-پسند",
