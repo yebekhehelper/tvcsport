@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709175364,
+    "timeStamp": 1709176276,
     "todayMatches": {
         "leagues": [
             {
@@ -2206,8 +2206,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "121",
-                "guestPoint": "111",
+                "hostPoint": "123",
+                "guestPoint": "114",
                 "quarterPoints1": {
                     "host": 40,
                     "guest": 24
@@ -2221,8 +2221,8 @@
                     "guest": 33
                 },
                 "quarterPoints4": {
-                    "host": 25,
-                    "guest": 25
+                    "host": 27,
+                    "guest": 28
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2238,13 +2238,13 @@
                 "guestLink": null,
                 "hostId": 902799,
                 "guestId": 902787,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62805\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D9%86%D8%AF%DB%8C%D8%A7%D9%86%D8%A7-%D9%BE%DB%8C-%D8%B3%D8%B1%D8%B2-%D9%86%DB%8C%D9%88-%D8%A7%D9%88%D8%B1%D9%84%DB%8C%D9%86%D8%B2-%D9%BE%D9%84%DB%8C%DA%A9%D8%A7%D9%86%D8%B2-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107267\/بازی-ایندیانا-پیسرز-نیو-اورلینز-پلیکانز",
@@ -2304,8 +2304,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "78",
-                "guestPoint": "89",
+                "hostPoint": "100",
+                "guestPoint": "100",
                 "quarterPoints1": {
                     "host": 23,
                     "guest": 32
@@ -2318,7 +2318,10 @@
                     "host": 26,
                     "guest": 28
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 22,
+                    "guest": 19
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -2350,8 +2353,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "91",
-                "guestPoint": "87",
+                "hostPoint": "104",
+                "guestPoint": "98",
                 "quarterPoints1": {
                     "host": 24,
                     "guest": 26
@@ -2365,8 +2368,8 @@
                     "guest": 32
                 },
                 "quarterPoints4": {
-                    "host": 3,
-                    "guest": 2
+                    "host": 16,
+                    "guest": 13
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2399,15 +2402,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "51",
-                "guestPoint": "51",
+                "hostPoint": "65",
+                "guestPoint": "55",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 35
                 },
                 "quarterPoints2": {
-                    "host": 23,
-                    "guest": 16
+                    "host": 37,
+                    "guest": 20
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
