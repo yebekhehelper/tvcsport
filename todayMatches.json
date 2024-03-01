@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709272686,
+    "timeStamp": 1709273862,
     "todayMatches": {
         "leagues": [
             {
@@ -2812,7 +2812,7 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "133",
+                "hostPoint": "134",
                 "guestPoint": "131",
                 "quarterPoints1": {
                     "host": 31,
@@ -2831,7 +2831,7 @@
                     "guest": 31
                 },
                 "overtimePoints": {
-                    "host": 7,
+                    "host": 8,
                     "guest": 5
                 },
                 "guestLogo": null,
@@ -2847,10 +2847,10 @@
                 "guestLink": null,
                 "hostId": 902784,
                 "guestId": 902807,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "07:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -3019,9 +3019,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "60",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/C\/goegr013.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01617594.png",
                 "hasPenalty": false,
@@ -3032,7 +3032,7 @@
                 "round": 1,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -3054,7 +3054,7 @@
                 "guestId": 648,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "08:30",
                 "hasEvents": true,
