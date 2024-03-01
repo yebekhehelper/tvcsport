@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709285648,
+    "timeStamp": 1709286081,
     "todayMatches": {
         "leagues": [
             {
@@ -952,7 +952,7 @@
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/ib1qmrew.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "23:30",
+                "scheduledStartTime": "22:30",
                 "predictionLink": null,
                 "predictionUrl": null,
                 "round": null,
@@ -986,14 +986,14 @@
                 "statusDescription": null,
                 "statusTitle": "",
                 "isLive": false,
-                "time": "23:30",
+                "time": "22:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/401080\/بازی-ترینیداد-و-توباگو-جامائیکا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401080",
                 "eventsApi": null,
-                "scheduledStartOn": "2024-03-01T20:00:00Z",
+                "scheduledStartOn": "2024-03-01T19:00:00Z",
                 "stadium": null
             },
             {
