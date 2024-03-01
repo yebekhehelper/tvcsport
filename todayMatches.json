@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709286933,
+    "timeStamp": 1709287790,
     "todayMatches": {
         "leagues": [
             {
@@ -2517,9 +2517,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "6",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169151.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/B\/ncbt5i2j.png",
                 "hasPenalty": false,
@@ -2550,10 +2550,10 @@
                 "guestLink": null,
                 "hostId": 900942,
                 "guestId": 903010,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "13:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -2566,9 +2566,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "7",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618073.png",
                 "hasPenalty": false,
@@ -2595,10 +2595,10 @@
                 "guestLink": null,
                 "hostId": 900863,
                 "guestId": 902900,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "13:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
