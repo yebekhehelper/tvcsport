@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709288774,
+    "timeStamp": 1709289241,
     "todayMatches": {
         "leagues": [
             {
@@ -2518,8 +2518,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "2",
-                "liveTime": "22",
+                "guestGoals": "3",
+                "liveTime": "30",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169151.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/B\/ncbt5i2j.png",
                 "hasPenalty": false,
@@ -2531,7 +2531,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 2
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": null,
@@ -2568,7 +2568,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "23",
+                "liveTime": "31",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618073.png",
                 "hasPenalty": false,
