@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709267312,
+    "timeStamp": 1709267779,
     "todayMatches": {
         "leagues": [
             {
@@ -2714,8 +2714,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "104",
-                "guestPoint": "95",
+                "hostPoint": "109",
+                "guestPoint": "102",
                 "quarterPoints1": {
                     "host": 33,
                     "guest": 17
@@ -2729,8 +2729,8 @@
                     "guest": 22
                 },
                 "quarterPoints4": {
-                    "host": 18,
-                    "guest": 20
+                    "host": 23,
+                    "guest": 27
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2763,8 +2763,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "56",
-                "guestPoint": "51",
+                "hostPoint": "63",
+                "guestPoint": "61",
                 "quarterPoints1": {
                     "host": 36,
                     "guest": 20
@@ -2773,7 +2773,10 @@
                     "host": 20,
                     "guest": 31
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 7,
+                    "guest": 10
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2806,15 +2809,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "53",
-                "guestPoint": "58",
+                "hostPoint": "70",
+                "guestPoint": "69",
                 "quarterPoints1": {
                     "host": 31,
                     "guest": 34
                 },
                 "quarterPoints2": {
-                    "host": 22,
-                    "guest": 24
+                    "host": 39,
+                    "guest": 35
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
