@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709275908,
+    "timeStamp": 1709276337,
     "todayMatches": {
         "leagues": [
             {
@@ -3021,7 +3021,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/C\/goegr013.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01617594.png",
                 "hasPenalty": false,
@@ -3052,10 +3052,10 @@
                 "guestLink": "\/football\/team\/648\/پوهانگ-استیلرز",
                 "hostId": 651,
                 "guestId": 648,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "08:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
