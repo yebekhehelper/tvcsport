@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709292291,
+    "timeStamp": 1709292747,
     "todayMatches": {
         "leagues": [
             {
@@ -1698,7 +1698,7 @@
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326149\/خلاصه-بسکتبال-اورلاندو-مجیک-یوتا-جاز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107269\/بازی-اورلاندو-مجیک-یوتا-جاز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107269",
@@ -1845,7 +1845,7 @@
                 "time": "05:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326147\/خلاصه-بسکتبال-سن-آنتونیو-اسپرز-اوکلاهاما-سیتی-تاندر",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106853\/بازی-سن-آنتونیو-اسپرز-اوکلاهاما-سیتی-تاندر",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106853",
@@ -1995,7 +1995,7 @@
                 "time": "07:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326143\/خلاصه-بسکتبال-لس-آنجلس-لیکرز-واشینگتن-ویزاردز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107272\/بازی-لس-آنجلس-لیکرز-واشینگتن-ویزاردز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107272",
@@ -2519,7 +2519,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "3",
-                "liveTime": "60",
+                "liveTime": "67",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169151.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/B\/ncbt5i2j.png",
                 "hasPenalty": false,
@@ -2568,7 +2568,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "65",
+                "liveTime": "72",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618073.png",
                 "hasPenalty": false,
