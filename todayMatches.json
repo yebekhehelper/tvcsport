@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709330935,
+    "timeStamp": 1709331803,
     "todayMatches": {
         "leagues": [
             {
@@ -1911,7 +1911,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "5",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/radqkcnn.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/28\/C\/0pzmubft.png",
                 "hasPenalty": false,
@@ -1946,10 +1946,10 @@
                 "guestLink": "\/football\/team\/902940\/اروکا",
                 "hostId": 903034,
                 "guestId": 902940,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:45",
                 "hasEvents": true,
                 "liveStreamSource": "",
