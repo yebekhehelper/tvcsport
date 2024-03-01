@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709271367,
+    "timeStamp": 1709271806,
     "todayMatches": {
         "leagues": [
             {
@@ -2763,7 +2763,7 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "101",
+                "hostPoint": "103",
                 "guestPoint": "97",
                 "quarterPoints1": {
                     "host": 36,
@@ -2778,7 +2778,7 @@
                     "guest": 19
                 },
                 "quarterPoints4": {
-                    "host": 18,
+                    "host": 20,
                     "guest": 27
                 },
                 "overtimePoints": null,
@@ -2795,13 +2795,13 @@
                 "guestLink": null,
                 "hostId": 902781,
                 "guestId": 902800,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62832\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%AF%D9%86%D9%88%D8%B1-%D9%86%D8%A7%DA%AF%D8%AA%D8%B3-%D9%85%DB%8C%D8%A7%D9%85%DB%8C-%D9%87%DB%8C%D8%AA-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107271\/بازی-دنور-ناگتس-میامی-هیت",
@@ -2812,8 +2812,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "116",
-                "guestPoint": "110",
+                "hostPoint": "122",
+                "guestPoint": "123",
                 "quarterPoints1": {
                     "host": 31,
                     "guest": 34
@@ -2827,8 +2827,8 @@
                     "guest": 26
                 },
                 "quarterPoints4": {
-                    "host": 17,
-                    "guest": 15
+                    "host": 23,
+                    "guest": 28
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3018,7 +3018,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "36",
+                "liveTime": "43",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/C\/goegr013.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01617594.png",
                 "hasPenalty": false,
