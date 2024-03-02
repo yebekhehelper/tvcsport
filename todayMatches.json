@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709411820,
+    "timeStamp": 1709412268,
     "todayMatches": {
         "leagues": [
             {
@@ -1235,7 +1235,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "35",
+                "liveTime": "42",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150341.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150318.png",
                 "hasPenalty": false,
@@ -2030,7 +2030,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "45+",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168657.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/08\/C\/dmpyhyef.png",
                 "hasPenalty": false,
@@ -2067,7 +2067,7 @@
                 "guestId": 66,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "23:15",
                 "hasEvents": true,
@@ -2401,7 +2401,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "37",
+                "liveTime": "45",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01632666.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150159.png",
                 "hasPenalty": false,
@@ -3102,7 +3102,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "3",
+                "liveTime": "11",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/C\/ebxyndjx.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/0vezlc3g.png",
                 "hasPenalty": false,
@@ -3358,8 +3358,8 @@
             {
                 "sport": 1,
                 "hostGoals": "1",
-                "guestGoals": "1",
-                "liveTime": "76",
+                "guestGoals": "2",
+                "liveTime": "84",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167965.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167957.png",
                 "hasPenalty": false,
@@ -3371,7 +3371,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 1,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -3404,7 +3404,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "36",
+                "liveTime": "44",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/05\/17\/C\/svq4ramu.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150064.png",
                 "hasPenalty": false,
@@ -4075,9 +4075,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "45+",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/23\/B\/itc0ajs3.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/B\/1klsjwx3.png",
                 "hasPenalty": false,
@@ -4088,7 +4088,7 @@
                 "round": 28,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 1
                 },
                 "videoId": null,
@@ -4114,7 +4114,7 @@
                 "guestId": 901656,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "23:15",
                 "hasEvents": true,
@@ -5295,13 +5295,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "19",
-                "guestPoint": "28",
+                "hostPoint": "28",
+                "guestPoint": "33",
                 "quarterPoints1": {
-                    "host": 19,
+                    "host": 21,
                     "guest": 28
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 7,
+                    "guest": 5
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -5522,7 +5525,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "69",
+                "liveTime": "76",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/0l2zefac.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/B\/yjii3ib2.png",
                 "hasPenalty": false,
@@ -7039,7 +7042,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "47",
+                "liveTime": "55",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/07\/D\/4iteoicy.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/08\/D\/iclgvdgo.png",
                 "hasPenalty": false,
