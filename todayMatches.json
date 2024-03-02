@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709356349,
+    "timeStamp": 1709357081,
     "todayMatches": {
         "leagues": [
             {
@@ -4225,7 +4225,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326180\/خلاصه-بسکتبال-بوستون-سلتیکس-دالاس-ماوریکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107273\/بازی-بوستون-سلتیکس-دالاس-ماوریکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107273",
@@ -4434,8 +4434,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "76",
-                "guestPoint": "88",
+                "hostPoint": "89",
+                "guestPoint": "105",
                 "quarterPoints1": {
                     "host": 24,
                     "guest": 33
@@ -4449,8 +4449,8 @@
                     "guest": 24
                 },
                 "quarterPoints4": {
-                    "host": 4,
-                    "guest": 6
+                    "host": 17,
+                    "guest": 23
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4483,8 +4483,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "103",
-                "guestPoint": "78",
+                "hostPoint": "112",
+                "guestPoint": "89",
                 "quarterPoints1": {
                     "host": 33,
                     "guest": 30
@@ -4494,10 +4494,13 @@
                     "guest": 34
                 },
                 "quarterPoints3": {
-                    "host": 24,
-                    "guest": 14
+                    "host": 31,
+                    "guest": 21
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 2,
+                    "guest": 4
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -5765,9 +5768,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "13",
+                "liveTime": "25",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/02\/13\/B\/vy4nbvql.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/kmg4eevp.png",
                 "hasPenalty": false,
@@ -5778,7 +5781,7 @@
                 "round": 1,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -5807,12 +5810,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "08:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400322\/بازی-گوانگژو-اف-سی-اف-سی-سئول",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400322",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400322\/events",
                 "scheduledStartOn": "2024-03-02T05:00:00Z",
                 "stadium": null
             },
@@ -6024,7 +6027,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "50",
+                "liveTime": "62",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551536.jpg",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168533.png",
                 "hasPenalty": false,
@@ -6071,9 +6074,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "10",
+                "hostGoals": "1",
+                "guestGoals": "1",
+                "liveTime": "22",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/B\/a5itfdt3.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01576473.png",
                 "hasPenalty": false,
@@ -6084,8 +6087,8 @@
                 "round": 2,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 0
+                    "host": 1,
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -6113,20 +6116,20 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "08:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399953\/بازی-کیوتو-سانگا-شونان-بلمار",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399953",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399953\/events",
                 "scheduledStartOn": "2024-03-02T05:00:00Z",
                 "stadium": null
             },
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "10",
+                "guestGoals": "1",
+                "liveTime": "22",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01617592.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2024\/02\/13\/C\/ekq1i4zj.png",
                 "hasPenalty": false,
@@ -6138,7 +6141,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -6162,20 +6165,20 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "08:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399954\/بازی-ناگویا-گرامپوس-ماشیدا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399954",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399954\/events",
                 "scheduledStartOn": "2024-03-02T05:00:00Z",
                 "stadium": null
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "8",
+                "liveTime": "21",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618069.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618074.png",
                 "hasPenalty": false,
@@ -6186,7 +6189,7 @@
                 "round": 2,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -6207,12 +6210,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "08:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399955\/بازی-ساگان-توسو-هوکایدو",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399955",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399955\/events",
                 "scheduledStartOn": "2024-03-02T05:00:00Z",
                 "stadium": null
             },
