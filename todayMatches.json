@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709371715,
+    "timeStamp": 1709372144,
     "todayMatches": {
         "leagues": [
             {
@@ -3248,7 +3248,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326183\/خلاصه-بسکتبال-تورنتو-رپترز-گلدن-استیت-واریرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107274\/بازی-تورنتو-رپترز-گلدن-استیت-واریرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107274",
@@ -5161,7 +5161,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/03\/C\/nufkvzbj.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/03\/C\/d2sf4tpd.png",
                 "hasPenalty": false,
@@ -5196,10 +5196,10 @@
                 "guestLink": "\/football\/team\/375\/ججو-یونایتد",
                 "hostId": 902844,
                 "guestId": 375,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "11:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -5213,8 +5213,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "90+",
+                "guestGoals": "1",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/09\/18\/B\/ootx2pe4.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618038.png",
                 "hasPenalty": false,
@@ -5226,7 +5226,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -5249,10 +5249,10 @@
                 "guestLink": null,
                 "hostId": 902842,
                 "guestId": 902890,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "11:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
