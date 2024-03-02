@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709364355,
+    "timeStamp": 1709364789,
     "todayMatches": {
         "leagues": [
             {
@@ -31,12 +31,6 @@
                 "link": "\/football\/league\/2\/لالیگا-اسپانیا",
                 "dates": [
                     {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-385873"
-                        ]
-                    },
-                    {
                         "date": "1402\/12\/12",
                         "matchIds": [
                             "football-385878",
@@ -54,12 +48,6 @@
                 "sport": 1,
                 "link": "\/football\/league\/1\/بوندسلیگا-آلمان",
                 "dates": [
-                    {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-386220"
-                        ]
-                    },
                     {
                         "date": "1402\/12\/12",
                         "matchIds": [
@@ -81,12 +69,6 @@
                 "link": "\/football\/league\/4\/سری-آ-ایتالیا",
                 "dates": [
                     {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-386595"
-                        ]
-                    },
-                    {
                         "date": "1402\/12\/12",
                         "matchIds": [
                             "football-386599",
@@ -104,12 +86,6 @@
                 "link": "\/football\/league\/5\/لیگ-یک-فرانسه",
                 "dates": [
                     {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-386953"
-                        ]
-                    },
-                    {
                         "date": "1402\/12\/12",
                         "matchIds": [
                             "football-386956",
@@ -126,16 +102,16 @@
                 "link": "\/football\/league\/55\/لیگ-برتر-پرتغال",
                 "dates": [
                     {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-391016"
-                        ]
-                    },
-                    {
                         "date": "1402\/12\/12",
                         "matchIds": [
                             "football-391020",
                             "football-391017"
+                        ]
+                    },
+                    {
+                        "date": "1402\/12\/13",
+                        "matchIds": [
+                            "football-391014"
                         ]
                     }
                 ]
@@ -147,12 +123,6 @@
                 "sport": 1,
                 "link": "\/football\/league\/7\/اردیویسه-هلند",
                 "dates": [
-                    {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-391331"
-                        ]
-                    },
                     {
                         "date": "1402\/12\/12",
                         "matchIds": [
@@ -171,12 +141,6 @@
                 "link": null,
                 "dates": [
                     {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-401080"
-                        ]
-                    },
-                    {
                         "date": "1402\/12\/12",
                         "matchIds": [
                             "football-94210"
@@ -192,36 +156,11 @@
                 "link": "\/football\/league\/326\/لیگ-حرفه-ای-عربستان",
                 "dates": [
                     {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-394564",
-                            "football-394566",
-                            "football-394567"
-                        ]
-                    },
-                    {
                         "date": "1402\/12\/12",
                         "matchIds": [
                             "football-394568",
                             "football-394572",
                             "football-394565"
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 37,
-                "logo": "https:\/\/match-cdn.varzesh3.com\/football-league\/2023\/03\/12\/C\/cnffyjl3.png",
-                "title": "لیگ ستارگان قطر",
-                "sport": 1,
-                "link": "\/football\/league\/37\/لیگ-ستارگان-قطر",
-                "dates": [
-                    {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-397357",
-                            "football-397358",
-                            "football-397356"
                         ]
                     }
                 ]
@@ -233,12 +172,6 @@
                 "sport": 1,
                 "link": "\/football\/league\/56\/ژوپیر-لیگ-بلژیک",
                 "dates": [
-                    {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-391652"
-                        ]
-                    },
                     {
                         "date": "1402\/12\/12",
                         "matchIds": [
@@ -256,12 +189,6 @@
                 "sport": 1,
                 "link": "\/football\/league\/17\/چمپیونشیپ-انگلیس",
                 "dates": [
-                    {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-394214"
-                        ]
-                    },
                     {
                         "date": "1402\/12\/12",
                         "matchIds": [
@@ -288,12 +215,6 @@
                 "link": "\/football\/league\/35\/سوپرلیگ-ترکیه",
                 "dates": [
                     {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-395217"
-                        ]
-                    },
-                    {
                         "date": "1402\/12\/12",
                         "matchIds": [
                             "football-395212",
@@ -310,14 +231,6 @@
                 "sport": 1,
                 "link": "\/football\/league\/66\/لیگ-برتر-امارات",
                 "dates": [
-                    {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-392007",
-                            "football-392013",
-                            "football-392011"
-                        ]
-                    },
                     {
                         "date": "1402\/12\/12",
                         "matchIds": [
@@ -348,6 +261,15 @@
                             "basketball-107276",
                             "basketball-106899"
                         ]
+                    },
+                    {
+                        "date": "1402\/12\/13",
+                        "matchIds": [
+                            "basketball-107277",
+                            "basketball-106902",
+                            "basketball-106870",
+                            "basketball-106900"
+                        ]
                     }
                 ]
             },
@@ -364,6 +286,18 @@
                             "football-400549",
                             "football-400550"
                         ]
+                    },
+                    {
+                        "date": "1402\/12\/13",
+                        "matchIds": [
+                            "football-400551",
+                            "football-400552",
+                            "football-400553",
+                            "football-400554",
+                            "football-400555",
+                            "football-400556",
+                            "football-400557"
+                        ]
                     }
                 ]
             },
@@ -374,12 +308,6 @@
                 "sport": 1,
                 "link": "\/football\/league\/57\/لیگ-برتر-روسیه",
                 "dates": [
-                    {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-391817"
-                        ]
-                    },
                     {
                         "date": "1402\/12\/12",
                         "matchIds": [
@@ -444,33 +372,12 @@
                 ]
             },
             {
-                "id": 347,
-                "logo": "https:\/\/match-cdn.varzesh3.com\/football-league\/2023\/08\/13\/B\/ias3x41g.png",
-                "title": "سوپرلیگ دانمارک",
-                "sport": 1,
-                "link": "\/football\/league\/347\/سوپرلیگ-دانمارک",
-                "dates": [
-                    {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-396762"
-                        ]
-                    }
-                ]
-            },
-            {
                 "id": 349,
                 "logo": "https:\/\/match-cdn.varzesh3.com\/football-league\/2023\/08\/13\/B\/gvu4ds1v.png",
                 "title": "لیگ برتر اوکراین",
                 "sport": 1,
                 "link": null,
                 "dates": [
-                    {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-396948"
-                        ]
-                    },
                     {
                         "date": "1402\/12\/12",
                         "matchIds": [
@@ -506,13 +413,6 @@
                 "sport": 1,
                 "link": "\/football\/league\/64\/جی-لیگ-ژاپن",
                 "dates": [
-                    {
-                        "date": "1402\/12\/11",
-                        "matchIds": [
-                            "football-399950",
-                            "football-399951"
-                        ]
-                    },
                     {
                         "date": "1402\/12\/12",
                         "matchIds": [
@@ -902,59 +802,6 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
-                "guestGoals": "0",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/26\/B\/2hubpcw4.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/06\/24\/B\/opmbz3bz.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "23:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 27,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 1,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#df2222",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#008cff",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 385873,
-                "title": null,
-                "sportId": "football-385873",
-                "hostName": "سلتاویگو",
-                "hostLink": "\/football\/team\/900681\/سلتاویگو",
-                "guestName": "آلمریا",
-                "guestLink": "\/football\/team\/107\/آلمریا",
-                "hostId": 900681,
-                "guestId": 107,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "23:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/385873\/بازی-سلتاویگو-آلمریا",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385873",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385873\/events",
-                "scheduledStartOn": "2024-03-01T20:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
                 "hostGoals": "",
                 "guestGoals": "",
                 "liveTime": null,
@@ -1163,59 +1010,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385879",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-03-02T20:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "2",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167915.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150164.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "23:00",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 24,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 2,
-                    "guest": 2
-                },
-                "videoId": 326176,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#ed1010",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#d90000",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 386220,
-                "title": null,
-                "sportId": "football-386220",
-                "hostName": "فرایبورگ",
-                "hostLink": "\/football\/team\/131\/فرایبورگ",
-                "guestName": "بایرن مونیخ",
-                "guestLink": "\/football\/team\/123\/بایرن-مونیخ",
-                "hostId": 131,
-                "guestId": 123,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "23:00",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/326176\/خلاصه-بازی-فرایبورگ-2-بایرن-مونیخ-2",
-                "matchPageLink": "\/football\/match\/386220\/بازی-فرایبورگ-بایرن-مونیخ",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386220",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386220\/events",
-                "scheduledStartOn": "2024-03-01T19:30:00Z",
                 "stadium": null
             },
             {
@@ -1538,59 +1332,6 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150107.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150116.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "23:15",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 27,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 1
-                },
-                "videoId": 326175,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#cc0303",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#00e1ff",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 386595,
-                "title": null,
-                "sportId": "football-386595",
-                "hostName": "لاتزیو",
-                "hostLink": "\/football\/team\/67\/لاتزیو",
-                "guestName": "آث میلان",
-                "guestLink": "\/football\/team\/68\/آث-میلان",
-                "hostId": 67,
-                "guestId": 68,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "23:15",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/326175\/خلاصه-بازی-لاتزیو-0-آث-میلان-1",
-                "matchPageLink": "\/football\/match\/386595\/بازی-لاتزیو-آث-میلان",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386595",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386595\/events",
-                "scheduledStartOn": "2024-03-01T19:45:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
                 "hostGoals": "",
                 "guestGoals": "",
                 "liveTime": null,
@@ -1750,59 +1491,6 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150148.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150144.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "23:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 24,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": 326177,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#132a7b",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#b71212",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 386953,
-                "title": null,
-                "sportId": "football-386953",
-                "hostName": "موناکو",
-                "hostLink": "\/football\/team\/143\/موناکو",
-                "guestName": "پاری سن ژرمن",
-                "guestLink": "\/football\/team\/145\/پاری-سن-ژرمن",
-                "hostId": 143,
-                "guestId": 145,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "23:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/326177\/خلاصه-بازی-موناکو-0-پاری-سن-ژرمن-0",
-                "matchPageLink": "\/football\/match\/386953\/بازی-موناکو-پاری-سن-ژرمن",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386953",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386953\/events",
-                "scheduledStartOn": "2024-03-01T20:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
                 "hostGoals": "",
                 "guestGoals": "",
                 "liveTime": null,
@@ -1905,59 +1593,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386951",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-03-02T20:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "1",
-                "guestGoals": "5",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/radqkcnn.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/28\/C\/0pzmubft.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "23:45",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 24,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 1,
-                    "guest": 5
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 391016,
-                "title": null,
-                "sportId": "football-391016",
-                "hostName": "چاوز",
-                "hostLink": "\/football\/team\/903034\/چاوز",
-                "guestName": "اروکا",
-                "guestLink": "\/football\/team\/902940\/اروکا",
-                "hostId": 903034,
-                "guestId": 902940,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "23:45",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/391016\/بازی-چاوز-اروکا",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391016",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391016\/events",
-                "scheduledStartOn": "2024-03-01T20:15:00Z",
                 "stadium": null
             },
             {
@@ -2068,51 +1703,55 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "5",
+                "hostGoals": "",
+                "guestGoals": "",
                 "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/05\/17\/C\/ijwltzbl.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169035.png",
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/C\/ebxyndjx.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/0vezlc3g.png",
                 "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "22:30",
+                "scheduledStartDate": " 13 اسفند 1402",
+                "scheduledStartTime": "00:00",
                 "predictionLink": null,
                 "predictionUrl": null,
                 "round": 24,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 2,
-                    "guest": 5
+                    "host": 0,
+                    "guest": 0
                 },
                 "videoId": null,
                 "referee": null,
-                "guestStyle": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
                 "hostStyle": {
                     "backgroundColor": "#383838",
                     "font": 0,
                     "fontColor": "#FFFFFF"
                 },
-                "id": 391331,
+                "id": 391014,
                 "title": null,
-                "sportId": "football-391331",
-                "hostName": "وولندام",
-                "hostLink": null,
-                "guestName": "نایمخن",
-                "guestLink": "\/football\/team\/900878\/نایمخن",
-                "hostId": 902112,
-                "guestId": 900878,
-                "status": 7,
+                "sportId": "football-391014",
+                "hostName": "براگا",
+                "hostLink": "\/football\/team\/295\/براگا",
+                "guestName": "استرلا",
+                "guestLink": "\/football\/team\/903259\/استرلا",
+                "hostId": 295,
+                "guestId": 903259,
+                "status": 1,
                 "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
+                "statusTitle": "",
                 "isLive": false,
-                "time": "22:30",
-                "hasEvents": true,
+                "time": "00:00",
+                "hasEvents": false,
                 "liveStreamSource": "",
                 "videoLink": null,
-                "matchPageLink": "\/football\/match\/391331\/بازی-وولندام-نایمخن",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391331",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391331\/events",
-                "scheduledStartOn": "2024-03-01T19:00:00Z",
+                "matchPageLink": "\/football\/match\/391014\/بازی-براگا-استرلا",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391014",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-02T20:30:00Z",
                 "stadium": null
             },
             {
@@ -2260,59 +1899,6 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/10blzie4.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/ib1qmrew.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "22:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": null,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 1
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 401080,
-                "title": null,
-                "sportId": "football-401080",
-                "hostName": "ترینیداد و توباگو",
-                "hostLink": null,
-                "guestName": "جامائیکا",
-                "guestLink": null,
-                "hostId": 900973,
-                "guestId": 900832,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "22:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/401080\/بازی-ترینیداد-و-توباگو-جامائیکا",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401080",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-01T19:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
                 "hostGoals": "",
                 "guestGoals": "",
                 "liveTime": null,
@@ -2358,165 +1944,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/94210",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-03-02T15:30:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "0",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/18\/B\/3ckdxeqf.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/01\/02\/B\/ukywjdjk.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "17:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 22,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 2,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 394564,
-                "title": null,
-                "sportId": "football-394564",
-                "hostName": "ابها",
-                "hostLink": null,
-                "guestName": "الطائی",
-                "guestLink": null,
-                "hostId": 903142,
-                "guestId": 903149,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "17:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/394564\/بازی-ابها-الطائی",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394564",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394564\/events",
-                "scheduledStartOn": "2024-03-01T14:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "1",
-                "guestGoals": "2",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/23\/B\/bfxw4fxd.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/23\/B\/5g2bqovg.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "17:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 22,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 1,
-                    "guest": 2
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 394566,
-                "title": null,
-                "sportId": "football-394566",
-                "hostName": "الاخدود",
-                "hostLink": null,
-                "guestName": "الریاض",
-                "guestLink": null,
-                "hostId": 903329,
-                "guestId": 903331,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "17:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/394566\/بازی-الاخدود-الریاض",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394566",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394566\/events",
-                "scheduledStartOn": "2024-03-01T14:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "3",
-                "guestGoals": "1",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/24\/C\/xs4k5vfs.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/01\/02\/B\/3ldqavgo.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "20:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 22,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 3,
-                    "guest": 1
-                },
-                "videoId": 326169,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#fef201",
-                    "font": 1,
-                    "fontColor": "#0F1928"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#0028f0",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 394567,
-                "title": null,
-                "sportId": "football-394567",
-                "hostName": "الهلال",
-                "hostLink": "\/football\/team\/389\/الهلال",
-                "guestName": "الاتحاد",
-                "guestLink": "\/football\/team\/395\/الاتحاد",
-                "hostId": 389,
-                "guestId": 395,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "20:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/326169\/خلاصه-بازی-الهلال-3-الاتحاد-1",
-                "matchPageLink": "\/football\/match\/394567\/بازی-الهلال-الاتحاد",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394567",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394567\/events",
-                "scheduledStartOn": "2024-03-01T17:00:00Z",
                 "stadium": null
             },
             {
@@ -2680,206 +2107,6 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
-                "guestGoals": "4",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/14\/B\/voe3v41t.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01280741.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "18:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 15,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 1,
-                    "guest": 4
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": null,
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 397357,
-                "title": null,
-                "sportId": "football-397357",
-                "hostName": "الدحیل",
-                "hostLink": "\/football\/team\/645\/الدحیل",
-                "guestName": "الغرافه",
-                "guestLink": "\/football\/team\/390\/الغرافه",
-                "hostId": 645,
-                "guestId": 390,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "18:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/397357\/بازی-الدحیل-الغرافه",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397357",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397357\/events",
-                "scheduledStartOn": "2024-03-01T15:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "3",
-                "guestGoals": "0",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01437555.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/ujbn22tl.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "18:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 15,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 3,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 397358,
-                "title": null,
-                "sportId": "football-397358",
-                "hostName": "السد",
-                "hostLink": "\/football\/team\/400\/السد",
-                "guestName": "القطر",
-                "guestLink": "\/football\/team\/901103\/القطر",
-                "hostId": 400,
-                "guestId": 901103,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "18:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/397358\/بازی-السد-القطر",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397358",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397358\/events",
-                "scheduledStartOn": "2024-03-01T15:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "3",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01397486.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01397485.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "20:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 15,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 2,
-                    "guest": 3
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": null,
-                "hostStyle": null,
-                "id": 397356,
-                "title": null,
-                "sportId": "football-397356",
-                "hostName": "العربی",
-                "hostLink": "\/football\/team\/644\/العربی",
-                "guestName": "الریان ",
-                "guestLink": "\/football\/team\/397\/الریان",
-                "hostId": 644,
-                "guestId": 397,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "20:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/397356\/بازی-العربی-الریان",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397356",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397356\/events",
-                "scheduledStartOn": "2024-03-01T17:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/01\/03\/C\/zjwu4eqc.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/28\/C\/zmohyee4.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "23:15",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 28,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 1
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 391652,
-                "title": null,
-                "sportId": "football-391652",
-                "hostName": "وسترلو",
-                "hostLink": "\/football\/team\/901511\/وسترلو",
-                "guestName": "شارلروا",
-                "guestLink": "\/football\/team\/902546\/شارلروا",
-                "hostId": 901511,
-                "guestId": 902546,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "23:15",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/391652\/بازی-وسترلو-شارلروا",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391652",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391652\/events",
-                "scheduledStartOn": "2024-03-01T19:45:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
                 "hostGoals": "",
                 "guestGoals": "",
                 "liveTime": null,
@@ -3035,51 +2262,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391651",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-03-02T19:45:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "1",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167985.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01632665.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "23:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 35,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 2,
-                    "guest": 1
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": null,
-                "hostStyle": null,
-                "id": 394214,
-                "title": null,
-                "sportId": "football-394214",
-                "hostName": "وست برومویچ",
-                "hostLink": "\/football\/team\/275\/وست-برومویچ",
-                "guestName": "کاونتری",
-                "guestLink": null,
-                "hostId": 275,
-                "guestId": 902003,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "23:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/394214\/بازی-وست-برومویچ-کاونتری",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394214",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394214\/events",
-                "scheduledStartOn": "2024-03-01T20:00:00Z",
                 "stadium": null
             },
             {
@@ -3619,59 +2801,6 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/xraam3ey.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/r5kg0tri.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "20:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 28,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 395217,
-                "title": null,
-                "sportId": "football-395217",
-                "hostName": "کاسیم پاشا",
-                "hostLink": "\/football\/team\/901615\/کاسیم-پاشا",
-                "guestName": "سیواس اسپور",
-                "guestLink": null,
-                "hostId": 901615,
-                "guestId": 902456,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "20:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/395217\/بازی-کاسیم-پاشا-سیواس-اسپور",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395217",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395217\/events",
-                "scheduledStartOn": "2024-03-01T17:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
                 "hostGoals": "",
                 "guestGoals": "",
                 "liveTime": null,
@@ -3827,161 +2956,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395216",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-03-02T16:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "0",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/iaswhjj2.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/10\/B\/btbrvd1d.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "17:05",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 15,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 2,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 392007,
-                "title": null,
-                "sportId": "football-392007",
-                "hostName": "عجمان",
-                "hostLink": "\/football\/team\/901099\/عجمان",
-                "guestName": "الامارات",
-                "guestLink": "\/football\/team\/398\/الامارات",
-                "hostId": 901099,
-                "guestId": 398,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "17:05",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/392007\/بازی-عجمان-الامارات",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/392007",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/392007\/events",
-                "scheduledStartOn": "2024-03-01T13:35:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "3",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01637259.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/02\/C\/lonf52pr.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "17:05",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 15,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 3
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": null,
-                "id": 392013,
-                "title": null,
-                "sportId": "football-392013",
-                "hostName": "خور فکان",
-                "hostLink": null,
-                "guestName": "شباب الاهلی امارات",
-                "guestLink": "\/football\/team\/902816\/شباب-الاهلی-امارات",
-                "hostId": 902958,
-                "guestId": 902816,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "17:05",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/392013\/بازی-خور-فکان-شباب-الاهلی-امارات",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/392013",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/392013\/events",
-                "scheduledStartOn": "2024-03-01T13:35:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "0",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/vlvneinj.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01592455.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "19:45",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 15,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 2,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 392011,
-                "title": null,
-                "sportId": "football-392011",
-                "hostName": "الوصل امارات",
-                "hostLink": "\/football\/team\/901098\/الوصل-امارات",
-                "guestName": "شارجه امارات",
-                "guestLink": "\/football\/team\/902815\/شارجه-امارات",
-                "hostId": 901098,
-                "guestId": 902815,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "19:45",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/392011\/بازی-الوصل-امارات-شارجه-امارات",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/392011",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/392011\/events",
-                "scheduledStartOn": "2024-03-01T16:15:00Z",
                 "stadium": null
             },
             {
@@ -4568,6 +3542,154 @@
                 "stadium": null
             },
             {
+                "sport": 4,
+                "hostPoint": "",
+                "guestPoint": "",
+                "quarterPoints1": null,
+                "quarterPoints2": null,
+                "quarterPoints3": null,
+                "quarterPoints4": null,
+                "overtimePoints": null,
+                "guestLogo": null,
+                "hostLogo": null,
+                "scheduledStartTime": "01:30",
+                "scheduledStartDate": " 13 اسفند 1402",
+                "id": 107277,
+                "title": null,
+                "sportId": "basketball-107277",
+                "hostName": "میامی هیت",
+                "hostLink": null,
+                "guestName": "یوتا جاز",
+                "guestLink": null,
+                "hostId": 902800,
+                "guestId": 902792,
+                "status": 1,
+                "statusDescription": null,
+                "statusTitle": null,
+                "isLive": false,
+                "time": "01:30",
+                "hasEvents": false,
+                "liveStreamSource": "",
+                "videoLink": null,
+                "videoId": null,
+                "matchPageLink": "\/basketball\/match\/107277\/بازی-میامی-هیت-یوتا-جاز",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107277",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-02T22:00:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 4,
+                "hostPoint": "",
+                "guestPoint": "",
+                "quarterPoints1": null,
+                "quarterPoints2": null,
+                "quarterPoints3": null,
+                "quarterPoints4": null,
+                "overtimePoints": null,
+                "guestLogo": null,
+                "hostLogo": null,
+                "scheduledStartTime": "04:30",
+                "scheduledStartDate": " 13 اسفند 1402",
+                "id": 106902,
+                "title": null,
+                "sportId": "basketball-106902",
+                "hostName": "ممفیس گریزلیز",
+                "hostLink": null,
+                "guestName": "پورتلند تریل بلیزرز",
+                "guestLink": null,
+                "hostId": 902785,
+                "guestId": 902789,
+                "status": 1,
+                "statusDescription": null,
+                "statusTitle": null,
+                "isLive": false,
+                "time": "04:30",
+                "hasEvents": false,
+                "liveStreamSource": "",
+                "videoLink": null,
+                "videoId": null,
+                "matchPageLink": "\/basketball\/match\/106902\/بازی-ممفیس-گریزلیز-پورتلند-تریل-بلیزرز",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106902",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-03T01:00:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 4,
+                "hostPoint": "",
+                "guestPoint": "",
+                "quarterPoints1": null,
+                "quarterPoints2": null,
+                "quarterPoints3": null,
+                "quarterPoints4": null,
+                "overtimePoints": null,
+                "guestLogo": null,
+                "hostLogo": null,
+                "scheduledStartTime": "05:00",
+                "scheduledStartDate": " 13 اسفند 1402",
+                "id": 106870,
+                "title": null,
+                "sportId": "basketball-106870",
+                "hostName": "لس آنجلس لیکرز",
+                "hostLink": null,
+                "guestName": "دنور ناگتس",
+                "guestLink": null,
+                "hostId": 902784,
+                "guestId": 902781,
+                "status": 1,
+                "statusDescription": null,
+                "statusTitle": null,
+                "isLive": false,
+                "time": "05:00",
+                "hasEvents": false,
+                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/62935\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2-%D8%AF%D9%86%D9%88%D8%B1-%D9%86%D8%A7%DA%AF%D8%AA%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "videoLink": null,
+                "videoId": null,
+                "matchPageLink": "\/basketball\/match\/106870\/بازی-لس-آنجلس-لیکرز-دنور-ناگتس",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106870",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-03T01:30:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 4,
+                "hostPoint": "",
+                "guestPoint": "",
+                "quarterPoints1": null,
+                "quarterPoints2": null,
+                "quarterPoints3": null,
+                "quarterPoints4": null,
+                "overtimePoints": null,
+                "guestLogo": null,
+                "hostLogo": null,
+                "scheduledStartTime": "05:30",
+                "scheduledStartDate": " 13 اسفند 1402",
+                "id": 106900,
+                "title": null,
+                "sportId": "basketball-106900",
+                "hostName": "فینیکس سانز",
+                "hostLink": null,
+                "guestName": "هیوستون راکتس",
+                "guestLink": null,
+                "hostId": 902788,
+                "guestId": 902782,
+                "status": 1,
+                "statusDescription": null,
+                "statusTitle": null,
+                "isLive": false,
+                "time": "05:30",
+                "hasEvents": false,
+                "liveStreamSource": "",
+                "videoLink": null,
+                "videoId": null,
+                "matchPageLink": "\/basketball\/match\/106900\/بازی-فینیکس-سانز-هیوستون-راکتس",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106900",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-03T02:00:00Z",
+                "stadium": null
+            },
+            {
                 "sport": 1,
                 "hostGoals": "",
                 "guestGoals": "",
@@ -4675,51 +3797,373 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "0",
+                "hostGoals": "",
+                "guestGoals": "",
                 "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628320.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628305.png",
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/24\/C\/5501eu2y.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/q2bob4lt.png",
                 "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "19:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 19,
+                "scheduledStartDate": " 13 اسفند 1402",
+                "scheduledStartTime": "01:00",
+                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/400551",
+                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/400551",
+                "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 2,
+                    "host": 0,
                     "guest": 0
                 },
                 "videoId": null,
                 "referee": null,
-                "guestStyle": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "hostStyle": {
+                    "backgroundColor": "#f6b4cd",
+                    "font": 1,
+                    "fontColor": "#0F1928"
+                },
+                "id": 400551,
+                "title": null,
+                "sportId": "football-400551",
+                "hostName": "اینتر میامی",
+                "hostLink": "\/football\/team\/903067\/اینتر-میامی",
+                "guestName": "اورلاندو سيتي",
+                "guestLink": "\/football\/team\/901117\/اورلاندو-سيتي",
+                "hostId": 903067,
+                "guestId": 901117,
+                "status": 1,
+                "statusDescription": null,
+                "statusTitle": "",
+                "isLive": false,
+                "time": "01:00",
+                "hasEvents": false,
+                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62644\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1-%D9%85%DB%8C%D8%A7%D9%85%DB%8C-%D8%A7%D9%88%D8%B1%D9%84%D8%A7%D9%86%D8%AF%D9%88-%D8%B3%DB%8C%D8%AA%DB%8C?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/400551\/بازی-اینتر-میامی-اورلاندو-سيتي",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400551",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-02T21:30:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/C\/sylkumf4.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/qv45qy2n.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 13 اسفند 1402",
+                "scheduledStartTime": "04:00",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
+                },
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
                 "hostStyle": {
                     "backgroundColor": "#383838",
                     "font": 0,
                     "fontColor": "#FFFFFF"
                 },
-                "id": 391817,
+                "id": 400552,
                 "title": null,
-                "sportId": "football-391817",
-                "hostName": "روستوف",
-                "hostLink": "\/football\/team\/902422\/روستوف",
-                "guestName": "سووتوف",
+                "sportId": "football-400552",
+                "hostName": "ونکوور وایت کپس",
+                "hostLink": null,
+                "guestName": "شارلوت",
                 "guestLink": null,
-                "hostId": 902422,
-                "guestId": 902137,
-                "status": 7,
+                "hostId": 903130,
+                "guestId": 903040,
+                "status": 1,
                 "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
+                "statusTitle": "",
                 "isLive": false,
-                "time": "19:30",
-                "hasEvents": true,
+                "time": "04:00",
+                "hasEvents": false,
                 "liveStreamSource": "",
                 "videoLink": null,
-                "matchPageLink": "\/football\/match\/391817\/بازی-روستوف-سووتوف",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391817",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391817\/events",
-                "scheduledStartOn": "2024-03-01T16:00:00Z",
+                "matchPageLink": "\/football\/match\/400552\/بازی-ونکوور-وایت-کپس-شارلوت",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400552",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-03T00:30:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/17\/C\/ywv2f0lb.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/07\/C\/uxztmllr.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 13 اسفند 1402",
+                "scheduledStartTime": "05:00",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
+                },
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "hostStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "id": 400553,
+                "title": null,
+                "sportId": "football-400553",
+                "hostName": "شیکاگو فایر",
+                "hostLink": null,
+                "guestName": "سینسیناتی",
+                "guestLink": null,
+                "hostId": 901633,
+                "guestId": 903094,
+                "status": 1,
+                "statusDescription": null,
+                "statusTitle": "",
+                "isLive": false,
+                "time": "05:00",
+                "hasEvents": false,
+                "liveStreamSource": "",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/400553\/بازی-شیکاگو-فایر-سینسیناتی",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400553",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-03T01:30:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/fkj055fy.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/mmcfte1i.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 13 اسفند 1402",
+                "scheduledStartTime": "05:00",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
+                },
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "hostStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "id": 400554,
+                "title": null,
+                "sportId": "football-400554",
+                "hostName": "دالاس",
+                "hostLink": null,
+                "guestName": "مونترئال",
+                "guestLink": "\/football\/team\/901136\/مونترئال",
+                "hostId": 903110,
+                "guestId": 901136,
+                "status": 1,
+                "statusDescription": null,
+                "statusTitle": "",
+                "isLive": false,
+                "time": "05:00",
+                "hasEvents": false,
+                "liveStreamSource": "",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/400554\/بازی-دالاس-مونترئال",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400554",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-03T01:30:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/19\/C\/3sjjngr0.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/btpabjuj.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 13 اسفند 1402",
+                "scheduledStartTime": "05:00",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
+                },
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "hostStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "id": 400555,
+                "title": null,
+                "sportId": "football-400555",
+                "hostName": "هیوستون دینامو",
+                "hostLink": null,
+                "guestName": "نیویورک ردبولز",
+                "guestLink": "\/football\/team\/901119\/نیویورک-ردبولز",
+                "hostId": 901132,
+                "guestId": 901119,
+                "status": 1,
+                "statusDescription": null,
+                "statusTitle": "",
+                "isLive": false,
+                "time": "05:00",
+                "hasEvents": false,
+                "liveStreamSource": "",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/400555\/بازی-هیوستون-دینامو-نیویورک-ردبولز",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400555",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-03T01:30:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/yxsw3paj.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/20\/C\/1rrvvirj.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 13 اسفند 1402",
+                "scheduledStartTime": "05:00",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
+                },
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "hostStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "id": 400556,
+                "title": null,
+                "sportId": "football-400556",
+                "hostName": "اسپورتینگ کانزاس",
+                "hostLink": null,
+                "guestName": "فیلادلفیا یونیون",
+                "guestLink": null,
+                "hostId": 903270,
+                "guestId": 903148,
+                "status": 1,
+                "statusDescription": null,
+                "statusTitle": "",
+                "isLive": false,
+                "time": "05:00",
+                "hasEvents": false,
+                "liveStreamSource": "",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/400556\/بازی-اسپورتینگ-کانزاس-فیلادلفیا-یونیون",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400556",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-03T01:30:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/rz003xef.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/vlzpfmvg.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 13 اسفند 1402",
+                "scheduledStartTime": "05:00",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
+                },
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "hostStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "id": 400557,
+                "title": null,
+                "sportId": "football-400557",
+                "hostName": "سنت لوئیس",
+                "hostLink": null,
+                "guestName": "نیویورک سیتی",
+                "guestLink": "\/football\/team\/901413\/نیویورک-سیتی",
+                "hostId": 901500,
+                "guestId": 901413,
+                "status": 1,
+                "statusDescription": null,
+                "statusTitle": "",
+                "isLive": false,
+                "time": "05:00",
+                "hasEvents": false,
+                "liveStreamSource": "",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/400557\/بازی-سنت-لوئیس-نیویورک-سیتی",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400557",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-03T01:30:00Z",
                 "stadium": null
             },
             {
@@ -5450,112 +4894,6 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "0",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/09\/10\/B\/kuefzp3v.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01440158.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "21:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 20,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 2,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 396762,
-                "title": null,
-                "sportId": "football-396762",
-                "hostName": "میتیلند",
-                "hostLink": "\/football\/team\/901661\/میتیلند",
-                "guestName": "کپنهاگن",
-                "guestLink": "\/football\/team\/902179\/کپنهاگن",
-                "hostId": 901661,
-                "guestId": 902179,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "21:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/396762\/بازی-میتیلند-کپنهاگن",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396762",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396762\/events",
-                "scheduledStartOn": "2024-03-01T18:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/boyyrfep.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/jvals0c0.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "19:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 19,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 1
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 396948,
-                "title": null,
-                "sportId": "football-396948",
-                "hostName": "ژیتومیر",
-                "hostLink": null,
-                "guestName": "چرکاسی",
-                "guestLink": null,
-                "hostId": 903450,
-                "guestId": 903449,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "19:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/396948\/بازی-ژیتومیر-چرکاسی",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396948",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396948\/events",
-                "scheduledStartOn": "2024-03-01T16:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
                 "hostGoals": "",
                 "guestGoals": "",
                 "liveTime": null,
@@ -5821,9 +5159,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "1",
+                "guestGoals": "0",
+                "liveTime": "3",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/03\/C\/nufkvzbj.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/03\/C\/d2sf4tpd.png",
                 "hasPenalty": false,
@@ -5834,7 +5172,7 @@
                 "round": 1,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -5858,25 +5196,25 @@
                 "guestLink": "\/football\/team\/375\/ججو-یونایتد",
                 "hostId": 902844,
                 "guestId": 375,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "11:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400323\/بازی-کانگوان-ججو-یونایتد",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400323",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400323\/events",
                 "scheduledStartOn": "2024-03-02T07:30:00Z",
                 "stadium": null
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "2",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/09\/18\/B\/ootx2pe4.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618038.png",
                 "hasPenalty": false,
@@ -5911,10 +5249,10 @@
                 "guestLink": null,
                 "hostId": 902842,
                 "guestId": 902890,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "11:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -5923,104 +5261,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400324",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-03-02T07:30:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "4",
-                "guestGoals": "5",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169151.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/B\/ncbt5i2j.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "13:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 2,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 4,
-                    "guest": 5
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": null,
-                "id": 399950,
-                "title": null,
-                "sportId": "football-399950",
-                "hostName": "کاوازاکی",
-                "hostLink": null,
-                "guestName": "جوبیلو ایواتا",
-                "guestLink": null,
-                "hostId": 900942,
-                "guestId": 903010,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "13:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/399950\/بازی-کاوازاکی-جوبیلو-ایواتا",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399950",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399950\/events",
-                "scheduledStartOn": "2024-03-01T10:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618073.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 11 اسفند 1402",
-                "scheduledStartTime": "13:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 2,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 1
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": null,
-                "id": 399951,
-                "title": null,
-                "sportId": "football-399951",
-                "hostName": "یوکوهاما مارینوس",
-                "hostLink": null,
-                "guestName": "آویسپا فوکوئوکا",
-                "guestLink": "\/football\/team\/902900\/آویسپا-فوکوئوکا",
-                "hostId": 900863,
-                "guestId": 902900,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "13:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/399951\/بازی-یوکوهاما-مارینوس-آویسپا-فوکوئوکا",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399951",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399951\/events",
-                "scheduledStartOn": "2024-03-01T10:00:00Z",
                 "stadium": null
             },
             {
@@ -6221,9 +5461,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "64",
+                "hostGoals": "1",
+                "guestGoals": "1",
+                "liveTime": "71",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551538.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169153.png",
                 "hasPenalty": false,
@@ -6234,8 +5474,8 @@
                 "round": 2,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 0
+                    "host": 1,
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -6268,7 +5508,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "66",
+                "liveTime": "73",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168123.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/B\/zxbshcd1.png",
                 "hasPenalty": false,
@@ -6317,7 +5557,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "65",
+                "liveTime": "72",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168169.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168133.png",
                 "hasPenalty": false,
