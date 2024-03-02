@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709414881,
+    "timeStamp": 1709415326,
     "todayMatches": {
         "leagues": [
             {
@@ -1235,7 +1235,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "63",
+                "liveTime": "71",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150341.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150318.png",
                 "hasPenalty": false,
@@ -2030,7 +2030,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "75",
+                "liveTime": "83",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168657.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/08\/C\/dmpyhyef.png",
                 "hasPenalty": false,
@@ -2401,7 +2401,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "3",
-                "liveTime": "69",
+                "liveTime": "76",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01632666.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150159.png",
                 "hasPenalty": false,
@@ -3402,9 +3402,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "70",
+                "liveTime": "77",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/05\/17\/C\/svq4ramu.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150064.png",
                 "hasPenalty": false,
@@ -3415,7 +3415,7 @@
                 "round": 24,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 1
                 },
                 "videoId": null,
@@ -4076,8 +4076,8 @@
             {
                 "sport": 1,
                 "hostGoals": "4",
-                "guestGoals": "1",
-                "liveTime": "79",
+                "guestGoals": "2",
+                "liveTime": "87",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/23\/B\/itc0ajs3.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/B\/1klsjwx3.png",
                 "hasPenalty": false,
@@ -4089,7 +4089,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 4,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -5295,7 +5295,7 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "60",
+                "hostPoint": "68",
                 "guestPoint": "64",
                 "quarterPoints1": {
                     "host": 21,
@@ -5305,7 +5305,10 @@
                     "host": 39,
                     "guest": 34
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 8,
+                    "guest": 2
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -5578,7 +5581,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "18",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/07\/C\/efk3rjnr.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/kzwjwzps.png",
                 "hasPenalty": false,
@@ -5613,10 +5616,10 @@
                 "guestLink": "\/football\/team\/901118\/لس-آنجلس-اف-سی",
                 "hostId": 902432,
                 "guestId": 901118,
-                "status": 2,
+                "status": 3,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "وقفه",
+                "isLive": false,
                 "time": "22:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
