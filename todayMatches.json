@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709351999,
+    "timeStamp": 1709353115,
     "todayMatches": {
         "leagues": [
             {
@@ -4434,15 +4434,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "35",
-                "guestPoint": "41",
+                "hostPoint": "44",
+                "guestPoint": "58",
                 "quarterPoints1": {
                     "host": 24,
                     "guest": 33
                 },
                 "quarterPoints2": {
-                    "host": 11,
-                    "guest": 8
+                    "host": 20,
+                    "guest": 25
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4477,13 +4477,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "28",
-                "guestPoint": "21",
+                "hostPoint": "49",
+                "guestPoint": "40",
                 "quarterPoints1": {
-                    "host": 28,
-                    "guest": 21
+                    "host": 33,
+                    "guest": 30
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 16,
+                    "guest": 10
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -6010,9 +6013,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "15",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551536.jpg",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168533.png",
                 "hasPenalty": false,
@@ -6043,10 +6046,10 @@
                 "guestLink": "\/football\/team\/616\/کاشیوا-ریسول",
                 "hostId": 902735,
                 "guestId": 616,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "07:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
