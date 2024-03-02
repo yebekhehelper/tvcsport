@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709354601,
+    "timeStamp": 1709355048,
     "todayMatches": {
         "leagues": [
             {
@@ -4434,8 +4434,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "58",
-                "guestPoint": "73",
+                "hostPoint": "66",
+                "guestPoint": "80",
                 "quarterPoints1": {
                     "host": 24,
                     "guest": 33
@@ -4445,8 +4445,8 @@
                     "guest": 25
                 },
                 "quarterPoints3": {
-                    "host": 14,
-                    "guest": 15
+                    "host": 22,
+                    "guest": 22
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -4480,8 +4480,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "79",
-                "guestPoint": "64",
+                "hostPoint": "81",
+                "guestPoint": "67",
                 "quarterPoints1": {
                     "host": 33,
                     "guest": 30
@@ -4490,7 +4490,10 @@
                     "host": 46,
                     "guest": 34
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 2,
+                    "guest": 3
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -6018,7 +6021,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "40",
+                "liveTime": "45+",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551536.jpg",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168533.png",
                 "hasPenalty": false,
