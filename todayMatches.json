@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709502261,
+    "timeStamp": 1709502710,
     "todayMatches": {
         "leagues": [
             {
@@ -1331,7 +1331,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "80",
+                "liveTime": "87",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/03\/C\/oq3u2pni.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/03\/C\/ugnf0f0l.png",
                 "hasPenalty": false,
@@ -2825,9 +2825,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "2",
+                "hostGoals": "3",
                 "guestGoals": "0",
-                "liveTime": "52",
+                "liveTime": "59",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/05\/01\/B\/pksgd114.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/B\/pewcbaah.png",
                 "hasPenalty": false,
@@ -2838,7 +2838,7 @@
                 "round": 24,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 2,
+                    "host": 3,
                     "guest": 0
                 },
                 "videoId": null,
@@ -3182,7 +3182,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "88",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/10blzie4.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/ib1qmrew.png",
                 "hasPenalty": false,
@@ -3217,10 +3217,10 @@
                 "guestLink": null,
                 "hostId": 900973,
                 "guestId": 900832,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -3804,8 +3804,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "46",
-                "guestPoint": "49",
+                "hostPoint": "54",
+                "guestPoint": "53",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 18
@@ -3814,7 +3814,10 @@
                     "host": 16,
                     "guest": 31
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 8,
+                    "guest": 4
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
