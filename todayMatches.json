@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709502710,
+    "timeStamp": 1709503150,
     "todayMatches": {
         "leagues": [
             {
@@ -1331,7 +1331,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "87",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/03\/C\/oq3u2pni.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/03\/C\/ugnf0f0l.png",
                 "hasPenalty": false,
@@ -1366,13 +1366,13 @@
                 "guestLink": "\/football\/team\/101\/بارسلونا",
                 "hostId": 104,
                 "guestId": 101,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62914\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D8%AA%D9%84%D8%AA%DB%8C%DA%A9-%D8%A8%DB%8C%D9%84%D8%A8%D8%A7%D8%A6%D9%88-%D8%A8%D8%A7%D8%B1%D8%B3%D9%84%D9%88%D9%86%D8%A7?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/385871\/بازی-اتلتیک-بیلبائو-بارسلونا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385871",
@@ -1769,7 +1769,7 @@
                     "host": 2,
                     "guest": 1
                 },
-                "videoId": null,
+                "videoId": 326323,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#000000",
@@ -1797,7 +1797,7 @@
                 "time": "23:15",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326323\/خلاصه-بازی-ناپولی-2-یوونتوس-1",
                 "matchPageLink": "\/football\/match\/386597\/بازی-ناپولی-یوونتوس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386597",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386597\/events",
@@ -2827,7 +2827,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "0",
-                "liveTime": "59",
+                "liveTime": "67",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/05\/01\/B\/pksgd114.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/B\/pewcbaah.png",
                 "hasPenalty": false,
@@ -3805,7 +3805,7 @@
             {
                 "sport": 4,
                 "hostPoint": "54",
-                "guestPoint": "53",
+                "guestPoint": "59",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 18
@@ -3816,7 +3816,7 @@
                 },
                 "quarterPoints3": {
                     "host": 8,
-                    "guest": 4
+                    "guest": 10
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -3850,8 +3850,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "82",
-                "guestPoint": "38",
+                "hostPoint": "92",
+                "guestPoint": "44",
                 "quarterPoints1": {
                     "host": 44,
                     "guest": 22
@@ -3860,7 +3860,10 @@
                     "host": 38,
                     "guest": 16
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 10,
+                    "guest": 6
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
