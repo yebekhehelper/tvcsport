@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709433723,
+    "timeStamp": 1709434170,
     "todayMatches": {
         "leagues": [
             {
@@ -5393,8 +5393,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "74",
-                "guestPoint": "59",
+                "hostPoint": "78",
+                "guestPoint": "61",
                 "quarterPoints1": {
                     "host": 20,
                     "guest": 25
@@ -5404,8 +5404,8 @@
                     "guest": 22
                 },
                 "quarterPoints3": {
-                    "host": 23,
-                    "guest": 12
+                    "host": 27,
+                    "guest": 14
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -5482,15 +5482,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "23",
-                "guestPoint": "39",
+                "hostPoint": "31",
+                "guestPoint": "44",
                 "quarterPoints1": {
                     "host": 19,
                     "guest": 38
                 },
                 "quarterPoints2": {
-                    "host": 4,
-                    "guest": 1
+                    "host": 12,
+                    "guest": 6
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -5776,7 +5776,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "50",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/17\/C\/ywv2f0lb.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/07\/C\/uxztmllr.png",
                 "hasPenalty": false,
@@ -5813,7 +5813,7 @@
                 "guestId": 903094,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "05:00",
                 "hasEvents": true,
@@ -5935,7 +5935,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "51",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/yxsw3paj.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/20\/C\/1rrvvirj.png",
                 "hasPenalty": false,
@@ -5972,7 +5972,7 @@
                 "guestId": 903148,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "05:00",
                 "hasEvents": true,
@@ -5988,7 +5988,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "51",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/rz003xef.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/vlzpfmvg.png",
                 "hasPenalty": false,
@@ -6025,7 +6025,7 @@
                 "guestId": 901413,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "05:00",
                 "hasEvents": true,
@@ -6041,7 +6041,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "2",
+                "liveTime": "10",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/dwjjjea3.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/5j1zaf2r.png",
                 "hasPenalty": false,
