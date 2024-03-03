@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709504704,
+    "timeStamp": 1709505166,
     "todayMatches": {
         "leagues": [
             {
@@ -2827,7 +2827,7 @@
                 "sport": 1,
                 "hostGoals": "5",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/05\/01\/B\/pksgd114.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/B\/pewcbaah.png",
                 "hasPenalty": false,
@@ -2862,13 +2862,13 @@
                 "guestLink": "\/football\/team\/284\/بنفیکا",
                 "hostId": 403,
                 "guestId": 284,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "00:00",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62931\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%BE%D9%88%D8%B1%D8%AA%D9%88-%D8%A8%D9%86%D9%81%DB%8C%DA%A9%D8%A7?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/391019\/بازی-پورتو-بنفیکا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391019",
@@ -3804,8 +3804,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "70",
-                "guestPoint": "69",
+                "hostPoint": "76",
+                "guestPoint": "76",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 18
@@ -3819,8 +3819,8 @@
                     "guest": 18
                 },
                 "quarterPoints4": {
-                    "host": 2,
-                    "guest": 2
+                    "host": 8,
+                    "guest": 9
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3853,8 +3853,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "115",
-                "guestPoint": "62",
+                "hostPoint": "121",
+                "guestPoint": "67",
                 "quarterPoints1": {
                     "host": 44,
                     "guest": 22
@@ -3867,7 +3867,10 @@
                     "host": 33,
                     "guest": 24
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 6,
+                    "guest": 5
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
