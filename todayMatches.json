@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709423678,
+    "timeStamp": 1709426166,
     "todayMatches": {
         "leagues": [
             {
@@ -5344,8 +5344,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "92",
-                "guestPoint": "90",
+                "hostPoint": "126",
+                "guestPoint": "120",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 34
@@ -5358,7 +5358,10 @@
                     "host": 32,
                     "guest": 28
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 36,
+                    "guest": 30
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -5373,10 +5376,10 @@
                 "guestLink": null,
                 "hostId": 902800,
                 "guestId": 902792,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "01:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -5593,7 +5596,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "0",
-                "liveTime": "90",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/07\/C\/efk3rjnr.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/kzwjwzps.png",
                 "hasPenalty": false,
@@ -5628,10 +5631,10 @@
                 "guestLink": "\/football\/team\/901118\/لس-آنجلس-اف-سی",
                 "hostId": 902432,
                 "guestId": 901118,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "22:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
