@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709442825,
+    "timeStamp": 1709443608,
     "todayMatches": {
         "leagues": [
             {
@@ -1196,7 +1196,7 @@
                     "host": 3,
                     "guest": 3
                 },
-                "videoId": null,
+                "videoId": 326247,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#f2da03",
@@ -1224,7 +1224,7 @@
                 "time": "21:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326247\/خلاصه-بازی-ختافه-3-لاس-پالماس-3",
                 "matchPageLink": "\/football\/match\/385874\/بازی-ختافه-لاس-پالماس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385874",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385874\/events",
@@ -6111,8 +6111,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "1",
-                "liveTime": "75",
+                "guestGoals": "2",
+                "liveTime": "88",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/xixqudjj.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/xsupg51m.png",
                 "hasPenalty": false,
@@ -6124,7 +6124,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -6165,7 +6165,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "3",
-                "liveTime": "74",
+                "liveTime": "87",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/1da1cjrk.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/12\/B\/m0joqcr1.png",
                 "hasPenalty": false,
@@ -6218,7 +6218,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "74",
+                "liveTime": "87",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/xcqhgbpl.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/2jak0r1k.png",
                 "hasPenalty": false,
@@ -8457,7 +8457,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "14",
+                "liveTime": "27",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01381276.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/A\/2mck2e5x.png",
                 "hasPenalty": false,
