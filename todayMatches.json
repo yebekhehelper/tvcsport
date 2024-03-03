@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709494679,
+    "timeStamp": 1709495119,
     "todayMatches": {
         "leagues": [
             {
@@ -1349,16 +1349,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "1",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150155.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167937.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 13 اسفند 1402",
                 "scheduledStartTime": "23:15",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/386952",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/386952",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 24,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -1386,10 +1386,10 @@
                 "guestLink": "\/football\/team\/148\/لانس",
                 "hostId": 140,
                 "guestId": 148,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "23:15",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62919\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%DB%8C%D9%88%D9%86-%D9%84%D8%A7%D9%86%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -1563,7 +1563,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "2",
-                "liveTime": "72",
+                "liveTime": "79",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/02\/C\/53yaxk3b.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01528945.png",
                 "hasPenalty": false,
@@ -1869,7 +1869,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "2",
-                "liveTime": "36",
+                "liveTime": "43",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/09\/C\/x5kqvrcb.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/e5ybs4iy.png",
                 "hasPenalty": false,
@@ -2132,9 +2132,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
-                "guestGoals": "1",
-                "liveTime": "61",
+                "hostGoals": "2",
+                "guestGoals": "2",
+                "liveTime": "68",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/B\/rlp5g4cy.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/10\/B\/pnqzfkk2.png",
                 "hasPenalty": false,
@@ -2145,8 +2145,8 @@
                 "round": 28,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
-                    "guest": 1
+                    "host": 2,
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -2543,8 +2543,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "59",
-                "guestPoint": "73",
+                "hostPoint": "67",
+                "guestPoint": "79",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 32
@@ -2554,8 +2554,8 @@
                     "guest": 24
                 },
                 "quarterPoints3": {
-                    "host": 8,
-                    "guest": 17
+                    "host": 16,
+                    "guest": 23
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -3396,7 +3396,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "28",
+                "liveTime": "35",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/elizp3ni.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/B\/nttbpylv.png",
                 "hasPenalty": false,
@@ -3436,12 +3436,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "22:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400562\/بازی-نیو-انگلند-تورنتو",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400562",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400562\/events",
                 "scheduledStartOn": "2024-03-03T19:00:00Z",
                 "stadium": null
             },
