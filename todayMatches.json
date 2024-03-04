@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709585059,
+    "timeStamp": 1709585519,
     "todayMatches": {
         "leagues": [
             {
@@ -696,7 +696,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "5",
-                "liveTime": "44",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01427412.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/4lx42lnk.png",
                 "hasPenalty": false,
@@ -733,7 +733,7 @@
                 "guestId": 87,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "23:30",
                 "hasEvents": true,
@@ -749,7 +749,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "45",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167905.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01201577.png",
                 "hasPenalty": false,
@@ -786,7 +786,7 @@
                 "guestId": 900800,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "23:30",
                 "hasEvents": true,
@@ -1503,7 +1503,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "29",
+                "liveTime": "37",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01431471.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01621269.png",
                 "hasPenalty": false,
