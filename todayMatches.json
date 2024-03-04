@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709578622,
+    "timeStamp": 1709579373,
     "todayMatches": {
         "leagues": [
             {
@@ -1228,8 +1228,8 @@
             {
                 "sport": 1,
                 "hostGoals": "3",
-                "guestGoals": "0",
-                "liveTime": "90+",
+                "guestGoals": "1",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/ivwbdds1.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400036.png",
                 "hasPenalty": false,
@@ -1241,7 +1241,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 3,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -1264,13 +1264,13 @@
                 "guestLink": "\/football\/team\/528\/ترابزون-اسپور",
                 "hostId": 902237,
                 "guestId": 528,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "20:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/62955\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A2%D9%84%D8%A7%D9%86%DB%8C%D8%A7-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B2%D9%88%D9%86-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/395211\/بازی-آلانیااسپور-ترابزون-اسپور",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395211",
@@ -1875,7 +1875,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "52",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/10\/C\/ts1xcm1s.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/26\/D\/xk0b0ipi.png",
                 "hasPenalty": false,
@@ -1912,7 +1912,7 @@
                 "guestId": 903072,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "21:30",
                 "hasEvents": true,
