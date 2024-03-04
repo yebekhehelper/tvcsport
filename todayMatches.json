@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709583686,
+    "timeStamp": 1709584129,
     "todayMatches": {
         "leagues": [
             {
@@ -429,8 +429,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "3",
-                "liveTime": "21",
+                "guestGoals": "4",
+                "liveTime": "29",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01427412.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/4lx42lnk.png",
                 "hasPenalty": false,
@@ -442,7 +442,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 3
+                    "guest": 4
                 },
                 "videoId": null,
                 "referee": null,
@@ -483,7 +483,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "22",
+                "liveTime": "29",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167905.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01201577.png",
                 "hasPenalty": false,
@@ -534,9 +534,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "34",
+                "liveTime": "42",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/yxgaqjb3.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167837.png",
                 "hasPenalty": false,
@@ -547,7 +547,7 @@
                 "round": 27,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 0
                 },
                 "videoId": null,
@@ -1131,7 +1131,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "6",
+                "liveTime": "13",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01431471.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01621269.png",
                 "hasPenalty": false,
