@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709532349,
+    "timeStamp": 1709536383,
     "todayMatches": {
         "leagues": [
             {
@@ -1451,7 +1451,7 @@
                     "host": 0,
                     "guest": 2
                 },
-                "videoId": null,
+                "videoId": 326338,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#c11717",
@@ -1479,7 +1479,7 @@
                 "time": "18:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326338\/خلاصه-بازی-کلن-0-بایرلورکوزن-2",
                 "matchPageLink": "\/football\/match\/386219\/بازی-کلن-بایرلورکوزن",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386219",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386219\/events",
