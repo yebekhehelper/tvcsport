@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709524751,
+    "timeStamp": 1709527587,
     "todayMatches": {
         "leagues": [
             {
@@ -4088,7 +4088,7 @@
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326328\/خلاصه-بسکتبال-کلیولند-کاوالیرز-نیویورک-نیکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107417\/بازی-کلیولند-کاوالیرز-نیویورک-نیکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107417",
@@ -4098,8 +4098,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "52",
-                "guestPoint": "66",
+                "hostPoint": "103",
+                "guestPoint": "109",
                 "quarterPoints1": {
                     "host": 24,
                     "guest": 28
@@ -4108,8 +4108,14 @@
                     "host": 28,
                     "guest": 38
                 },
-                "quarterPoints3": null,
-                "quarterPoints4": null,
+                "quarterPoints3": {
+                    "host": 33,
+                    "guest": 23
+                },
+                "quarterPoints4": {
+                    "host": 18,
+                    "guest": 20
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
