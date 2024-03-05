@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709616682,
+    "timeStamp": 1709617140,
     "todayMatches": {
         "leagues": [
             {
@@ -2332,7 +2332,7 @@
                 "time": "04:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326468\/خلاصه-بسکتبال-میلواکی-باکس-لس-آنجلس-کلیپرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107282\/بازی-میلواکی-باکس-لس-آنجلس-کلیپرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107282",
@@ -2440,8 +2440,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "107",
-                "guestPoint": "85",
+                "hostPoint": "116",
+                "guestPoint": "91",
                 "quarterPoints1": {
                     "host": 25,
                     "guest": 25
@@ -2455,8 +2455,8 @@
                     "guest": 29
                 },
                 "quarterPoints4": {
-                    "host": 18,
-                    "guest": 13
+                    "host": 27,
+                    "guest": 19
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
