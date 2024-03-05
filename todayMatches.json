@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709635554,
+    "timeStamp": 1709635994,
     "todayMatches": {
         "leagues": [
             {
@@ -234,7 +234,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "45",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168137.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/C\/goegr013.png",
                 "hasPenalty": false,
@@ -267,7 +267,7 @@
                 "guestId": 651,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "13:30",
                 "hasEvents": true,
