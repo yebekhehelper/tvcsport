@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709631831,
+    "timeStamp": 1709632265,
     "todayMatches": {
         "leagues": [
             {
@@ -1222,7 +1222,7 @@
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326478\/خلاصه-بسکتبال-ساکرامنتو-کینگز-شیکاگو-بولز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107284\/بازی-ساکرامنتو-کینگز-شیکاگو-بولز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107284",
