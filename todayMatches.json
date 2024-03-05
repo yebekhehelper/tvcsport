@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709609085,
+    "timeStamp": 1709609556,
     "todayMatches": {
         "leagues": [
             {
@@ -2244,8 +2244,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "115",
-                "guestPoint": "109",
+                "hostPoint": "119",
+                "guestPoint": "114",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 26
@@ -2259,8 +2259,8 @@
                     "guest": 34
                 },
                 "quarterPoints4": {
-                    "host": 27,
-                    "guest": 27
+                    "host": 31,
+                    "guest": 32
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2276,10 +2276,10 @@
                 "guestLink": null,
                 "hostId": 902786,
                 "guestId": 902789,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -2293,8 +2293,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "112",
-                "guestPoint": "103",
+                "hostPoint": "113",
+                "guestPoint": "106",
                 "quarterPoints1": {
                     "host": 25,
                     "guest": 35
@@ -2308,8 +2308,8 @@
                     "guest": 26
                 },
                 "quarterPoints4": {
-                    "host": 39,
-                    "guest": 22
+                    "host": 40,
+                    "guest": 25
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2325,13 +2325,13 @@
                 "guestLink": null,
                 "hostId": 902801,
                 "guestId": 902783,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63025\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%85%DB%8C%D9%84%D9%88%D8%A7%DA%A9%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%DA%A9%D9%84%DB%8C%D9%BE%D8%B1%D8%B2-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107282\/بازی-میلواکی-باکس-لس-آنجلس-کلیپرز",
@@ -2342,8 +2342,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "74",
-                "guestPoint": "75",
+                "hostPoint": "86",
+                "guestPoint": "90",
                 "quarterPoints1": {
                     "host": 35,
                     "guest": 41
@@ -2352,7 +2352,10 @@
                     "host": 39,
                     "guest": 34
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 12,
+                    "guest": 15
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2385,11 +2388,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "17",
-                "guestPoint": "19",
+                "hostPoint": "27",
+                "guestPoint": "21",
                 "quarterPoints1": {
-                    "host": 17,
-                    "guest": 19
+                    "host": 27,
+                    "guest": 21
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
