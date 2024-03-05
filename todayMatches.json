@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709618004,
+    "timeStamp": 1709618841,
     "todayMatches": {
         "leagues": [
             {
@@ -2234,7 +2234,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326474\/خلاصه-بسکتبال-بروکلین-نتس-ممفیس-گریزلیز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107281\/بازی-بروکلین-نتس-ممفیس-گریزلیز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107281",
@@ -2283,7 +2283,7 @@
                 "time": "04:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326475\/خلاصه-بسکتبال-مینه-سوتا-تیمبرولوز-پورتلند-تریل-بلیزرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106828\/بازی-مینه-سوتا-تیمبرولوز-پورتلند-تریل-بلیزرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106828",
