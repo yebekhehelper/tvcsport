@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709617568,
+    "timeStamp": 1709618004,
     "todayMatches": {
         "leagues": [
             {
@@ -2472,13 +2472,13 @@
                 "guestLink": null,
                 "hostId": 902784,
                 "guestId": 902793,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "07:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63026\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2-%D8%A7%D9%88%DA%A9%D9%84%D8%A7%D9%87%D8%A7%D9%85%D8%A7-%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AA%D8%A7%D9%86%D8%AF%D8%B1-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106836\/بازی-لس-آنجلس-لیکرز-اوکلاهاما-سیتی-تاندر",
