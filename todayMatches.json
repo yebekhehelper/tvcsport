@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709661466,
+    "timeStamp": 1709662501,
     "todayMatches": {
         "leagues": [
             {
@@ -281,16 +281,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "15",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/24\/C\/xs4k5vfs.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/01\/02\/B\/3ldqavgo.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 15 اسفند 1402",
                 "scheduledStartTime": "21:30",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/401031",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/401031",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -318,10 +318,10 @@
                 "guestLink": "\/football\/team\/395\/الاتحاد",
                 "hostId": 389,
                 "guestId": 395,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "21:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/62951\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -548,7 +548,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "56",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/14\/B\/wsfmylcy.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01397493.png",
                 "hasPenalty": false,
@@ -585,7 +585,7 @@
                 "guestId": 902543,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "20:30",
                 "hasEvents": true,
@@ -599,9 +599,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "2",
-                "liveTime": "",
+                "hostGoals": "1",
+                "guestGoals": "3",
+                "liveTime": "55",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/gabalcnv.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01644224.png",
                 "hasPenalty": false,
@@ -612,8 +612,8 @@
                 "round": 16,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 2
+                    "host": 1,
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": null,
@@ -638,7 +638,7 @@
                 "guestId": 902971,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "20:30",
                 "hasEvents": true,
