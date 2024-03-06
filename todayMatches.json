@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709726215,
+    "timeStamp": 1709727655,
     "todayMatches": {
         "leagues": [
             {
@@ -270,7 +270,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "2",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/04\/11\/C\/oaqycx1k.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
                 "hasPenalty": false,
@@ -301,13 +301,13 @@
                 "guestLink": null,
                 "hostId": 903015,
                 "guestId": 900863,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "13:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/63030\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B4%D8%A7%D9%86%D8%AF%D9%88%D9%86%DA%AF-%D8%AA%D8%A7%DB%8C%D8%B4%D8%A7%D9%86-%DA%86%DB%8C%D9%86-%DB%8C%D9%88%DA%A9%D9%88%D9%87%D8%A7%D9%85%D8%A7-%D9%85%D8%A7%D8%B1%DB%8C%D9%86%D9%88%D8%B3-%DA%98%D8%A7%D9%BE%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/401034\/بازی-شاندونگ-تایشان-یوکوهاما-مارینوس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401034",
@@ -371,12 +371,15 @@
             {
                 "sport": 3,
                 "hostPoint": "0",
-                "guestPoint": "0",
+                "guestPoint": "1",
                 "setPoints1": {
-                    "host": 18,
-                    "guest": 22
+                    "host": 20,
+                    "guest": 25
                 },
-                "setPoints2": null,
+                "setPoints2": {
+                    "host": 17,
+                    "guest": 11
+                },
                 "setPoints3": null,
                 "setPoints4": null,
                 "setPoints5": null,
