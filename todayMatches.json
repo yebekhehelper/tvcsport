@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709749941,
+    "timeStamp": 1709750380,
     "todayMatches": {
         "leagues": [
             {
@@ -319,7 +319,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "45+",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/02\/C\/53yaxk3b.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167855.png",
                 "hasPenalty": false,
@@ -356,7 +356,7 @@
                 "guestId": 80,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "21:15",
                 "hasEvents": true,
@@ -753,9 +753,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "69",
+                "liveTime": "76",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01280741.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01437555.png",
                 "hasPenalty": false,
@@ -766,7 +766,7 @@
                 "round": 16,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 1
                 },
                 "videoId": null,
@@ -804,7 +804,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "0",
-                "liveTime": "62",
+                "liveTime": "69",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01397485.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/cuw503ml.png",
                 "hasPenalty": false,
