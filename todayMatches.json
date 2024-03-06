@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709730460,
+    "timeStamp": 1709731281,
     "todayMatches": {
         "leagues": [
             {
@@ -384,7 +384,10 @@
                     "host": 25,
                     "guest": 22
                 },
-                "setPoints4": null,
+                "setPoints4": {
+                    "host": 11,
+                    "guest": 8
+                },
                 "setPoints5": null,
                 "hostLogo": null,
                 "guestLogo": null,
@@ -417,12 +420,15 @@
             {
                 "sport": 3,
                 "hostPoint": "0",
-                "guestPoint": "0",
+                "guestPoint": "1",
                 "setPoints1": {
-                    "host": 16,
-                    "guest": 19
+                    "host": 23,
+                    "guest": 25
                 },
-                "setPoints2": null,
+                "setPoints2": {
+                    "host": 8,
+                    "guest": 10
+                },
                 "setPoints3": null,
                 "setPoints4": null,
                 "setPoints5": null,
@@ -456,15 +462,15 @@
             },
             {
                 "sport": 3,
-                "hostPoint": "1",
+                "hostPoint": "2",
                 "guestPoint": "0",
                 "setPoints1": {
                     "host": 25,
                     "guest": 13
                 },
                 "setPoints2": {
-                    "host": 8,
-                    "guest": 6
+                    "host": 25,
+                    "guest": 21
                 },
                 "setPoints3": null,
                 "setPoints4": null,
@@ -499,13 +505,16 @@
             },
             {
                 "sport": 3,
-                "hostPoint": "0",
+                "hostPoint": "1",
                 "guestPoint": "0",
                 "setPoints1": {
-                    "host": 20,
-                    "guest": 19
+                    "host": 25,
+                    "guest": 22
                 },
-                "setPoints2": null,
+                "setPoints2": {
+                    "host": 11,
+                    "guest": 9
+                },
                 "setPoints3": null,
                 "setPoints4": null,
                 "setPoints5": null,
@@ -545,7 +554,10 @@
                     "host": 25,
                     "guest": 20
                 },
-                "setPoints2": null,
+                "setPoints2": {
+                    "host": 13,
+                    "guest": 15
+                },
                 "setPoints3": null,
                 "setPoints4": null,
                 "setPoints5": null,
@@ -585,7 +597,10 @@
                     "host": 25,
                     "guest": 19
                 },
-                "setPoints2": null,
+                "setPoints2": {
+                    "host": 13,
+                    "guest": 15
+                },
                 "setPoints3": null,
                 "setPoints4": null,
                 "setPoints5": null,
@@ -1048,8 +1063,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "9",
-                "guestGoals": "3",
+                "hostGoals": "13",
+                "guestGoals": "5",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1082,8 +1097,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "9",
-                "guestGoals": "6",
+                "hostGoals": "12",
+                "guestGoals": "11",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1116,8 +1131,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "11",
-                "guestGoals": "11",
+                "hostGoals": "12",
+                "guestGoals": "15",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1150,8 +1165,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "8",
-                "guestGoals": "10",
+                "hostGoals": "11",
+                "guestGoals": "16",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1184,8 +1199,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "12",
-                "guestGoals": "14",
+                "hostGoals": "14",
+                "guestGoals": "15",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
