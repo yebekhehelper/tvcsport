@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709739863,
+    "timeStamp": 1709740323,
     "todayMatches": {
         "leagues": [
             {
@@ -703,7 +703,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "45",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/ujbn22tl.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01397486.png",
                 "hasPenalty": false,
@@ -736,7 +736,7 @@
                 "guestId": 644,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "18:30",
                 "hasEvents": true,
@@ -1151,7 +1151,7 @@
                 "time": "16:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/326601\/خلاصه-هندبال-سپاهان-نوین-28-شهید-شاملی-25",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/handball\/match\/136\/بازی-سپاهان-نوین-شهید-شاملی-کازرون",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/handball\/matches\/136",
@@ -1219,7 +1219,7 @@
                 "time": "16:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/326600\/خلاصه-هندبال-آلومینیوم-21-سپاهان-33",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/handball\/match\/138\/بازی-آلومینیوم-اراک-سپاهان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/handball\/matches\/138",
