@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709844634,
+    "timeStamp": 1709845075,
     "todayMatches": {
         "leagues": [
             {
@@ -1260,8 +1260,8 @@
             {
                 "sport": 1,
                 "hostGoals": "1",
-                "guestGoals": "1",
-                "liveTime": "45+",
+                "guestGoals": "2",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/B\/pewcbaah.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01639309.png",
                 "hasPenalty": false,
@@ -1273,7 +1273,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 1,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -1298,7 +1298,7 @@
                 "guestId": 287,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "23:30",
                 "hasEvents": true,
