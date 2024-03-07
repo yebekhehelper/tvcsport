@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709779774,
+    "timeStamp": 1709780199,
     "todayMatches": {
         "leagues": [
             {
@@ -2598,8 +2598,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "108",
-                "guestPoint": "108",
+                "hostPoint": "112",
+                "guestPoint": "115",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 19
@@ -2613,8 +2613,8 @@
                     "guest": 36
                 },
                 "quarterPoints4": {
-                    "host": 22,
-                    "guest": 28
+                    "host": 26,
+                    "guest": 35
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2647,8 +2647,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "104",
-                "guestPoint": "107",
+                "hostPoint": "109",
+                "guestPoint": "111",
                 "quarterPoints1": {
                     "host": 31,
                     "guest": 37
@@ -2662,8 +2662,8 @@
                     "guest": 25
                 },
                 "quarterPoints4": {
-                    "host": 11,
-                    "guest": 26
+                    "host": 16,
+                    "guest": 30
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2696,15 +2696,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "43",
-                "guestPoint": "49",
+                "hostPoint": "52",
+                "guestPoint": "57",
                 "quarterPoints1": {
                     "host": 29,
                     "guest": 33
                 },
                 "quarterPoints2": {
-                    "host": 14,
-                    "guest": 16
+                    "host": 23,
+                    "guest": 24
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
