@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709789690,
+    "timeStamp": 1709790127,
     "todayMatches": {
         "leagues": [
             {
@@ -1242,7 +1242,7 @@
                 "isLive": false,
                 "time": "23:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/63065\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D9%86-%DA%98%DB%8C%D9%84%D9%88%D8%A7%D8%B2-%D9%81%D9%86%D8%B1%D8%A8%D8%A7%D8%BA%DA%86%D9%87?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/401057\/بازی-سن-ژیلوا-فنرباغچه",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401057",
@@ -2745,8 +2745,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "117",
-                "guestPoint": "126",
+                "hostPoint": "120",
+                "guestPoint": "128",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 32
@@ -2760,8 +2760,8 @@
                     "guest": 32
                 },
                 "quarterPoints4": {
-                    "host": 30,
-                    "guest": 29
+                    "host": 33,
+                    "guest": 31
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2777,10 +2777,10 @@
                 "guestLink": null,
                 "hostId": 902789,
                 "guestId": 902793,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -2843,8 +2843,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "95",
-                "guestPoint": "110",
+                "hostPoint": "102",
+                "guestPoint": "118",
                 "quarterPoints1": {
                     "host": 37,
                     "guest": 28
@@ -2858,8 +2858,8 @@
                     "guest": 32
                 },
                 "quarterPoints4": {
-                    "host": 3,
-                    "guest": 6
+                    "host": 10,
+                    "guest": 14
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
