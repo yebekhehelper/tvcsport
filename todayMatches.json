@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709787800,
+    "timeStamp": 1709788735,
     "todayMatches": {
         "leagues": [
             {
@@ -2637,7 +2637,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326630\/خلاصه-بسکتبال-هیوستون-راکتس-لس-آنجلس-کلیپرز-گزارش-اختصاصی",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106908\/بازی-هیوستون-راکتس-لس-آنجلس-کلیپرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106908",
@@ -2745,8 +2745,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "93",
-                "guestPoint": "103",
+                "hostPoint": "105",
+                "guestPoint": "112",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 32
@@ -2760,8 +2760,8 @@
                     "guest": 32
                 },
                 "quarterPoints4": {
-                    "host": 6,
-                    "guest": 6
+                    "host": 18,
+                    "guest": 15
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2794,8 +2794,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "97",
-                "guestPoint": "81",
+                "hostPoint": "116",
+                "guestPoint": "90",
                 "quarterPoints1": {
                     "host": 40,
                     "guest": 32
@@ -2808,7 +2808,10 @@
                     "host": 15,
                     "guest": 23
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 23,
+                    "guest": 9
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -2840,8 +2843,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "66",
-                "guestPoint": "79",
+                "hostPoint": "80",
+                "guestPoint": "99",
                 "quarterPoints1": {
                     "host": 37,
                     "guest": 28
@@ -2851,8 +2854,8 @@
                     "guest": 44
                 },
                 "quarterPoints3": {
-                    "host": 9,
-                    "guest": 7
+                    "host": 23,
+                    "guest": 27
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
