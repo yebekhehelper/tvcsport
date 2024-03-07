@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709819161,
+    "timeStamp": 1709819612,
     "todayMatches": {
         "leagues": [
             {
@@ -144,16 +144,16 @@
         "matches": [
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "3",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/09\/22\/D\/mkpra0fi.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150479.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 17 اسفند 1402",
                 "scheduledStartTime": "17:20",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/398836",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/398836",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 19,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -181,10 +181,10 @@
                 "guestLink": "\/football\/team\/1\/ذوب-آهن",
                 "hostId": 902565,
                 "guestId": 1,
-                "status": 0,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "17:20",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/63069\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -1153,7 +1153,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "12",
+                "liveTime": "19",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/15\/C\/blttxejm.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/sdk3yrp2.png",
                 "hasPenalty": false,
@@ -1797,9 +1797,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "12",
+                "liveTime": "19",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/07\/C\/02fmq2w2.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/li5ziulq.png",
                 "hasPenalty": false,
@@ -1810,7 +1810,7 @@
                 "round": 20,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -1839,12 +1839,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "17:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/397059\/بازی-زوریا-میناژ",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397059",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/397059\/events",
                 "scheduledStartOn": "2024-03-07T13:30:00Z",
                 "stadium": null
             },
