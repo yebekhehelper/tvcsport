@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709781006,
+    "timeStamp": 1709781541,
     "todayMatches": {
         "leagues": [
             {
@@ -2696,7 +2696,7 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "54",
+                "hostPoint": "58",
                 "guestPoint": "63",
                 "quarterPoints1": {
                     "host": 29,
@@ -2739,9 +2739,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "6",
+                "guestPoint": "17",
+                "quarterPoints1": {
+                    "host": 6,
+                    "guest": 17
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2759,10 +2762,10 @@
                 "guestLink": null,
                 "hostId": 902789,
                 "guestId": 902793,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -2776,9 +2779,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "10",
+                "guestPoint": "8",
+                "quarterPoints1": {
+                    "host": 10,
+                    "guest": 8
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2796,10 +2802,10 @@
                 "guestLink": null,
                 "hostId": 902409,
                 "guestId": 902801,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63073\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%DA%AF%D9%84%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D8%AA-%D9%88%D8%A7%D8%B1%DB%8C%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%D9%88%D8%A7%DA%A9%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
