@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709814954,
+    "timeStamp": 1709815845,
     "todayMatches": {
         "leagues": [
             {
@@ -1492,7 +1492,7 @@
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326639\/خلاصه-بسکتبال-یوتا-جاز-شیکاگو-بولز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107289\/بازی-یوتا-جاز-شیکاگو-بولز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107289",
@@ -1541,7 +1541,7 @@
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326641\/خلاصه-بسکتبال-پورتلند-تریل-بلیزرز-اوکلاهاما-سیتی-تاندر",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106667\/بازی-پورتلند-تریل-بلیزرز-اوکلاهاما-سیتی-تاندر",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106667",
@@ -1590,7 +1590,7 @@
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/326640\/خلاصه-بسکتبال-گلدن-استیت-واریرز-میلواکی-باکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107290\/بازی-گلدن-استیت-واریرز-میلواکی-باکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107290",
