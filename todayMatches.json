@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709899127,
+    "timeStamp": 1709900757,
     "todayMatches": {
         "leagues": [
             {
@@ -295,16 +295,16 @@
         "matches": [
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "9",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/13\/B\/errniwqh.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/16\/C\/l2wuyhxr.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 18 اسفند 1402",
                 "scheduledStartTime": "15:45",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/398832",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/398832",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 19,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -332,10 +332,10 @@
                 "guestLink": "\/football\/team\/18\/تراکتور",
                 "hostId": 28,
                 "guestId": 18,
-                "status": 0,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "15:45",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/63089\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%85%D8%B3-%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -1966,8 +1966,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": "",
+                "guestGoals": "2",
+                "liveTime": "67",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628305.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150408.png",
                 "hasPenalty": false,
@@ -1979,7 +1979,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -1996,7 +1996,7 @@
                 "guestId": 415,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "14:30",
                 "hasEvents": true,
@@ -2167,7 +2167,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/26\/D\/cqepzgm4.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/u342hlmk.png",
                 "hasPenalty": false,
@@ -2202,10 +2202,10 @@
                 "guestLink": null,
                 "hostId": 903074,
                 "guestId": 903445,
-                "status": 2,
+                "status": 3,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
-                "isLive": true,
+                "statusTitle": "وقفه",
+                "isLive": false,
                 "time": "14:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
