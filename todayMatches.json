@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709885315,
+    "timeStamp": 1709886356,
     "todayMatches": {
         "leagues": [
             {
@@ -1684,7 +1684,7 @@
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/326746\/خلاصه-بسکتبال-بوستون-سلتیکس-گلدن-استیت-واریرز",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107294\/بازی-دنور-ناگتس-بوستون-سلتیکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107294",
