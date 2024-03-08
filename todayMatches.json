@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709867414,
+    "timeStamp": 1709868098,
     "todayMatches": {
         "leagues": [
             {
@@ -2674,7 +2674,7 @@
             {
                 "sport": 4,
                 "hostPoint": "67",
-                "guestPoint": "53",
+                "guestPoint": "57",
                 "quarterPoints1": {
                     "host": 39,
                     "guest": 25
@@ -2716,9 +2716,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "8",
+                "guestPoint": "11",
+                "quarterPoints1": {
+                    "host": 8,
+                    "guest": 11
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2736,10 +2739,10 @@
                 "guestLink": null,
                 "hostId": 902790,
                 "guestId": 902791,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -2753,11 +2756,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "6",
-                "guestPoint": "11",
+                "hostPoint": "18",
+                "guestPoint": "23",
                 "quarterPoints1": {
-                    "host": 6,
-                    "guest": 11
+                    "host": 18,
+                    "guest": 23
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
@@ -2793,9 +2796,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "18",
+                "guestPoint": "9",
+                "quarterPoints1": {
+                    "host": 18,
+                    "guest": 9
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2813,10 +2819,10 @@
                 "guestLink": null,
                 "hostId": 902409,
                 "guestId": 902797,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "06:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
