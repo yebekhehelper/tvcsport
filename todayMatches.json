@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709905426,
+    "timeStamp": 1709905874,
     "todayMatches": {
         "leagues": [
             {
@@ -297,7 +297,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "67",
+                "liveTime": "75",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/13\/B\/errniwqh.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/16\/C\/l2wuyhxr.png",
                 "hasPenalty": false,
@@ -348,9 +348,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "2",
-                "liveTime": "59",
+                "liveTime": "67",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150477.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150455.png",
                 "hasPenalty": false,
@@ -361,7 +361,7 @@
                 "round": 19,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 2
                 },
                 "videoId": null,
@@ -403,7 +403,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "59",
+                "liveTime": "67",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/06\/D\/0vd40qhy.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01524811.png",
                 "hasPenalty": false,
@@ -2220,7 +2220,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "11",
+                "liveTime": "18",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/fxb0xys3.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/jvals0c0.png",
                 "hasPenalty": false,
