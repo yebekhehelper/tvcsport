@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709910628,
+    "timeStamp": 1709911360,
     "todayMatches": {
         "leagues": [
             {
@@ -273,23 +273,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "id": 349,
-                "logo": "https:\/\/match-cdn.varzesh3.com\/football-league\/2023\/08\/13\/B\/gvu4ds1v.png",
-                "title": "لیگ برتر اوکراین",
-                "sport": 1,
-                "link": null,
-                "dates": [
-                    {
-                        "date": "1402\/12\/18",
-                        "matchIds": [
-                            "football-396950",
-                            "football-396952",
-                            "football-396953"
-                        ]
-                    }
-                ]
             }
         ],
         "matches": [
@@ -454,9 +437,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "2",
-                "liveTime": "46",
+                "liveTime": "58",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01199233.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150470.png",
                 "hasPenalty": false,
@@ -467,7 +450,7 @@
                 "round": 19,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 2
                 },
                 "videoId": null,
@@ -929,7 +912,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "52",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/23\/B\/5g2bqovg.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/24\/C\/xs4k5vfs.png",
                 "hasPenalty": false,
@@ -966,7 +949,7 @@
                 "guestId": 389,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "17:30",
                 "hasEvents": true,
@@ -982,7 +965,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "47",
+                "liveTime": "60",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/01\/02\/B\/ukywjdjk.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/23\/B\/mc5qijhr.png",
                 "hasPenalty": false,
@@ -2161,165 +2144,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396766",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-03-08T18:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/26\/D\/cqepzgm4.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/u342hlmk.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 18 اسفند 1402",
-                "scheduledStartTime": "14:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 20,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 1
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 396950,
-                "title": null,
-                "sportId": "football-396950",
-                "hostName": "اس سی دنیپرو",
-                "hostLink": "\/football\/team\/903074\/اس-سی-دنیپرو",
-                "guestName": "روخ لیو",
-                "guestLink": null,
-                "hostId": 903074,
-                "guestId": 903445,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "14:30",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/396950\/بازی-اس-سی-دنیپرو-روخ-لیو",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396950",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396950\/events",
-                "scheduledStartOn": "2024-03-08T11:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": "78",
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/fxb0xys3.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/jvals0c0.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 18 اسفند 1402",
-                "scheduledStartTime": "17:00",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 20,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 1
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 396952,
-                "title": null,
-                "sportId": "football-396952",
-                "hostName": "متالیست",
-                "hostLink": "\/football\/team\/402\/متالیست",
-                "guestName": "چرکاسی",
-                "guestLink": null,
-                "hostId": 402,
-                "guestId": 903449,
-                "status": 2,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
-                "time": "17:00",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/396952\/بازی-متالیست-چرکاسی",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396952",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396952\/events",
-                "scheduledStartOn": "2024-03-08T13:30:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/26\/B\/22r1xx5x.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/13\/B\/om3uyb3f.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 18 اسفند 1402",
-                "scheduledStartTime": "19:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 20,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 396953,
-                "title": null,
-                "sportId": "football-396953",
-                "hostName": "شاختار",
-                "hostLink": "\/football\/team\/296\/شاختار",
-                "guestName": "کولوس کوالیوکا",
-                "guestLink": null,
-                "hostId": 296,
-                "guestId": 903446,
-                "status": 1,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "19:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/396953\/بازی-شاختار-کولوس-کوالیوکا",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/396953",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-08T16:00:00Z",
                 "stadium": null
             }
         ],
