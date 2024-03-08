@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709936040,
+    "timeStamp": 1709936873,
     "todayMatches": {
         "leagues": [
             {
@@ -2117,9 +2117,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "66",
+                "liveTime": "80",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/0vezlc3g.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/ucb2mfne.png",
                 "hasPenalty": false,
@@ -2130,7 +2130,7 @@
                 "round": 25,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 0
                 },
                 "videoId": null,
