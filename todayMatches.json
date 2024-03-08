@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709865225,
+    "timeStamp": 1709865673,
     "todayMatches": {
         "leagues": [
             {
@@ -2607,13 +2607,13 @@
                 "guestLink": null,
                 "hostId": 902799,
                 "guestId": 902786,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63104\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%85%DB%8C%D9%86%D9%87-%D8%B3%D9%88%D8%AA%D8%A7-%D8%AA%DB%8C%D9%85%D8%A8%D8%B1%D9%88%D9%84%D9%88%D8%B2-%D8%A7%DB%8C%D9%86%D8%AF%DB%8C%D8%A7%D9%86%D8%A7-%D9%BE%DB%8C-%D8%B3%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107291\/بازی-ایندیانا-پیسرز-مینه-سوتا-تیمبرولوز",
@@ -2624,8 +2624,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "95",
-                "guestPoint": "93",
+                "hostPoint": "98",
+                "guestPoint": "99",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 36
@@ -2639,8 +2639,8 @@
                     "guest": 25
                 },
                 "quarterPoints4": {
-                    "host": 4,
-                    "guest": 10
+                    "host": 7,
+                    "guest": 16
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2673,13 +2673,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "39",
-                "guestPoint": "25",
+                "hostPoint": "47",
+                "guestPoint": "31",
                 "quarterPoints1": {
                     "host": 39,
                     "guest": 25
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 8,
+                    "guest": 6
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
