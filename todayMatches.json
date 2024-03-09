@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709961531,
+    "timeStamp": 1709962209,
     "todayMatches": {
         "leagues": [
             {
@@ -4041,7 +4041,7 @@
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/326903\/خلاصه-بسکتبال-فیلادلفیا-سیکسرز-نیو-اورلینز-پلیکانز",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107296\/بازی-فیلادلفیا-سیکسرز-نیو-اورلینز-پلیکانز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107296",
@@ -4299,8 +4299,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "110",
-                "guestPoint": "108",
+                "hostPoint": "118",
+                "guestPoint": "120",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 30
@@ -4314,8 +4314,8 @@
                     "guest": 27
                 },
                 "quarterPoints4": {
-                    "host": 14,
-                    "guest": 18
+                    "host": 22,
+                    "guest": 30
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -5068,7 +5068,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "17",
+                "liveTime": "29",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618038.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168137.png",
                 "hasPenalty": false,
@@ -5215,7 +5215,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "14",
+                "liveTime": "25",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/B\/zxbshcd1.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01617592.png",
                 "hasPenalty": false,
@@ -5264,7 +5264,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "15",
+                "liveTime": "27",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/B\/ncbt5i2j.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168533.png",
                 "hasPenalty": false,
@@ -5317,7 +5317,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "16",
+                "liveTime": "27",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2024\/02\/13\/C\/ekq1i4zj.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168169.png",
                 "hasPenalty": false,
