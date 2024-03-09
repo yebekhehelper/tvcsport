@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709955170,
+    "timeStamp": 1709955619,
     "todayMatches": {
         "leagues": [
             {
@@ -4100,7 +4100,7 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "111",
+                "hostPoint": "113",
                 "guestPoint": "104",
                 "quarterPoints1": {
                     "host": 25,
@@ -4119,7 +4119,7 @@
                     "guest": 17
                 },
                 "overtimePoints": {
-                    "host": 14,
+                    "host": 16,
                     "guest": 7
                 },
                 "guestLogo": null,
@@ -4135,13 +4135,13 @@
                 "guestLink": null,
                 "hostId": 902410,
                 "guestId": 902786,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63171\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%DA%A9%D9%84%DB%8C%D9%88%D9%84%D9%86%D8%AF-%DA%A9%D8%A7%D9%88%D8%A7%D9%84%DB%8C%D8%B1%D8%B2-%D9%85%DB%8C%D9%86%D9%87-%D8%B3%D9%88%D8%AA%D8%A7-%D8%AA%DB%8C%D9%85%D8%A8%D8%B1%D9%88%D9%84%D9%88%D8%B2-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107297\/بازی-کلیولند-کاوالیرز-مینه-سوتا-تیمبرولوز",
@@ -4250,11 +4250,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "31",
-                "guestPoint": "27",
+                "hostPoint": "33",
+                "guestPoint": "28",
                 "quarterPoints1": {
                     "host": 31,
-                    "guest": 27
+                    "guest": 28
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
@@ -4290,11 +4290,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "18",
-                "guestPoint": "21",
+                "hostPoint": "27",
+                "guestPoint": "30",
                 "quarterPoints1": {
-                    "host": 18,
-                    "guest": 21
+                    "host": 27,
+                    "guest": 30
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
