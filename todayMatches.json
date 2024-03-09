@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709962658,
+    "timeStamp": 1709963099,
     "todayMatches": {
         "leagues": [
             {
@@ -4331,13 +4331,13 @@
                 "guestLink": null,
                 "hostId": 902784,
                 "guestId": 902801,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63172\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%D9%88%D8%A7%DA%A9%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107300\/بازی-لس-آنجلس-لیکرز-میلواکی-باکس",
@@ -5068,7 +5068,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "36",
+                "liveTime": "43",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618038.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168137.png",
                 "hasPenalty": false,
@@ -5215,7 +5215,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "33",
+                "liveTime": "40",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/B\/zxbshcd1.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01617592.png",
                 "hasPenalty": false,
@@ -5263,8 +5263,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "34",
+                "guestGoals": "1",
+                "liveTime": "42",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/B\/ncbt5i2j.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168533.png",
                 "hasPenalty": false,
@@ -5276,7 +5276,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -5304,12 +5304,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "08:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399961\/بازی-جوبیلو-ایواتا-کاشیوا-ریسول",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399961",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399961\/events",
                 "scheduledStartOn": "2024-03-09T05:00:00Z",
                 "stadium": null
             },
@@ -5317,7 +5317,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "35",
+                "liveTime": "42",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2024\/02\/13\/C\/ekq1i4zj.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168169.png",
                 "hasPenalty": false,
