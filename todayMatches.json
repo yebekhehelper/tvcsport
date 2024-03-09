@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1709981481,
+    "timeStamp": 1709981906,
     "todayMatches": {
         "leagues": [
             {
@@ -2650,7 +2650,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "21",
+                "liveTime": "28",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/r5kg0tri.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/ivwbdds1.png",
                 "hasPenalty": false,
@@ -2690,12 +2690,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "14:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/395228\/بازی-سیواس-اسپور-آلانیااسپور",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395228",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395228\/events",
                 "scheduledStartOn": "2024-03-09T10:30:00Z",
                 "stadium": null
             },
