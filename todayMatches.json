@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710023242,
+    "timeStamp": 1710023678,
     "todayMatches": {
         "leagues": [
             {
@@ -3072,7 +3072,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/mahpaeke.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01431471.png",
                 "hasPenalty": false,
@@ -3107,10 +3107,10 @@
                 "guestLink": "\/football\/team\/902729\/فامالیسائو",
                 "hostId": 901196,
                 "guestId": 902729,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "00:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -5414,8 +5414,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "63",
-                "guestPoint": "67",
+                "hostPoint": "74",
+                "guestPoint": "71",
                 "quarterPoints1": {
                     "host": 23,
                     "guest": 29
@@ -5425,8 +5425,8 @@
                     "guest": 28
                 },
                 "quarterPoints3": {
-                    "host": 17,
-                    "guest": 10
+                    "host": 28,
+                    "guest": 14
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
