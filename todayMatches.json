@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710042389,
+    "timeStamp": 1710042839,
     "todayMatches": {
         "leagues": [
             {
@@ -5561,8 +5561,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "94",
-                "guestPoint": "110",
+                "hostPoint": "101",
+                "guestPoint": "114",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 32
@@ -5576,8 +5576,8 @@
                     "guest": 34
                 },
                 "quarterPoints4": {
-                    "host": 15,
-                    "guest": 14
+                    "host": 22,
+                    "guest": 18
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -5610,8 +5610,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "102",
-                "guestPoint": "110",
+                "hostPoint": "107",
+                "guestPoint": "117",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 31
@@ -5625,8 +5625,8 @@
                     "guest": 25
                 },
                 "quarterPoints4": {
-                    "host": 24,
-                    "guest": 23
+                    "host": 29,
+                    "guest": 30
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -5659,8 +5659,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "95",
-                "guestPoint": "79",
+                "hostPoint": "106",
+                "guestPoint": "90",
                 "quarterPoints1": {
                     "host": 38,
                     "guest": 22
@@ -5670,10 +5670,13 @@
                     "guest": 22
                 },
                 "quarterPoints3": {
-                    "host": 17,
-                    "guest": 35
+                    "host": 24,
+                    "guest": 44
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 4,
+                    "guest": 2
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -5705,15 +5708,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "46",
-                "guestPoint": "32",
+                "hostPoint": "53",
+                "guestPoint": "39",
                 "quarterPoints1": {
                     "host": 33,
                     "guest": 16
                 },
                 "quarterPoints2": {
-                    "host": 13,
-                    "guest": 16
+                    "host": 20,
+                    "guest": 23
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -6211,7 +6214,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "53",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/07\/C\/efk3rjnr.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/dwjjjea3.png",
                 "hasPenalty": false,
@@ -6248,7 +6251,7 @@
                 "guestId": 903272,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "06:00",
                 "hasEvents": true,
@@ -6264,7 +6267,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "7",
+                "liveTime": "14",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/kzwjwzps.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/yxsw3paj.png",
                 "hasPenalty": false,
@@ -6317,7 +6320,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "6",
+                "liveTime": "14",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/1da1cjrk.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/C\/sylkumf4.png",
                 "hasPenalty": false,
