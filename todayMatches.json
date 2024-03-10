@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710063357,
+    "timeStamp": 1710063802,
     "todayMatches": {
         "leagues": [
             {
@@ -1318,7 +1318,7 @@
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/12\/11\/C\/0ez3nsip.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 20 اسفند 1402",
-                "scheduledStartTime": "15:45",
+                "scheduledStartTime": "15:30",
                 "predictionLink": null,
                 "predictionUrl": null,
                 "round": 23,
@@ -1352,14 +1352,14 @@
                 "statusDescription": null,
                 "statusTitle": "",
                 "isLive": false,
-                "time": "15:45",
+                "time": "15:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/63310\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%DB%8C%D9%BE%D8%A7-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B9%D8%A7%D9%85%D8%B1%DB%8C?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399271\/بازی-سایپا-شاهین-بندر-عامری",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399271",
                 "eventsApi": null,
-                "scheduledStartOn": "2024-03-10T12:15:00Z",
+                "scheduledStartOn": "2024-03-10T12:00:00Z",
                 "stadium": null
             },
             {
