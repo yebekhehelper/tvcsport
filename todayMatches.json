@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710039113,
+    "timeStamp": 1710039540,
     "todayMatches": {
         "leagues": [
             {
@@ -5561,8 +5561,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "43",
-                "guestPoint": "62",
+                "hostPoint": "46",
+                "guestPoint": "64",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 32
@@ -5571,7 +5571,10 @@
                     "host": 16,
                     "guest": 30
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 3,
+                    "guest": 2
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -5604,8 +5607,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "55",
-                "guestPoint": "62",
+                "hostPoint": "61",
+                "guestPoint": "67",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 31
@@ -5614,7 +5617,10 @@
                     "host": 24,
                     "guest": 31
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 11,
+                    "guest": 5
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -5647,15 +5653,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "62",
-                "guestPoint": "32",
+                "hostPoint": "67",
+                "guestPoint": "34",
                 "quarterPoints1": {
                     "host": 38,
                     "guest": 22
                 },
                 "quarterPoints2": {
-                    "host": 24,
-                    "guest": 10
+                    "host": 29,
+                    "guest": 12
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -6137,7 +6143,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "54",
+                "liveTime": "61",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/2jak0r1k.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/rz003xef.png",
                 "hasPenalty": false,
@@ -6190,7 +6196,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "11",
+                "liveTime": "18",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/07\/C\/efk3rjnr.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/dwjjjea3.png",
                 "hasPenalty": false,
@@ -6230,12 +6236,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "06:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400571\/بازی-رئال-سالت-لیک-کولورادو-راپیدز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400571",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400571\/events",
                 "scheduledStartOn": "2024-03-10T02:30:00Z",
                 "stadium": null
             },
