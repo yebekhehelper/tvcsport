@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710041042,
+    "timeStamp": 1710041501,
     "todayMatches": {
         "leagues": [
             {
@@ -5561,8 +5561,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "75",
-                "guestPoint": "88",
+                "hostPoint": "83",
+                "guestPoint": "98",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 32
@@ -5572,10 +5572,13 @@
                     "guest": 30
                 },
                 "quarterPoints3": {
-                    "host": 32,
-                    "guest": 26
+                    "host": 36,
+                    "guest": 34
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 4,
+                    "guest": 2
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -5607,8 +5610,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "82",
-                "guestPoint": "95",
+                "hostPoint": "91",
+                "guestPoint": "103",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 31
@@ -5622,8 +5625,8 @@
                     "guest": 25
                 },
                 "quarterPoints4": {
-                    "host": 4,
-                    "guest": 8
+                    "host": 13,
+                    "guest": 16
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -5656,8 +5659,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "78",
-                "guestPoint": "48",
+                "hostPoint": "88",
+                "guestPoint": "55",
                 "quarterPoints1": {
                     "host": 38,
                     "guest": 22
@@ -5666,7 +5669,10 @@
                     "host": 40,
                     "guest": 22
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 10,
+                    "guest": 11
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -5699,11 +5705,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "19",
-                "guestPoint": "8",
+                "hostPoint": "27",
+                "guestPoint": "13",
                 "quarterPoints1": {
-                    "host": 19,
-                    "guest": 8
+                    "host": 27,
+                    "guest": 13
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
@@ -6148,8 +6154,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "1",
-                "liveTime": "86",
+                "guestGoals": "2",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/2jak0r1k.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/rz003xef.png",
                 "hasPenalty": false,
@@ -6161,7 +6167,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -6202,7 +6208,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "44",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/07\/C\/efk3rjnr.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/dwjjjea3.png",
                 "hasPenalty": false,
@@ -6239,7 +6245,7 @@
                 "guestId": 903272,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "06:00",
                 "hasEvents": true,
