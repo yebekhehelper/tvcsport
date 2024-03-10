@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710104858,
+    "timeStamp": 1710105402,
     "todayMatches": {
         "leagues": [
             {
@@ -940,8 +940,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "1",
-                "liveTime": "",
+                "guestGoals": "2",
+                "liveTime": "52",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/26\/B\/ygtesv21.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150333.png",
                 "hasPenalty": false,
@@ -953,7 +953,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -978,7 +978,7 @@
                 "guestId": 117,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "23:30",
                 "hasEvents": true,
@@ -1363,9 +1363,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "61",
+                "liveTime": "70",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/08\/C\/dmpyhyef.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150101.png",
                 "hasPenalty": false,
@@ -1376,7 +1376,7 @@
                 "round": 28,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 1
                 },
                 "videoId": null,
@@ -2107,7 +2107,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "60",
+                "liveTime": "69",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150159.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169013.png",
                 "hasPenalty": false,
@@ -2478,7 +2478,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "36",
+                "liveTime": "45",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/27\/B\/pewcbaah.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633908.png",
                 "hasPenalty": false,
@@ -4156,8 +4156,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "95",
-                "guestPoint": "96",
+                "hostPoint": "105",
+                "guestPoint": "107",
                 "quarterPoints1": {
                     "host": 33,
                     "guest": 29
@@ -4171,8 +4171,8 @@
                     "guest": 32
                 },
                 "quarterPoints4": {
-                    "host": 10,
-                    "guest": 5
+                    "host": 20,
+                    "guest": 16
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4556,7 +4556,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "2",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/5j1zaf2r.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/12\/B\/m0joqcr1.png",
                 "hasPenalty": false,
@@ -4591,10 +4591,10 @@
                 "guestLink": "\/football\/team\/473\/لس-آنجلس-گلکسی",
                 "hostId": 903108,
                 "guestId": 473,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "22:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -4607,16 +4607,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "7",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/24\/C\/5501eu2y.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/mmcfte1i.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 21 اسفند 1402",
                 "scheduledStartTime": "00:30",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/400576",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/400576",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -4644,10 +4644,10 @@
                 "guestLink": "\/football\/team\/901136\/مونترئال",
                 "hostId": 903067,
                 "guestId": 901136,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "00:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/63231\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1-%D9%85%DB%8C%D8%A7%D9%85%DB%8C-%D9%85%D9%88%D9%86%D8%AA%D8%B1%D8%A6%D8%A7%D9%84-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
