@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710066785,
+    "timeStamp": 1710067236,
     "todayMatches": {
         "leagues": [
             {
@@ -2761,9 +2761,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "1",
+                "liveTime": "10",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/xxgyfzsh.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01527014.gif",
                 "hasPenalty": false,
@@ -2775,7 +2775,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -2798,17 +2798,17 @@
                 "guestLink": "\/football\/team\/902857\/هاتای-اسپور",
                 "hostId": 902622,
                 "guestId": 902857,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "14:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/63216\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DA%A9%D8%A7%DB%8C%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1-%D9%87%D8%A7%D8%AA%D8%A7%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/395225\/بازی-کایسری-اسپور-هاتای-اسپور",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395225",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/395225\/events",
                 "scheduledStartOn": "2024-03-10T10:30:00Z",
                 "stadium": null
             },
