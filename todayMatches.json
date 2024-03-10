@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710037610,
+    "timeStamp": 1710038224,
     "todayMatches": {
         "leagues": [
             {
@@ -5512,8 +5512,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "118",
-                "guestPoint": "135",
+                "hostPoint": "124",
+                "guestPoint": "142",
                 "quarterPoints1": {
                     "host": 34,
                     "guest": 35
@@ -5527,8 +5527,8 @@
                     "guest": 37
                 },
                 "quarterPoints4": {
-                    "host": 30,
-                    "guest": 29
+                    "host": 36,
+                    "guest": 36
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -5544,10 +5544,10 @@
                 "guestLink": null,
                 "hostId": 902798,
                 "guestId": 902780,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -5561,15 +5561,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "34",
-                "guestPoint": "44",
+                "hostPoint": "43",
+                "guestPoint": "56",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 32
                 },
                 "quarterPoints2": {
-                    "host": 7,
-                    "guest": 12
+                    "host": 16,
+                    "guest": 24
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -5604,15 +5604,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "39",
-                "guestPoint": "51",
+                "hostPoint": "50",
+                "guestPoint": "62",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 31
                 },
                 "quarterPoints2": {
-                    "host": 13,
-                    "guest": 20
+                    "host": 24,
+                    "guest": 31
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -5647,11 +5647,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "28",
-                "guestPoint": "16",
+                "hostPoint": "38",
+                "guestPoint": "22",
                 "quarterPoints1": {
-                    "host": 28,
-                    "guest": 16
+                    "host": 38,
+                    "guest": 22
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
@@ -5869,7 +5869,7 @@
                 "sport": 1,
                 "hostGoals": "4",
                 "guestGoals": "1",
-                "liveTime": "89",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/21\/B\/05apkgdn.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/elizp3ni.png",
                 "hasPenalty": false,
@@ -5904,10 +5904,10 @@
                 "guestLink": null,
                 "hostId": 902339,
                 "guestId": 903268,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -5920,7 +5920,7 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "1",
                 "liveTime": "90+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/B\/yjii3ib2.png",
@@ -5933,7 +5933,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 1
                 },
                 "videoId": null,
@@ -5975,7 +5975,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "89",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/btpabjuj.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/fkj055fy.png",
                 "hasPenalty": false,
@@ -6010,10 +6010,10 @@
                 "guestLink": null,
                 "hostId": 901119,
                 "guestId": 903110,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -6027,8 +6027,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "2",
-                "liveTime": "86",
+                "guestGoals": "3",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/q2bob4lt.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/0l2zefac.png",
                 "hasPenalty": false,
@@ -6040,7 +6040,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 2
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": null,
@@ -6134,7 +6134,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "45+",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/2jak0r1k.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/rz003xef.png",
                 "hasPenalty": false,
@@ -6171,7 +6171,7 @@
                 "guestId": 901500,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "05:00",
                 "hasEvents": true,
