@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710039540,
+    "timeStamp": 1710040516,
     "todayMatches": {
         "leagues": [
             {
@@ -5561,8 +5561,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "46",
-                "guestPoint": "64",
+                "hostPoint": "65",
+                "guestPoint": "80",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 32
@@ -5572,8 +5572,8 @@
                     "guest": 30
                 },
                 "quarterPoints3": {
-                    "host": 3,
-                    "guest": 2
+                    "host": 22,
+                    "guest": 18
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -5607,8 +5607,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "61",
-                "guestPoint": "67",
+                "hostPoint": "74",
+                "guestPoint": "80",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 31
@@ -5618,8 +5618,8 @@
                     "guest": 31
                 },
                 "quarterPoints3": {
-                    "host": 11,
-                    "guest": 5
+                    "host": 24,
+                    "guest": 18
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -5653,15 +5653,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "67",
-                "guestPoint": "34",
+                "hostPoint": "78",
+                "guestPoint": "44",
                 "quarterPoints1": {
                     "host": 38,
                     "guest": 22
                 },
                 "quarterPoints2": {
-                    "host": 29,
-                    "guest": 12
+                    "host": 40,
+                    "guest": 22
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -5696,16 +5696,19 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "6",
+                "guestPoint": "2",
+                "quarterPoints1": {
+                    "host": 6,
+                    "guest": 2
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
-                "scheduledStartTime": "06:30",
+                "scheduledStartTime": "06:40",
                 "scheduledStartDate": " 20 اسفند 1402",
                 "id": 107306,
                 "title": null,
@@ -5716,11 +5719,11 @@
                 "guestLink": null,
                 "hostId": 902789,
                 "guestId": 902806,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
-                "time": "06:30",
+                "statusTitle": "در جریان",
+                "isLive": true,
+                "time": "06:40",
                 "hasEvents": false,
                 "liveStreamSource": "",
                 "videoLink": null,
@@ -5728,7 +5731,7 @@
                 "matchPageLink": "\/basketball\/match\/107306\/بازی-پورتلند-تریل-بلیزرز-تورنتو-رپترز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107306",
                 "eventsApi": null,
-                "scheduledStartOn": "2024-03-10T03:00:00Z",
+                "scheduledStartOn": "2024-03-10T03:10:00Z",
                 "stadium": null
             },
             {
@@ -6143,7 +6146,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "61",
+                "liveTime": "77",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/2jak0r1k.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/rz003xef.png",
                 "hasPenalty": false,
@@ -6194,9 +6197,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "18",
+                "liveTime": "35",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/07\/C\/efk3rjnr.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/dwjjjea3.png",
                 "hasPenalty": false,
@@ -6207,7 +6210,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
