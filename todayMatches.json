@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710177894,
+    "timeStamp": 1710178361,
     "todayMatches": {
         "leagues": [
             {
@@ -845,9 +845,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "3",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633904.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01438837.png",
                 "hasPenalty": false,
@@ -878,10 +878,10 @@
                 "guestLink": "\/football\/team\/427\/بشیکتاش",
                 "hostId": 902725,
                 "guestId": 427,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "21:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
