@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710147452,
+    "timeStamp": 1710148404,
     "todayMatches": {
         "leagues": [
             {
@@ -1235,7 +1235,7 @@
                 "time": "01:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327064\/خلاصه-بسکتبال-آتلانتا-هاوکس-نیو-اورلیز-پلیکانز",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107308\/بازی-آتلانتا-هاوکس-نیو-اورلینز-پلیکانز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107308",
@@ -1382,7 +1382,7 @@
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327057\/خلاصه-بسکتبال-کلیولند-کاوالیرز-بروکلین-نتس",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106823\/بازی-کلیولند-کاوالیرز-بروکلین-نتس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106823",
