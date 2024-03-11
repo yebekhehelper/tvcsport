@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710169862,
+    "timeStamp": 1710170601,
     "todayMatches": {
         "leagues": [
             {
@@ -1064,8 +1064,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "0",
-                "guestGoals": "0",
+                "hostGoals": "7",
+                "guestGoals": "3",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
