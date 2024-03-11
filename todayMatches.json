@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710120820,
+    "timeStamp": 1710122722,
     "todayMatches": {
         "leagues": [
             {
@@ -4548,9 +4548,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "28",
+                "guestPoint": "28",
+                "quarterPoints1": {
+                    "host": 28,
+                    "guest": 28
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4568,10 +4571,10 @@
                 "guestLink": null,
                 "hostId": 902784,
                 "guestId": 902786,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "05:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63238\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2-%D9%85%DB%8C%D9%86%D9%87-%D8%B3%D9%88%D8%AA%D8%A7-%D8%AA%DB%8C%D9%85%D8%A8%D8%B1%D9%88%D9%84%D9%88%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
