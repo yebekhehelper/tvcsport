@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710117273,
+    "timeStamp": 1710120820,
     "todayMatches": {
         "leagues": [
             {
@@ -4401,8 +4401,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "88",
-                "guestPoint": "57",
+                "hostPoint": "124",
+                "guestPoint": "93",
                 "quarterPoints1": {
                     "host": 38,
                     "guest": 24
@@ -4412,10 +4412,13 @@
                     "guest": 19
                 },
                 "quarterPoints3": {
-                    "host": 24,
-                    "guest": 14
+                    "host": 38,
+                    "guest": 25
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 22,
+                    "guest": 25
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -4430,10 +4433,10 @@
                 "guestLink": null,
                 "hostId": 902793,
                 "guestId": 902785,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -4447,8 +4450,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "62",
-                "guestPoint": "67",
+                "hostPoint": "101",
+                "guestPoint": "120",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 29
@@ -4458,10 +4461,13 @@
                     "guest": 23
                 },
                 "quarterPoints3": {
-                    "host": 11,
-                    "guest": 15
+                    "host": 29,
+                    "guest": 44
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 21,
+                    "guest": 24
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -4476,10 +4482,10 @@
                 "guestLink": null,
                 "hostId": 902410,
                 "guestId": 902802,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -4493,8 +4499,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "43",
-                "guestPoint": "44",
+                "hostPoint": "73",
+                "guestPoint": "79",
                 "quarterPoints1": {
                     "host": 15,
                     "guest": 15
@@ -4504,10 +4510,13 @@
                     "guest": 22
                 },
                 "quarterPoints3": {
-                    "host": 12,
-                    "guest": 7
+                    "host": 25,
+                    "guest": 26
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 17,
+                    "guest": 16
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -4522,13 +4531,13 @@
                 "guestLink": null,
                 "hostId": 902803,
                 "guestId": 902805,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "02:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63237\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9-%D9%86%DB%8C%DA%A9%D8%B3-%D9%81%DB%8C%D9%84%D8%A7%D8%AF%D9%84%D9%81%DB%8C%D8%A7-%D8%B3%D9%88%D9%86%D8%AA%DB%8C-%D8%B3%DB%8C%DA%A9%D8%B3%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107670\/بازی-نیویورک-نیکس-فیلادلفیا-سیکسرز",
