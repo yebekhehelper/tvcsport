@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710156439,
+    "timeStamp": 1710156947,
     "todayMatches": {
         "leagues": [
             {
@@ -427,7 +427,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "23",
+                "liveTime": "31",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2024\/03\/06\/C\/thnpmtzf.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01630563.png",
                 "hasPenalty": false,
@@ -894,8 +894,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "21",
-                "guestGoals": "11",
+                "hostGoals": "27",
+                "guestGoals": "15",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -928,8 +928,8 @@
             },
             {
                 "sport": 5,
-                "hostGoals": "14",
-                "guestGoals": "11",
+                "hostGoals": "15",
+                "guestGoals": "12",
                 "penalties": null,
                 "guestLogo": null,
                 "hostLogo": null,
