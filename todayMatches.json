@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710195173,
+    "timeStamp": 1710195957,
     "todayMatches": {
         "leagues": [
             {
@@ -367,7 +367,7 @@
                     "host": 3,
                     "guest": 2
                 },
-                "videoId": null,
+                "videoId": 327132,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#000000",
@@ -395,7 +395,7 @@
                 "time": "23:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327132\/خلاصه-بازی-چلسی-3-نیوکسل-2-گزارش-اختصاصی",
                 "matchPageLink": "\/football\/match\/356320\/بازی-چلسی-نیوکسل",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/356320",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/356320\/events",
