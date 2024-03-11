@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710193879,
+    "timeStamp": 1710194322,
     "todayMatches": {
         "leagues": [
             {
@@ -353,7 +353,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "2",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/0cuop3h2.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/pykn41gz.png",
                 "hasPenalty": false,
@@ -388,13 +388,13 @@
                 "guestLink": "\/football\/team\/274\/نیوکسل",
                 "hostId": 81,
                 "guestId": 274,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/63228\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DA%86%D9%84%D8%B3%DB%8C-%D9%86%DB%8C%D9%88%DA%A9%D8%B3%D9%84-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/356320\/بازی-چلسی-نیوکسل",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/356320",
@@ -404,7 +404,7 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "2",
                 "liveTime": "90+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/06\/24\/B\/opmbz3bz.png",
@@ -417,7 +417,7 @@
                 "round": 28,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 2
                 },
                 "videoId": null,
@@ -510,8 +510,8 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "4",
-                "guestGoals": "3",
+                "hostGoals": "4 (0)",
+                "guestGoals": "3 (1)",
                 "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/09\/18\/B\/0ya2zrcm.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/15\/C\/blttxejm.png",
@@ -521,7 +521,10 @@
                 "predictionLink": null,
                 "predictionUrl": null,
                 "round": null,
-                "penaltyGoals": null,
+                "penaltyGoals": {
+                    "host": 0,
+                    "guest": 1
+                },
                 "matchGoals": {
                     "host": 4,
                     "guest": 3
@@ -549,7 +552,7 @@
                 "guestId": 411,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پنالتی",
                 "isLive": true,
                 "time": "22:30",
                 "hasEvents": true,
@@ -932,7 +935,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "77",
+                "liveTime": "85",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/0zpaewt2.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/radqkcnn.png",
                 "hasPenalty": false,
