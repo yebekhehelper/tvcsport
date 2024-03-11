@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710200229,
+    "timeStamp": 1710200680,
     "todayMatches": {
         "leagues": [
             {
@@ -1488,13 +1488,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "34",
-                "guestPoint": "23",
+                "hostPoint": "46",
+                "guestPoint": "31",
                 "quarterPoints1": {
                     "host": 34,
                     "guest": 23
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 12,
+                    "guest": 8
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -1528,9 +1531,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "8",
+                "guestPoint": "2",
+                "quarterPoints1": {
+                    "host": 8,
+                    "guest": 2
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -1548,10 +1554,10 @@
                 "guestLink": null,
                 "hostId": 902410,
                 "guestId": 902788,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "03:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63271\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%DA%A9%D9%84%DB%8C%D9%88%D9%84%D9%86%D8%AF-%DA%A9%D8%A7%D9%88%D8%A7%D9%84%DB%8C%D8%B1%D8%B2-%D9%81%DB%8C%D9%86%DB%8C%DA%A9%D8%B3-%D8%B3%D8%A7%D9%86%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
