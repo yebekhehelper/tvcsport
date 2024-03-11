@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710129429,
+    "timeStamp": 1710130503,
     "todayMatches": {
         "leagues": [
             {
@@ -4549,7 +4549,7 @@
             {
                 "sport": 4,
                 "hostPoint": "120",
-                "guestPoint": "107",
+                "guestPoint": "109",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 28
@@ -4564,7 +4564,7 @@
                 },
                 "quarterPoints4": {
                     "host": 29,
-                    "guest": 15
+                    "guest": 17
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4580,13 +4580,13 @@
                 "guestLink": null,
                 "hostId": 902784,
                 "guestId": 902786,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "05:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63238\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2-%D9%85%DB%8C%D9%86%D9%87-%D8%B3%D9%88%D8%AA%D8%A7-%D8%AA%DB%8C%D9%85%D8%A8%D8%B1%D9%88%D9%84%D9%88%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106913\/بازی-لس-آنجلس-لیکرز-مینه-سوتا-تیمبرولوز",
