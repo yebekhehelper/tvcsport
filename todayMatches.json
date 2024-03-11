@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710163364,
+    "timeStamp": 1710163796,
     "todayMatches": {
         "leagues": [
             {
@@ -952,7 +952,7 @@
                 "time": "14:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327083\/خلاصه-هندبال-سپاهان-26-سپاهان-نوین-24",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/handball\/match\/143\/بازی-سپاهان-سپاهان-نوین",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/handball\/matches\/143",
