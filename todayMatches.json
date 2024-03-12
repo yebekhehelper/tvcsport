@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710224132,
+    "timeStamp": 1710224909,
     "todayMatches": {
         "leagues": [
             {
@@ -222,6 +222,21 @@
                             "basketball-107671",
                             "basketball-107311",
                             "basketball-107312"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 341,
+                "logo": "https:\/\/match-cdn.varzesh3.com\/football-league\/2023\/08\/07\/B\/qp2x2lbx.png",
+                "title": "جام حذفی روسیه",
+                "sport": 1,
+                "link": null,
+                "dates": [
+                    {
+                        "date": "1402\/12\/22",
+                        "matchIds": [
+                            "football-401089"
                         ]
                     }
                 ]
@@ -1778,6 +1793,55 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107312",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-03-12T02:30:00Z",
+                "stadium": null
+            },
+            {
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
+                "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150408.png",
+                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01628320.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 22 اسفند 1402",
+                "scheduledStartTime": "20:45",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
+                },
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
+                },
+                "hostStyle": null,
+                "id": 401089,
+                "title": null,
+                "sportId": "football-401089",
+                "hostName": "زسکامسکو",
+                "hostLink": "\/football\/team\/415\/زسکامسکو",
+                "guestName": "روستوف",
+                "guestLink": "\/football\/team\/902422\/روستوف",
+                "hostId": 415,
+                "guestId": 902422,
+                "status": 1,
+                "statusDescription": null,
+                "statusTitle": "",
+                "isLive": false,
+                "time": "20:45",
+                "hasEvents": false,
+                "liveStreamSource": "",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/401089\/بازی-زسکامسکو-روستوف",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401089",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-12T17:15:00Z",
                 "stadium": null
             },
             {
