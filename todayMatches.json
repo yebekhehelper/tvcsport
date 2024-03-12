@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710244448,
+    "timeStamp": 1710245483,
     "todayMatches": {
         "leagues": [
             {
@@ -239,7 +239,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/C\/goegr013.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168137.png",
                 "hasPenalty": false,
@@ -270,13 +270,13 @@
                 "guestLink": "\/football\/team\/384\/چونبوک-موتورز",
                 "hostId": 651,
                 "guestId": 384,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "13:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/63263\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%88%D9%84%D8%B3%D8%A7%D9%86-%D9%87%DB%8C%D9%88%D9%86%D8%AF%D8%A7%DB%8C-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%DA%86%D9%88%D9%86%D8%A8%D9%88%DA%A9-%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B2-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/401035\/بازی-اولسان-هیوندای-چونبوک-موتورز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401035",
