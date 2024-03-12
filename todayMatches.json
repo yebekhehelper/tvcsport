@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710208299,
+    "timeStamp": 1710209490,
     "todayMatches": {
         "leagues": [
             {
@@ -1569,13 +1569,13 @@
                 "guestLink": null,
                 "hostId": 902410,
                 "guestId": 902788,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63271\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%DA%A9%D9%84%DB%8C%D9%88%D9%84%D9%86%D8%AF-%DA%A9%D8%A7%D9%88%D8%A7%D9%84%DB%8C%D8%B1%D8%B2-%D9%81%DB%8C%D9%86%DB%8C%DA%A9%D8%B3-%D8%B3%D8%A7%D9%86%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107309\/بازی-کلیولند-کاوالیرز-فینیکس-سانز",
@@ -1586,8 +1586,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "76",
-                "guestPoint": "109",
+                "hostPoint": "92",
+                "guestPoint": "127",
                 "quarterPoints1": {
                     "host": 16,
                     "guest": 44
@@ -1601,8 +1601,8 @@
                     "guest": 36
                 },
                 "quarterPoints4": {
-                    "host": 12,
-                    "guest": 11
+                    "host": 28,
+                    "guest": 29
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -1618,10 +1618,10 @@
                 "guestLink": null,
                 "hostId": 902797,
                 "guestId": 902780,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -1635,8 +1635,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "78",
-                "guestPoint": "90",
+                "hostPoint": "101",
+                "guestPoint": "109",
                 "quarterPoints1": {
                     "host": 37,
                     "guest": 29
@@ -1649,7 +1649,10 @@
                     "host": 18,
                     "guest": 32
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 23,
+                    "guest": 19
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -1681,15 +1684,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "38",
-                "guestPoint": "53",
+                "hostPoint": "51",
+                "guestPoint": "68",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 34
                 },
                 "quarterPoints2": {
-                    "host": 6,
-                    "guest": 19
+                    "host": 19,
+                    "guest": 34
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
