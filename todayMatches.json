@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710240108,
+    "timeStamp": 1710240561,
     "todayMatches": {
         "leagues": [
             {
@@ -237,9 +237,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "42",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/01\/C\/goegr013.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168137.png",
                 "hasPenalty": false,
@@ -250,7 +250,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -272,7 +272,7 @@
                 "guestId": 384,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "13:30",
                 "hasEvents": true,
