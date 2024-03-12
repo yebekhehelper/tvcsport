@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710217784,
+    "timeStamp": 1710218254,
     "todayMatches": {
         "leagues": [
             {
@@ -1733,8 +1733,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "95",
-                "guestPoint": "115",
+                "hostPoint": "99",
+                "guestPoint": "121",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 37
@@ -1748,8 +1748,8 @@
                     "guest": 22
                 },
                 "quarterPoints4": {
-                    "host": 20,
-                    "guest": 27
+                    "host": 24,
+                    "guest": 33
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -1765,13 +1765,13 @@
                 "guestLink": null,
                 "hostId": 902789,
                 "guestId": 902795,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63272\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%BE%D9%88%D8%B1%D8%AA%D9%84%D9%86%D8%AF-%D8%AA%D8%B1%DB%8C%D9%84-%D8%A8%D9%84%DB%8C%D8%B2%D8%B1%D8%B2-%D8%A8%D9%88%D8%B3%D8%AA%D9%88%D9%86-%D8%B3%D9%84%D8%AA%DB%8C%DA%A9%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107312\/بازی-پورتلند-تریل-بلیزرز-بوستون-سلتیکس",
