@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710346572,
+    "timeStamp": 1710348174,
     "todayMatches": {
         "leagues": [
             {
@@ -207,7 +207,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "63",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150455.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/10\/B\/uz3ygqmp.png",
                 "hasPenalty": false,
@@ -244,7 +244,7 @@
                 "guestId": 14,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "18:45",
                 "hasEvents": true,
@@ -259,8 +259,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": "",
+                "guestGoals": "2",
+                "liveTime": "67",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150479.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01398462.png",
                 "hasPenalty": false,
@@ -272,7 +272,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": "اشکان خورشیدی",
@@ -297,7 +297,7 @@
                 "guestId": 488,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "18:45",
                 "hasEvents": true,
@@ -313,7 +313,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "69",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01437525.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150464.png",
                 "hasPenalty": false,
@@ -350,7 +350,7 @@
                 "guestId": 21,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "18:45",
                 "hasEvents": true,
@@ -366,7 +366,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "45",
+                "liveTime": "50",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/16\/C\/l2wuyhxr.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/09\/22\/D\/mkpra0fi.png",
                 "hasPenalty": false,
@@ -417,9 +417,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "45+",
+                "hostGoals": "1",
+                "guestGoals": "1",
+                "liveTime": "47",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01524811.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/13\/B\/errniwqh.png",
                 "hasPenalty": false,
@@ -430,8 +430,8 @@
                 "round": 20,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 0
+                    "host": 1,
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": "حسن اکرمی",
@@ -459,12 +459,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "19:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/63324\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%D8%A7%D8%B1%D8%A7%DA%A9-%D9%85%D8%B3-%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/398841\/بازی-آلومینیوم-اراک-مس-رفسنجان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/398841",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/398841\/events",
                 "scheduledStartOn": "2024-03-13T15:30:00Z",
                 "stadium": "استادیوم امام خمینی اراک"
             },
@@ -472,7 +472,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "45",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01323791.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/06\/D\/0vd40qhy.png",
                 "hasPenalty": false,
@@ -509,7 +509,7 @@
                 "guestId": 902983,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "19:00",
                 "hasEvents": true,
@@ -525,7 +525,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "45+",
+                "liveTime": "54",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150470.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150477.png",
                 "hasPenalty": false,
@@ -576,16 +576,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "10",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150467.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01199233.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 23 اسفند 1402",
                 "scheduledStartTime": "20:00",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/398845",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/398845",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 20,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -613,10 +613,10 @@
                 "guestLink": "\/football\/team\/6\/پرسپولیس",
                 "hostId": 4,
                 "guestId": 6,
-                "status": 0,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "20:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/63327\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -838,14 +838,14 @@
             {
                 "sport": 3,
                 "hostPoint": "1",
-                "guestPoint": "0",
+                "guestPoint": "1",
                 "setPoints1": {
                     "host": 25,
                     "guest": 21
                 },
                 "setPoints2": {
-                    "host": 9,
-                    "guest": 10
+                    "host": 23,
+                    "guest": 25
                 },
                 "setPoints3": null,
                 "setPoints4": null,
@@ -887,8 +887,8 @@
                     "guest": 22
                 },
                 "setPoints2": {
-                    "host": 7,
-                    "guest": 7
+                    "host": 27,
+                    "guest": 27
                 },
                 "setPoints3": null,
                 "setPoints4": null,
