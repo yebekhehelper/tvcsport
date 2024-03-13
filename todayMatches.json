@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710323617,
+    "timeStamp": 1710324395,
     "todayMatches": {
         "leagues": [
             {
@@ -788,16 +788,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "7",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/04\/11\/C\/oaqycx1k.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 23 اسفند 1402",
                 "scheduledStartTime": "13:30",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/401036",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/401036",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -821,10 +821,10 @@
                 "guestLink": null,
                 "hostId": 900863,
                 "guestId": 903015,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "13:30",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/63315\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DB%8C%D9%88%DA%A9%D9%88%D9%87%D8%A7%D9%85%D8%A7-%D9%85%D8%A7%D8%B1%DB%8C%D9%86%D9%88%D8%B3-%DA%98%D8%A7%D9%BE%D9%86-%D8%B4%D8%A7%D9%86%D8%AF%D9%88%D9%86%DA%AF-%D8%AA%D8%A7%DB%8C%D8%B4%D8%A7%D9%86-%DA%86%DB%8C%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
