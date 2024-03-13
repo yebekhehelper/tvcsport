@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710353515,
+    "timeStamp": 1710354351,
     "todayMatches": {
         "leagues": [
             {
@@ -578,7 +578,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "74",
+                "liveTime": "88",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150467.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01199233.png",
                 "hasPenalty": false,
@@ -1064,7 +1064,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "12",
+                "liveTime": "26",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/3dqi5n2r.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/vlvneinj.png",
                 "hasPenalty": false,
@@ -1116,8 +1116,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "12",
+                "guestGoals": "1",
+                "liveTime": "26",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/10\/B\/btbrvd1d.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01637259.png",
                 "hasPenalty": false,
@@ -1129,7 +1129,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -1153,12 +1153,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "21:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/392018\/بازی-الامارات-خور-فکان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/392018",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/392018\/events",
                 "scheduledStartOn": "2024-03-13T18:00:00Z",
                 "stadium": null
             },
@@ -1166,7 +1166,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "12",
+                "liveTime": "25",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/10\/B\/5v4q4f11.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01592466.png",
                 "hasPenalty": false,
@@ -1895,7 +1895,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "47",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/C\/jtbnyxpw.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/12\/C\/jegossuh.png",
                 "hasPenalty": false,
@@ -1932,7 +1932,7 @@
                 "guestId": 900732,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "20:45",
                 "hasEvents": true,
