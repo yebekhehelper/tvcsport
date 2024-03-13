@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710329200,
+    "timeStamp": 1710329648,
     "todayMatches": {
         "leagues": [
             {
@@ -788,9 +788,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "68",
+                "liveTime": "76",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/04\/11\/C\/oaqycx1k.png",
                 "hasPenalty": false,
@@ -801,7 +801,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
