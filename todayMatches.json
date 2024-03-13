@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710367872,
+    "timeStamp": 1710368713,
     "todayMatches": {
         "leagues": [
             {
@@ -1992,7 +1992,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "1",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150144.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150142.png",
                 "hasPenalty": false,
@@ -2027,13 +2027,13 @@
                 "guestLink": "\/football\/team\/157\/نیس",
                 "hostId": 145,
                 "guestId": 157,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:40",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/63314\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%BE%D8%A7%D8%B1%DB%8C-%D8%B3%D9%86-%DA%98%D8%B1%D9%85%D9%86-%D9%86%DB%8C%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399904\/بازی-پاری-سن-ژرمن-نیس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399904",
