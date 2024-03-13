@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710369168,
+    "timeStamp": 1710369598,
     "todayMatches": {
         "leagues": [
             {
@@ -714,8 +714,8 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "1",
+                "hostGoals": "2 (1)",
+                "guestGoals": "1 (1)",
                 "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/28\/B\/yzbpo1sq.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/yxgaqjb3.png",
@@ -725,7 +725,10 @@
                 "predictionLink": null,
                 "predictionUrl": null,
                 "round": null,
-                "penaltyGoals": null,
+                "penaltyGoals": {
+                    "host": 1,
+                    "guest": 1
+                },
                 "matchGoals": {
                     "host": 2,
                     "guest": 1
@@ -753,7 +756,7 @@
                 "guestId": 63,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پنالتی",
                 "isLive": true,
                 "time": "23:30",
                 "hasEvents": true,
