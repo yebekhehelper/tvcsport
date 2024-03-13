@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710330529,
+    "timeStamp": 1710330960,
     "todayMatches": {
         "leagues": [
             {
@@ -790,7 +790,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/04\/11\/C\/oaqycx1k.png",
                 "hasPenalty": false,
@@ -821,13 +821,13 @@
                 "guestLink": null,
                 "hostId": 900863,
                 "guestId": 903015,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "13:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/63315\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%DB%8C%D9%88%DA%A9%D9%88%D9%87%D8%A7%D9%85%D8%A7-%D9%85%D8%A7%D8%B1%DB%8C%D9%86%D9%88%D8%B3-%DA%98%D8%A7%D9%BE%D9%86-%D8%B4%D8%A7%D9%86%D8%AF%D9%88%D9%86%DA%AF-%D8%AA%D8%A7%DB%8C%D8%B4%D8%A7%D9%86-%DA%86%DB%8C%D9%86?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/401036\/بازی-یوکوهاما-مارینوس-شاندونگ-تایشان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401036",
