@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710406736,
+    "timeStamp": 1710407640,
     "todayMatches": {
         "leagues": [
             {
@@ -1503,7 +1503,7 @@
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327423\/خلاصه-بسکتبال-اورلاندو-مجیک-بروکلین-نتس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106896\/بازی-اورلاندو-مجیک-بروکلین-نتس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106896",
@@ -1751,7 +1751,7 @@
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327424\/خلاصه-بسکتبال-دالاس-ماوریکس-گلدن-استیت-واریرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107672\/بازی-دالاس-ماوریکس-گلدن-استیت-واریرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107672",
