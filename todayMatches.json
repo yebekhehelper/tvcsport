@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710388234,
+    "timeStamp": 1710388680,
     "todayMatches": {
         "leagues": [
             {
@@ -2914,8 +2914,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "88",
-                "guestPoint": "82",
+                "hostPoint": "93",
+                "guestPoint": "88",
                 "quarterPoints1": {
                     "host": 17,
                     "guest": 24
@@ -2929,8 +2929,8 @@
                     "guest": 23
                 },
                 "quarterPoints4": {
-                    "host": 6,
-                    "guest": 7
+                    "host": 11,
+                    "guest": 13
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2963,8 +2963,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "88",
-                "guestPoint": "73",
+                "hostPoint": "93",
+                "guestPoint": "76",
                 "quarterPoints1": {
                     "host": 29,
                     "guest": 29
@@ -2977,7 +2977,10 @@
                     "host": 28,
                     "guest": 17
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 5,
+                    "guest": 3
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
