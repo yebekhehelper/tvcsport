@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710380222,
+    "timeStamp": 1710381888,
     "todayMatches": {
         "leagues": [
             {
@@ -2666,8 +2666,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "101",
-                "guestPoint": "103",
+                "hostPoint": "117",
+                "guestPoint": "115",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 30
@@ -2681,8 +2681,8 @@
                     "guest": 35
                 },
                 "quarterPoints4": {
-                    "host": 16,
-                    "guest": 10
+                    "host": 32,
+                    "guest": 22
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2715,8 +2715,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "84",
-                "guestPoint": "94",
+                "hostPoint": "88",
+                "guestPoint": "100",
                 "quarterPoints1": {
                     "host": 19,
                     "guest": 26
@@ -2730,8 +2730,8 @@
                     "guest": 22
                 },
                 "quarterPoints4": {
-                    "host": 13,
-                    "guest": 22
+                    "host": 17,
+                    "guest": 28
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2747,13 +2747,13 @@
                 "guestLink": null,
                 "hostId": 902800,
                 "guestId": 902781,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63360\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%85%DB%8C%D8%A7%D9%85%DB%8C-%D9%87%DB%8C%D8%AA-%D8%AF%D9%86%D9%88%D8%B1-%D9%86%D8%A7%DA%AF%D8%AA%D8%B3-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107319\/بازی-میامی-هیت-دنور-ناگتس",
@@ -2764,8 +2764,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "70",
-                "guestPoint": "77",
+                "hostPoint": "83",
+                "guestPoint": "92",
                 "quarterPoints1": {
                     "host": 19,
                     "guest": 31
@@ -2776,9 +2776,12 @@
                 },
                 "quarterPoints3": {
                     "host": 24,
-                    "guest": 21
+                    "guest": 24
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 13,
+                    "guest": 12
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -2810,8 +2813,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "66",
-                "guestPoint": "75",
+                "hostPoint": "86",
+                "guestPoint": "110",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 30
@@ -2821,10 +2824,13 @@
                     "guest": 23
                 },
                 "quarterPoints3": {
-                    "host": 21,
-                    "guest": 22
+                    "host": 23,
+                    "guest": 34
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 18,
+                    "guest": 23
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -2856,17 +2862,20 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "46",
-                "guestPoint": "42",
+                "hostPoint": "57",
+                "guestPoint": "53",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 27
                 },
                 "quarterPoints2": {
-                    "host": 19,
+                    "host": 21,
                     "guest": 15
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 9,
+                    "guest": 11
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3235,8 +3244,8 @@
             {
                 "sport": 1,
                 "hostGoals": "3",
-                "guestGoals": "0",
-                "liveTime": "66",
+                "guestGoals": "1",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/24\/C\/5501eu2y.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/5j1zaf2r.png",
                 "hasPenalty": false,
@@ -3248,7 +3257,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 3,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
