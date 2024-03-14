@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710432018,
+    "timeStamp": 1710433276,
     "todayMatches": {
         "leagues": [
             {
@@ -981,7 +981,10 @@
                     "host": 19,
                     "guest": 25
                 },
-                "setPoints2": null,
+                "setPoints2": {
+                    "host": 9,
+                    "guest": 7
+                },
                 "setPoints3": null,
                 "setPoints4": null,
                 "setPoints5": null,
@@ -2139,8 +2142,8 @@
             {
                 "sport": 1,
                 "hostGoals": "1",
-                "guestGoals": "0",
-                "liveTime": "",
+                "guestGoals": "1",
+                "liveTime": "62",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169695.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/10\/B\/quzkx45g.png",
                 "hasPenalty": false,
@@ -2152,7 +2155,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 1,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -2177,7 +2180,7 @@
                 "guestId": 903264,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "18:30",
                 "hasEvents": true,
@@ -2193,7 +2196,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "60",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168013.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/17\/C\/2o54jat4.png",
                 "hasPenalty": false,
@@ -2226,7 +2229,7 @@
                 "guestId": 902737,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "18:30",
                 "hasEvents": true,
