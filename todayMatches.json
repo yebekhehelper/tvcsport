@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710441376,
+    "timeStamp": 1710441820,
     "todayMatches": {
         "leagues": [
             {
@@ -341,7 +341,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "3",
-                "liveTime": "45+",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/09\/23\/C\/ovbpqoso.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150116.png",
                 "hasPenalty": false,
@@ -378,7 +378,7 @@
                 "guestId": 68,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "21:15",
                 "hasEvents": true,
@@ -1024,9 +1024,12 @@
             },
             {
                 "sport": 3,
-                "hostPoint": " ",
-                "guestPoint": " ",
-                "setPoints1": null,
+                "hostPoint": "0",
+                "guestPoint": "0",
+                "setPoints1": {
+                    "host": 0,
+                    "guest": 2
+                },
                 "setPoints2": null,
                 "setPoints3": null,
                 "setPoints4": null,
@@ -1044,10 +1047,10 @@
                 "guestLink": null,
                 "hostId": 903097,
                 "guestId": 554,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "22:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/volleyball\/63368\/%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -1328,7 +1331,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "35",
+                "liveTime": "43",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01297062.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/sdk3yrp2.png",
                 "hasPenalty": false,
@@ -1375,9 +1378,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "36",
+                "liveTime": "43",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01592455.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/18\/B\/s0h1azlz.png",
                 "hasPenalty": false,
@@ -1388,7 +1391,7 @@
                 "round": 16,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 1
                 },
                 "videoId": null,
@@ -1428,9 +1431,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "35",
+                "liveTime": "42",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/02\/C\/lonf52pr.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/08\/16\/B\/hggr154f.png",
                 "hasPenalty": false,
@@ -1441,7 +1444,7 @@
                 "round": 16,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 0
                 },
                 "videoId": null,
