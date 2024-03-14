@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710399359,
+    "timeStamp": 1710400307,
     "todayMatches": {
         "leagues": [
             {
@@ -2757,7 +2757,7 @@
                 "time": "03:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327417\/خلاصه-بسکتبال-میامی-هیت-دنور-ناگتس-گزارش-اختصاصی",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107319\/بازی-میامی-هیت-دنور-ناگتس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107319",
@@ -3002,7 +3002,7 @@
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327418\/خلاصه-بسکتبال-ساکرامنتو-کینگز-لس-آنجلس-لیکرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107323\/بازی-ساکرامنتو-کینگز-لس-آنجلس-لیکرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107323",
