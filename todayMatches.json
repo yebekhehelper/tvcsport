@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710436050,
+    "timeStamp": 1710436915,
     "todayMatches": {
         "leagues": [
             {
@@ -975,7 +975,7 @@
             },
             {
                 "sport": 3,
-                "hostPoint": "1",
+                "hostPoint": "2",
                 "guestPoint": "1",
                 "setPoints1": {
                     "host": 19,
@@ -986,8 +986,8 @@
                     "guest": 22
                 },
                 "setPoints3": {
-                    "host": 18,
-                    "guest": 15
+                    "host": 30,
+                    "guest": 28
                 },
                 "setPoints4": null,
                 "setPoints5": null,
@@ -2144,9 +2144,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1 (4)",
-                "guestGoals": "1 (4)",
-                "liveTime": "",
+                "hostGoals": "1 (6)",
+                "guestGoals": "1 (7)",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169695.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/10\/B\/quzkx45g.png",
                 "hasPenalty": false,
@@ -2156,8 +2156,8 @@
                 "predictionUrl": null,
                 "round": null,
                 "penaltyGoals": {
-                    "host": 4,
-                    "guest": 4
+                    "host": 6,
+                    "guest": 7
                 },
                 "matchGoals": {
                     "host": 1,
@@ -2184,10 +2184,10 @@
                 "guestLink": null,
                 "hostId": 901563,
                 "guestId": 903264,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "پنالتی",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "18:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
