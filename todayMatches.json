@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710489556,
+    "timeStamp": 1710490718,
     "todayMatches": {
         "leagues": [
             {
@@ -1360,7 +1360,7 @@
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327477\/خلاصه-بسکتبال-میلواکی-باکس-فیلادلفیا-سیکسرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107327\/بازی-میلواکی-باکس-فیلادلفیا-سیکسرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107327",
@@ -1458,7 +1458,7 @@
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327482\/خلاصه-بسکتبال-پورتلند-تریل-بلیزرز-نیویورک-نیکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107328\/بازی-پورتلند-تریل-بلیزرز-نیویورک-نیکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107328",
