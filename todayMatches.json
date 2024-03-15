@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710545784,
+    "timeStamp": 1710546223,
     "todayMatches": {
         "leagues": [
             {
@@ -4386,13 +4386,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "26",
-                "guestPoint": "28",
+                "hostPoint": "32",
+                "guestPoint": "39",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 28
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 6,
+                    "guest": 11
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -4426,13 +4429,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "28",
-                "guestPoint": "25",
+                "hostPoint": "32",
+                "guestPoint": "32",
                 "quarterPoints1": {
                     "host": 28,
-                    "guest": 25
+                    "guest": 27
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 4,
+                    "guest": 5
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -4466,9 +4472,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "3",
+                "guestPoint": "9",
+                "quarterPoints1": {
+                    "host": 3,
+                    "guest": 9
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4486,10 +4495,10 @@
                 "guestLink": null,
                 "hostId": 902806,
                 "guestId": 902804,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "03:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
