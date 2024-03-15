@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710484963,
+    "timeStamp": 1710485407,
     "todayMatches": {
         "leagues": [
             {
@@ -2605,7 +2605,7 @@
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327476\/خلاصه-بسکتبال-شیکاگو-بولز-لس-آنجلس-کلیپرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107325\/بازی-شیکاگو-بولز-لس-آنجلس-کلیپرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107325",
