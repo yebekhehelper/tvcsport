@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710479503,
+    "timeStamp": 1710480357,
     "todayMatches": {
         "leagues": [
             {
@@ -968,7 +968,7 @@
                     "host": 3,
                     "guest": 2
                 },
-                "videoId": null,
+                "videoId": 327480,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#383838",
@@ -996,7 +996,7 @@
                 "time": "23:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327480\/خلاصه-بازی-بایرلورکوزن-3-قره-باغ-2",
                 "matchPageLink": "\/football\/match\/401053\/بازی-بایرلورکوزن-قره-باغ",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401053",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401053\/events",
@@ -2556,7 +2556,7 @@
                 "time": "03:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327479\/خلاصه-بسکتبال-بوستون-سلتیکس-فینیکس-سانز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107324\/بازی-بوستون-سلتیکس-فینیکس-سانز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107324",
