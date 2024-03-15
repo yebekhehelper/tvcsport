@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710513002,
+    "timeStamp": 1710513529,
     "todayMatches": {
         "leagues": [
             {
@@ -106,21 +106,6 @@
                         "date": "1402\/12\/25",
                         "matchIds": [
                             "football-391351"
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 52,
-                "logo": "https:\/\/static.farakav.com\/files\/pictures\/01381337.png",
-                "title": "دوستانه",
-                "sport": 1,
-                "link": null,
-                "dates": [
-                    {
-                        "date": "1402\/12\/25",
-                        "matchIds": [
-                            "football-401094"
                         ]
                     }
                 ]
@@ -697,59 +682,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391351",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-03-15T19:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/05lpmpby.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/1ug1ewns.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 25 اسفند 1402",
-                "scheduledStartTime": "17:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": null,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 401094,
-                "title": null,
-                "sportId": "football-401094",
-                "hostName": "مالزی",
-                "hostLink": "\/football\/team\/480\/مالزی",
-                "guestName": "نپال",
-                "guestLink": null,
-                "hostId": 480,
-                "guestId": 901669,
-                "status": 8,
-                "statusDescription": null,
-                "statusTitle": "تاخیر",
-                "isLive": false,
-                "time": "17:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/401094\/بازی-مالزی-نپال",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401094",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-15T14:00:00Z",
                 "stadium": null
             },
             {
