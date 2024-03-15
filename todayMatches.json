@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710544166,
+    "timeStamp": 1710544887,
     "todayMatches": {
         "leagues": [
             {
@@ -4386,9 +4386,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "11",
+                "guestPoint": "10",
+                "quarterPoints1": {
+                    "host": 11,
+                    "guest": 10
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4406,10 +4409,10 @@
                 "guestLink": null,
                 "hostId": 902796,
                 "guestId": 902788,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -4423,9 +4426,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "10",
+                "guestPoint": "14",
+                "quarterPoints1": {
+                    "host": 10,
+                    "guest": 14
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -4443,10 +4449,10 @@
                 "guestLink": null,
                 "hostId": 902798,
                 "guestId": 902800,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
