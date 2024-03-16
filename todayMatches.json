@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710582935,
+    "timeStamp": 1710583728,
     "todayMatches": {
         "leagues": [
             {
@@ -3496,7 +3496,7 @@
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327546\/خلاصه-بسکتبال-شارلوت-هورنتس-فینیکس-سانز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107329\/بازی-شارلوت-هورنتس-فینیکس-سانز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107329",
@@ -3545,7 +3545,7 @@
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327547\/خلاصه-بسکتبال-دیترویت-پیستونز-میامی-هیت",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107673\/بازی-دیترویت-پیستونز-میامی-هیت",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107673",
