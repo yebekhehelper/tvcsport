@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710597042,
+    "timeStamp": 1710597483,
     "todayMatches": {
         "leagues": [
             {
@@ -964,9 +964,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "79",
+                "liveTime": "86",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/12\/C\/irotifaz.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01632665.png",
                 "hasPenalty": false,
@@ -977,7 +977,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 1
                 },
                 "videoId": null,
@@ -2716,7 +2716,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "61",
+                "liveTime": "68",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2024\/01\/24\/B\/zjproaeq.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/02\/B\/v0iegxu4.png",
                 "hasPenalty": false,
@@ -3300,7 +3300,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "45+",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/04\/02\/C\/ko3j35ft.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01400035.png",
                 "hasPenalty": false,
@@ -3337,7 +3337,7 @@
                 "guestId": 902475,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "16:30",
                 "hasEvents": true,
