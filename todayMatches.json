@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710584736,
+    "timeStamp": 1710585176,
     "todayMatches": {
         "leagues": [
             {
@@ -3245,16 +3245,16 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "2",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/ivwbdds1.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/xxgyfzsh.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 26 اسفند 1402",
                 "scheduledStartTime": "14:00",
-                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/395231",
-                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/395231",
+                "predictionLink": null,
+                "predictionUrl": null,
                 "round": 30,
                 "penaltyGoals": null,
                 "matchGoals": {
@@ -3282,10 +3282,10 @@
                 "guestLink": "\/football\/team\/902622\/کایسری-اسپور",
                 "hostId": 902237,
                 "guestId": 902622,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "14:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/football\/63463\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A2%D9%84%D8%A7%D9%86%DB%8C%D8%A7-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1-%DA%A9%D8%A7%DB%8C%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%B1?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
