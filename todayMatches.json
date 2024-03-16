@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710568169,
+    "timeStamp": 1710568608,
     "todayMatches": {
         "leagues": [
             {
@@ -5575,7 +5575,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "3",
-                "liveTime": "88",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618073.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551538.png",
                 "hasPenalty": false,
@@ -5673,7 +5673,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "45",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551536.jpg",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169153.png",
                 "hasPenalty": false,
@@ -5702,7 +5702,7 @@
                 "guestId": 900943,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "08:30",
                 "hasEvents": true,
