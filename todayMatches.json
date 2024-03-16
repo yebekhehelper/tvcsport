@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710626222,
+    "timeStamp": 1710627034,
     "todayMatches": {
         "leagues": [
             {
@@ -2413,7 +2413,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/03\/C\/oq3u2pni.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01201577.png",
                 "hasPenalty": false,
@@ -2448,13 +2448,13 @@
                 "guestLink": "\/football\/team\/900800\/آلاوس",
                 "hostId": 104,
                 "guestId": 900800,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/63436\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D8%AA%D9%84%D8%AA%DB%8C%DA%A9-%D8%A8%DB%8C%D9%84%D8%A8%D8%A7%D8%A6%D9%88-%D8%A2%D9%84%D8%A7%D9%88%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/385891\/بازی-اتلتیک-بیلبائو-آلاوس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/385891",
@@ -3685,7 +3685,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "3",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167937.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150142.png",
                 "hasPenalty": false,
@@ -3720,10 +3720,10 @@
                 "guestLink": "\/football\/team\/157\/نیس",
                 "hostId": 148,
                 "guestId": 157,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "23:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -4425,9 +4425,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "61",
+                "liveTime": "74",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/05\/01\/B\/pksgd114.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/10\/C\/tqqynmtg.png",
                 "hasPenalty": false,
@@ -4438,7 +4438,7 @@
                 "round": 26,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 1
                 },
                 "videoId": null,
@@ -6812,15 +6812,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "61",
-                "guestPoint": "52",
+                "hostPoint": "70",
+                "guestPoint": "54",
                 "quarterPoints1": {
                     "host": 34,
                     "guest": 29
                 },
                 "quarterPoints2": {
-                    "host": 27,
-                    "guest": 23
+                    "host": 36,
+                    "guest": 25
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
