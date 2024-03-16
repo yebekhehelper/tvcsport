@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710632584,
+    "timeStamp": 1710633016,
     "todayMatches": {
         "leagues": [
             {
@@ -6861,15 +6861,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "37",
-                "guestPoint": "32",
+                "hostPoint": "39",
+                "guestPoint": "33",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 24
                 },
                 "quarterPoints2": {
-                    "host": 10,
-                    "guest": 8
+                    "host": 12,
+                    "guest": 9
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -6904,13 +6904,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "40",
-                "guestPoint": "35",
+                "hostPoint": "48",
+                "guestPoint": "44",
                 "quarterPoints1": {
                     "host": 40,
                     "guest": 35
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 8,
+                    "guest": 9
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -6944,15 +6947,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "27",
-                "guestPoint": "32",
+                "hostPoint": "36",
+                "guestPoint": "38",
                 "quarterPoints1": {
                     "host": 25,
                     "guest": 30
                 },
                 "quarterPoints2": {
-                    "host": 2,
-                    "guest": 2
+                    "host": 11,
+                    "guest": 8
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -7444,7 +7447,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "1",
+                "liveTime": "8",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/B\/yjii3ib2.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/btpabjuj.png",
                 "hasPenalty": false,
@@ -7496,8 +7499,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "3",
+                "guestGoals": "1",
+                "liveTime": "10",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/vlzpfmvg.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/B\/nttbpylv.png",
                 "hasPenalty": false,
@@ -7509,7 +7512,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -7537,12 +7540,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "03:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400581\/بازی-نیویورک-سیتی-تورنتو",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400581",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400581\/events",
                 "scheduledStartOn": "2024-03-16T23:30:00Z",
                 "stadium": null
             },
