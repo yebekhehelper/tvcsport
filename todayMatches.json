@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710628299,
+    "timeStamp": 1710628735,
     "todayMatches": {
         "leagues": [
             {
@@ -5147,7 +5147,7 @@
                     "host": 2,
                     "guest": 4
                 },
-                "videoId": null,
+                "videoId": 327634,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#fef201",
@@ -5175,7 +5175,7 @@
                 "time": "22:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327634\/خلاصه-بازی-الفتح-2-الاتحاد-4",
                 "matchPageLink": "\/football\/match\/394584\/بازی-الفتح-الاتحاد",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394584",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394584\/events",
@@ -5200,7 +5200,7 @@
                     "host": 2,
                     "guest": 1
                 },
-                "videoId": null,
+                "videoId": 327635,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#383838",
@@ -5228,7 +5228,7 @@
                 "time": "22:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327635\/خلاصه-بازی-الهلال-2-ضمک-1",
                 "matchPageLink": "\/football\/match\/394587\/بازی-الهلال-ضمک",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394587",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394587\/events",
@@ -6812,8 +6812,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "90",
-                "guestPoint": "67",
+                "hostPoint": "94",
+                "guestPoint": "70",
                 "quarterPoints1": {
                     "host": 34,
                     "guest": 29
@@ -6823,8 +6823,8 @@
                     "guest": 25
                 },
                 "quarterPoints3": {
-                    "host": 20,
-                    "guest": 13
+                    "host": 24,
+                    "guest": 16
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
