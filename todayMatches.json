@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710562714,
+    "timeStamp": 1710563435,
     "todayMatches": {
         "leagues": [
             {
@@ -5575,7 +5575,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "15",
+                "liveTime": "27",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01618073.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01551538.png",
                 "hasPenalty": false,
@@ -5611,12 +5611,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "07:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/399970\/بازی-آویسپا-فوکوئوکا-اف-سی-توکیو",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399970",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399970\/events",
                 "scheduledStartOn": "2024-03-16T04:00:00Z",
                 "stadium": null
             },
