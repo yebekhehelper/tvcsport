@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710561117,
+    "timeStamp": 1710561548,
     "todayMatches": {
         "leagues": [
             {
@@ -4663,10 +4663,10 @@
                 "guestLink": null,
                 "hostId": 902792,
                 "guestId": 902794,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "05:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
