@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710554920,
+    "timeStamp": 1710555918,
     "todayMatches": {
         "leagues": [
             {
@@ -4533,8 +4533,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "105",
-                "guestPoint": "100",
+                "hostPoint": "112",
+                "guestPoint": "104",
                 "quarterPoints1": {
                     "host": 20,
                     "guest": 22
@@ -4548,8 +4548,8 @@
                     "guest": 36
                 },
                 "quarterPoints4": {
-                    "host": 23,
-                    "guest": 20
+                    "host": 30,
+                    "guest": 24
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -4565,10 +4565,10 @@
                 "guestLink": null,
                 "hostId": 902787,
                 "guestId": 902783,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -4582,8 +4582,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "67",
-                "guestPoint": "77",
+                "hostPoint": "84",
+                "guestPoint": "97",
                 "quarterPoints1": {
                     "host": 18,
                     "guest": 37
@@ -4593,10 +4593,13 @@
                     "guest": 21
                 },
                 "quarterPoints3": {
-                    "host": 18,
-                    "guest": 19
+                    "host": 30,
+                    "guest": 28
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 5,
+                    "guest": 11
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -4628,13 +4631,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "34",
-                "guestPoint": "31",
+                "hostPoint": "45",
+                "guestPoint": "44",
                 "quarterPoints1": {
                     "host": 34,
-                    "guest": 31
+                    "guest": 28
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 11,
+                    "guest": 16
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
