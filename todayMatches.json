@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710637152,
+    "timeStamp": 1710640329,
     "todayMatches": {
         "leagues": [
             {
@@ -6861,8 +6861,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "81",
-                "guestPoint": "82",
+                "hostPoint": "109",
+                "guestPoint": "98",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 24
@@ -6876,8 +6876,8 @@
                     "guest": 24
                 },
                 "quarterPoints4": {
-                    "host": 2,
-                    "guest": 11
+                    "host": 30,
+                    "guest": 27
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -6893,10 +6893,10 @@
                 "guestLink": null,
                 "hostId": 902805,
                 "guestId": 902796,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -6910,23 +6910,23 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "112",
-                "guestPoint": "97",
+                "hostPoint": "126",
+                "guestPoint": "107",
                 "quarterPoints1": {
-                    "host": 40,
-                    "guest": 35
+                    "host": 36,
+                    "guest": 33
                 },
                 "quarterPoints2": {
-                    "host": 33,
-                    "guest": 33
+                    "host": 37,
+                    "guest": 35
                 },
                 "quarterPoints3": {
                     "host": 29,
                     "guest": 24
                 },
                 "quarterPoints4": {
-                    "host": 10,
-                    "guest": 5
+                    "host": 24,
+                    "guest": 15
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -6942,10 +6942,10 @@
                 "guestLink": null,
                 "hostId": 902787,
                 "guestId": 902789,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -6959,8 +6959,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "89",
-                "guestPoint": "80",
+                "hostPoint": "121",
+                "guestPoint": "100",
                 "quarterPoints1": {
                     "host": 25,
                     "guest": 30
@@ -6974,8 +6974,8 @@
                     "guest": 21
                 },
                 "quarterPoints4": {
-                    "host": 3,
-                    "guest": 2
+                    "host": 35,
+                    "guest": 22
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -6991,10 +6991,10 @@
                 "guestLink": null,
                 "hostId": 902799,
                 "guestId": 902802,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -7008,17 +7008,20 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "49",
-                "guestPoint": "48",
+                "hostPoint": "78",
+                "guestPoint": "91",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 29
                 },
                 "quarterPoints2": {
-                    "host": 22,
-                    "guest": 19
+                    "host": 27,
+                    "guest": 27
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 24,
+                    "guest": 35
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -7051,17 +7054,20 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "55",
-                "guestPoint": "36",
+                "hostPoint": "94",
+                "guestPoint": "69",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 19
                 },
                 "quarterPoints2": {
-                    "host": 23,
-                    "guest": 17
+                    "host": 35,
+                    "guest": 26
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 27,
+                    "guest": 24
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -7094,13 +7100,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "26",
-                "guestPoint": "22",
+                "hostPoint": "66",
+                "guestPoint": "69",
                 "quarterPoints1": {
-                    "host": 26,
-                    "guest": 22
+                    "host": 36,
+                    "guest": 30
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 30,
+                    "guest": 37
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -7134,9 +7143,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "8",
+                "guestPoint": "6",
+                "quarterPoints1": {
+                    "host": 8,
+                    "guest": 6
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -7154,10 +7166,10 @@
                 "guestLink": null,
                 "hostId": 902792,
                 "guestId": 902786,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "05:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -7478,9 +7490,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "2",
+                "hostGoals": "3",
                 "guestGoals": "0",
-                "liveTime": "59",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/B\/yjii3ib2.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/btpabjuj.png",
                 "hasPenalty": false,
@@ -7491,7 +7503,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 2,
+                    "host": 3,
                     "guest": 0
                 },
                 "videoId": null,
@@ -7515,10 +7527,10 @@
                 "guestLink": "\/football\/team\/901119\/نیویورک-ردبولز",
                 "hostId": 903105,
                 "guestId": 901119,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -7531,9 +7543,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "60",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/vlzpfmvg.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/B\/nttbpylv.png",
                 "hasPenalty": false,
@@ -7544,7 +7556,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 1
                 },
                 "videoId": null,
@@ -7568,10 +7580,10 @@
                 "guestLink": null,
                 "hostId": 901413,
                 "guestId": 903126,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -7586,7 +7598,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "19",
+                "liveTime": "51",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/2jak0r1k.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/20\/C\/1rrvvirj.png",
                 "hasPenalty": false,
@@ -7637,9 +7649,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "19",
+                "hostGoals": "1",
+                "guestGoals": "3",
+                "liveTime": "53",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/fkj055fy.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/C\/sylkumf4.png",
                 "hasPenalty": false,
@@ -7650,8 +7662,8 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 0
+                    "host": 1,
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": null,
@@ -7679,20 +7691,20 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "04:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400583\/بازی-دالاس-ونکوور-وایت-کپس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400583",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400583\/events",
                 "scheduledStartOn": "2024-03-17T00:30:00Z",
                 "stadium": null
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "19",
+                "liveTime": "54",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/19\/C\/3sjjngr0.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/xixqudjj.png",
                 "hasPenalty": false,
@@ -7703,7 +7715,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -7732,12 +7744,12 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "04:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400584\/بازی-هیوستون-دینامو-پورتلند-تیمبرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400584",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400584\/events",
                 "scheduledStartOn": "2024-03-17T00:30:00Z",
                 "stadium": null
             },
@@ -7745,7 +7757,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "19",
+                "liveTime": "52",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/0l2zefac.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/kzwjwzps.png",
                 "hasPenalty": false,
@@ -7796,9 +7808,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "19",
+                "hostGoals": "2",
+                "guestGoals": "1",
+                "liveTime": "52",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/5j1zaf2r.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/qv45qy2n.png",
                 "hasPenalty": false,
@@ -7809,8 +7821,8 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 0
+                    "host": 2,
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -7838,20 +7850,20 @@
                 "statusTitle": "",
                 "isLive": true,
                 "time": "04:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400586\/بازی-نشویل-شارلوت",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400586",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400586\/events",
                 "scheduledStartOn": "2024-03-17T00:30:00Z",
                 "stadium": null
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "18",
+                "liveTime": "50",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/yxsw3paj.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/1da1cjrk.png",
                 "hasPenalty": false,
@@ -7862,7 +7874,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 1
                 },
                 "videoId": null,
