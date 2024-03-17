@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710646759,
+    "timeStamp": 1710647204,
     "todayMatches": {
         "leagues": [
             {
@@ -7155,8 +7155,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "88",
-                "guestPoint": "99",
+                "hostPoint": "94",
+                "guestPoint": "112",
                 "quarterPoints1": {
                     "host": 19,
                     "guest": 19
@@ -7170,8 +7170,8 @@
                     "guest": 34
                 },
                 "quarterPoints4": {
-                    "host": 16,
-                    "guest": 17
+                    "host": 22,
+                    "guest": 30
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -7204,8 +7204,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "57",
-                "guestPoint": "58",
+                "hostPoint": "63",
+                "guestPoint": "63",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 21
@@ -7215,8 +7215,8 @@
                     "guest": 32
                 },
                 "quarterPoints3": {
-                    "host": 9,
-                    "guest": 5
+                    "host": 15,
+                    "guest": 10
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -7946,7 +7946,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "46",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/12\/B\/m0joqcr1.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/rz003xef.png",
                 "hasPenalty": false,
@@ -7983,7 +7983,7 @@
                 "guestId": 901500,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "06:00",
                 "hasEvents": true,
