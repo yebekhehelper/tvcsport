@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710641637,
+    "timeStamp": 1710642537,
     "todayMatches": {
         "leagues": [
             {
@@ -7008,8 +7008,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "100",
-                "guestPoint": "107",
+                "hostPoint": "112",
+                "guestPoint": "116",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 29
@@ -7023,8 +7023,8 @@
                     "guest": 35
                 },
                 "quarterPoints4": {
-                    "host": 22,
-                    "guest": 16
+                    "host": 34,
+                    "guest": 25
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -7057,8 +7057,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "103",
-                "guestPoint": "87",
+                "hostPoint": "127",
+                "guestPoint": "98",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 19
@@ -7072,8 +7072,8 @@
                     "guest": 24
                 },
                 "quarterPoints4": {
-                    "host": 8,
-                    "guest": 18
+                    "host": 32,
+                    "guest": 29
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -7089,10 +7089,10 @@
                 "guestLink": null,
                 "hostId": 902797,
                 "guestId": 902807,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -7106,8 +7106,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "85",
-                "guestPoint": "93",
+                "hostPoint": "107",
+                "guestPoint": "113",
                 "quarterPoints1": {
                     "host": 36,
                     "guest": 30
@@ -7117,10 +7117,13 @@
                     "guest": 37
                 },
                 "quarterPoints3": {
-                    "host": 19,
-                    "guest": 26
+                    "host": 27,
+                    "guest": 35
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 14,
+                    "guest": 11
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -7152,15 +7155,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "26",
-                "guestPoint": "22",
+                "hostPoint": "35",
+                "guestPoint": "43",
                 "quarterPoints1": {
                     "host": 19,
                     "guest": 19
                 },
                 "quarterPoints2": {
-                    "host": 7,
-                    "guest": 3
+                    "host": 16,
+                    "guest": 24
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -7195,11 +7198,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "3",
-                "guestPoint": "4",
+                "hostPoint": "18",
+                "guestPoint": "17",
                 "quarterPoints1": {
-                    "host": 3,
-                    "guest": 4
+                    "host": 18,
+                    "guest": 17
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
@@ -7613,7 +7616,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "2",
-                "liveTime": "73",
+                "liveTime": "88",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/2jak0r1k.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/20\/C\/1rrvvirj.png",
                 "hasPenalty": false,
@@ -7666,7 +7669,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "3",
-                "liveTime": "75",
+                "liveTime": "90",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/fkj055fy.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/C\/sylkumf4.png",
                 "hasPenalty": false,
@@ -7719,7 +7722,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "76",
+                "liveTime": "90+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/19\/C\/3sjjngr0.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/xixqudjj.png",
                 "hasPenalty": false,
@@ -7770,9 +7773,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "74",
+                "liveTime": "89",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/0l2zefac.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/kzwjwzps.png",
                 "hasPenalty": false,
@@ -7783,7 +7786,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 0
                 },
                 "videoId": null,
@@ -7825,7 +7828,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "74",
+                "liveTime": "89",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/5j1zaf2r.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/qv45qy2n.png",
                 "hasPenalty": false,
@@ -7878,7 +7881,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "72",
+                "liveTime": "87",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/yxsw3paj.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/1da1cjrk.png",
                 "hasPenalty": false,
