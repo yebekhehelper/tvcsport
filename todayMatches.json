@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710633469,
+    "timeStamp": 1710637152,
     "todayMatches": {
         "leagues": [
             {
@@ -6861,18 +6861,24 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "46",
-                "guestPoint": "39",
+                "hostPoint": "81",
+                "guestPoint": "82",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 24
                 },
                 "quarterPoints2": {
-                    "host": 19,
-                    "guest": 15
+                    "host": 26,
+                    "guest": 23
                 },
-                "quarterPoints3": null,
-                "quarterPoints4": null,
+                "quarterPoints3": {
+                    "host": 26,
+                    "guest": 24
+                },
+                "quarterPoints4": {
+                    "host": 2,
+                    "guest": 11
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -6904,18 +6910,24 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "60",
-                "guestPoint": "59",
+                "hostPoint": "112",
+                "guestPoint": "97",
                 "quarterPoints1": {
                     "host": 40,
                     "guest": 35
                 },
                 "quarterPoints2": {
-                    "host": 20,
+                    "host": 33,
+                    "guest": 33
+                },
+                "quarterPoints3": {
+                    "host": 29,
                     "guest": 24
                 },
-                "quarterPoints3": null,
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 10,
+                    "guest": 5
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -6947,18 +6959,24 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "41",
-                "guestPoint": "44",
+                "hostPoint": "89",
+                "guestPoint": "80",
                 "quarterPoints1": {
                     "host": 25,
                     "guest": 30
                 },
                 "quarterPoints2": {
-                    "host": 16,
-                    "guest": 14
+                    "host": 34,
+                    "guest": 27
                 },
-                "quarterPoints3": null,
-                "quarterPoints4": null,
+                "quarterPoints3": {
+                    "host": 27,
+                    "guest": 21
+                },
+                "quarterPoints4": {
+                    "host": 3,
+                    "guest": 2
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -6990,10 +7008,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
-                "quarterPoints2": null,
+                "hostPoint": "49",
+                "guestPoint": "48",
+                "quarterPoints1": {
+                    "host": 27,
+                    "guest": 29
+                },
+                "quarterPoints2": {
+                    "host": 22,
+                    "guest": 19
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -7010,10 +7034,10 @@
                 "guestLink": null,
                 "hostId": 902785,
                 "guestId": 902793,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -7027,10 +7051,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
-                "quarterPoints2": null,
+                "hostPoint": "55",
+                "guestPoint": "36",
+                "quarterPoints1": {
+                    "host": 32,
+                    "guest": 19
+                },
+                "quarterPoints2": {
+                    "host": 23,
+                    "guest": 17
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -7047,10 +7077,10 @@
                 "guestLink": null,
                 "hostId": 902797,
                 "guestId": 902807,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -7064,9 +7094,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "26",
+                "guestPoint": "22",
+                "quarterPoints1": {
+                    "host": 26,
+                    "guest": 22
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -7084,10 +7117,10 @@
                 "guestLink": null,
                 "hostId": 902784,
                 "guestId": 902409,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63511\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2-%DA%AF%D9%84%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D8%AA-%D9%88%D8%A7%D8%B1%DB%8C%D8%B1%D8%B2-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
@@ -7445,9 +7478,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "16",
+                "liveTime": "59",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/B\/yjii3ib2.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/btpabjuj.png",
                 "hasPenalty": false,
@@ -7458,7 +7491,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 0
                 },
                 "videoId": null,
@@ -7498,9 +7531,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "18",
+                "liveTime": "60",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/vlzpfmvg.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/B\/nttbpylv.png",
                 "hasPenalty": false,
@@ -7511,7 +7544,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 1
                 },
                 "videoId": null,
@@ -7551,9 +7584,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "1",
+                "liveTime": "19",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/2jak0r1k.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/20\/C\/1rrvvirj.png",
                 "hasPenalty": false,
@@ -7565,7 +7598,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -7588,25 +7621,25 @@
                 "guestLink": null,
                 "hostId": 903269,
                 "guestId": 903148,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "04:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400582\/بازی-آستین-فیلادلفیا-یونیون",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400582",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400582\/events",
                 "scheduledStartOn": "2024-03-17T00:30:00Z",
                 "stadium": null
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "19",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/fkj055fy.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/15\/C\/sylkumf4.png",
                 "hasPenalty": false,
@@ -7641,10 +7674,10 @@
                 "guestLink": null,
                 "hostId": 903110,
                 "guestId": 903130,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -7657,9 +7690,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "19",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/19\/C\/3sjjngr0.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/xixqudjj.png",
                 "hasPenalty": false,
@@ -7694,10 +7727,10 @@
                 "guestLink": null,
                 "hostId": 901132,
                 "guestId": 903271,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -7710,9 +7743,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "1",
+                "guestGoals": "0",
+                "liveTime": "19",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/0l2zefac.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/kzwjwzps.png",
                 "hasPenalty": false,
@@ -7723,7 +7756,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 0
                 },
                 "videoId": null,
@@ -7747,25 +7780,25 @@
                 "guestLink": "\/football\/team\/901118\/لس-آنجلس-اف-سی",
                 "hostId": 903041,
                 "guestId": 901118,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "04:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400585\/بازی-مینسوتا-لس-آنجلس-اف-سی",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400585",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400585\/events",
                 "scheduledStartOn": "2024-03-17T00:30:00Z",
                 "stadium": null
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "19",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/5j1zaf2r.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/qv45qy2n.png",
                 "hasPenalty": false,
@@ -7800,10 +7833,10 @@
                 "guestLink": null,
                 "hostId": 903108,
                 "guestId": 903040,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "04:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -7816,9 +7849,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "1",
+                "guestGoals": "1",
+                "liveTime": "18",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/yxsw3paj.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/1da1cjrk.png",
                 "hasPenalty": false,
@@ -7829,8 +7862,8 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
-                    "guest": 0
+                    "host": 1,
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -7853,17 +7886,17 @@
                 "guestLink": null,
                 "hostId": 903270,
                 "guestId": 901614,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "04:00",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/400587\/بازی-اسپورتینگ-کانزاس-سن-خوزه-ارثکویکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400587",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400587\/events",
                 "scheduledStartOn": "2024-03-17T00:30:00Z",
                 "stadium": null
             },
