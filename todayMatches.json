@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710674281,
+    "timeStamp": 1710674731,
     "todayMatches": {
         "leagues": [
             {
@@ -2708,9 +2708,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "1",
+                "liveTime": "7",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/05\/17\/C\/ijwltzbl.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150064.png",
                 "hasPenalty": false,
@@ -2722,7 +2722,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -2745,10 +2745,10 @@
                 "guestLink": "\/football\/team\/164\/آلکمار",
                 "hostId": 902112,
                 "guestId": 164,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "14:45",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -3424,7 +3424,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "45+",
+                "liveTime": "",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633903.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633904.png",
                 "hasPenalty": false,
@@ -3457,7 +3457,7 @@
                 "guestId": 902725,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "14:00",
                 "hasEvents": true,
