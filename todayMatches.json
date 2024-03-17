@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710710308,
+    "timeStamp": 1710710757,
     "todayMatches": {
         "leagues": [
             {
@@ -1319,8 +1319,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "2",
-                "liveTime": "58",
+                "guestGoals": "3",
+                "liveTime": "65",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/28\/B\/yzbpo1sq.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/03\/C\/ugnf0f0l.png",
                 "hasPenalty": false,
@@ -1332,7 +1332,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 2
+                    "guest": 3
                 },
                 "videoId": null,
                 "referee": null,
@@ -2009,7 +2009,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "73",
+                "liveTime": "81",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/B\/yxgaqjb3.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150104.png",
                 "hasPenalty": false,
@@ -2327,7 +2327,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "5",
-                "liveTime": "72",
+                "liveTime": "80",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167931.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01150144.png",
                 "hasPenalty": false,
@@ -2592,7 +2592,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "45+",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/02\/C\/53yaxk3b.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01621269.png",
                 "hasPenalty": false,
@@ -2625,7 +2625,7 @@
                 "guestId": 902731,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "00:00",
                 "hasEvents": true,
@@ -3742,8 +3742,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "77",
-                "guestPoint": "74",
+                "hostPoint": "84",
+                "guestPoint": "79",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 34
@@ -3753,8 +3753,8 @@
                     "guest": 27
                 },
                 "quarterPoints3": {
-                    "host": 19,
-                    "guest": 13
+                    "host": 26,
+                    "guest": 18
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
