@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710654235,
+    "timeStamp": 1710654669,
     "todayMatches": {
         "leagues": [
             {
@@ -6900,7 +6900,7 @@
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327638\/خلاصه-بسکتبال-فیلادلفیا-سیکسرز-شارلوت-هورنتس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106901\/بازی-فیلادلفیا-سیکسرز-شارلوت-هورنتس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106901",
@@ -9217,7 +9217,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "44",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/A\/2mck2e5x.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168137.png",
                 "hasPenalty": false,
@@ -9250,7 +9250,7 @@
                 "guestId": 384,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "08:30",
                 "hasEvents": true,
@@ -9266,7 +9266,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "44",
+                "liveTime": "45+",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01617594.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/02\/13\/B\/vy4nbvql.png",
                 "hasPenalty": false,
@@ -9366,9 +9366,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "2",
                 "guestGoals": "2",
-                "liveTime": "41",
+                "liveTime": "45+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/19\/B\/a5itfdt3.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169005.png",
                 "hasPenalty": false,
@@ -9379,7 +9379,7 @@
                 "round": 4,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 2,
                     "guest": 2
                 },
                 "videoId": null,
