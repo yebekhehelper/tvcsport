@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710648509,
+    "timeStamp": 1710649441,
     "todayMatches": {
         "leagues": [
             {
@@ -7204,8 +7204,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "79",
-                "guestPoint": "75",
+                "hostPoint": "87",
+                "guestPoint": "91",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 21
@@ -7218,7 +7218,10 @@
                     "host": 26,
                     "guest": 22
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 13,
+                    "guest": 16
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -7946,7 +7949,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "2",
-                "liveTime": "68",
+                "liveTime": "84",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/12\/B\/m0joqcr1.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/16\/B\/rz003xef.png",
                 "hasPenalty": false,
