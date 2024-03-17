@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710659395,
+    "timeStamp": 1710659889,
     "todayMatches": {
         "leagues": [
             {
@@ -9458,9 +9458,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "1",
+                "hostGoals": "2",
                 "guestGoals": "1",
-                "liveTime": "50",
+                "liveTime": "58",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168169.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01169151.png",
                 "hasPenalty": false,
@@ -9471,7 +9471,7 @@
                 "round": 4,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 1,
+                    "host": 2,
                     "guest": 1
                 },
                 "videoId": null,
@@ -9504,8 +9504,8 @@
             {
                 "sport": 1,
                 "hostGoals": "3",
-                "guestGoals": "1",
-                "liveTime": "48",
+                "guestGoals": "2",
+                "liveTime": "56",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01576473.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/05\/06\/C\/l45hrwu0.png",
                 "hasPenalty": false,
@@ -9517,7 +9517,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 3,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
