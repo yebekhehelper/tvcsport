@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710671218,
+    "timeStamp": 1710671663,
     "todayMatches": {
         "leagues": [
             {
@@ -3422,9 +3422,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "4",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633903.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01633904.png",
                 "hasPenalty": false,
@@ -3455,10 +3455,10 @@
                 "guestLink": null,
                 "hostId": 902161,
                 "guestId": 902725,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "14:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -4061,7 +4061,7 @@
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327640\/خلاصه-بسکتبال-ساکرامنتو-کینگز-نیویورک-نیکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107332\/بازی-ساکرامنتو-کینگز-نیویورک-نیکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107332",
@@ -4950,9 +4950,9 @@
                 "guestLink": "\/football\/team\/287\/گلاسکو-رنجرز",
                 "hostId": 903385,
                 "guestId": 287,
-                "status": 1,
+                "status": 4,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "تعویق",
                 "isLive": false,
                 "time": "15:30",
                 "hasEvents": false,
