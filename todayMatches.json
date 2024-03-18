@@ -1,22 +1,7 @@
 {
-    "timeStamp": 1710793685,
+    "timeStamp": 1710794254,
     "todayMatches": {
         "leagues": [
-            {
-                "id": 55,
-                "logo": "https:\/\/match-cdn.varzesh3.com\/football-league\/2023\/08\/02\/C\/rnu14oe4.png",
-                "title": "لیگ برتر پرتغال",
-                "sport": 1,
-                "link": "\/football\/league\/55\/لیگ-برتر-پرتغال",
-                "dates": [
-                    {
-                        "date": "1402\/12\/28",
-                        "matchIds": [
-                            "football-391040"
-                        ]
-                    }
-                ]
-            },
             {
                 "id": 33,
                 "logo": "https:\/\/match-cdn.varzesh3.com\/volleyball-league\/2022\/02\/10\/B\/v1brckk2.png",
@@ -40,15 +25,6 @@
                 "link": "\/basketball\/league\/209\/بسکتبال-حرفه-ای-nba",
                 "dates": [
                     {
-                        "date": "1402\/12\/28",
-                        "matchIds": [
-                            "basketball-106674",
-                            "basketball-107334",
-                            "basketball-107335",
-                            "basketball-107336"
-                        ]
-                    },
-                    {
                         "date": "1402\/12\/29",
                         "matchIds": [
                             "basketball-107419",
@@ -57,77 +33,14 @@
                             "basketball-107337",
                             "basketball-106925",
                             "basketball-106948",
-                            "basketball-107338"
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 335,
-                "logo": "https:\/\/match-cdn.varzesh3.com\/football-league\/2023\/07\/16\/B\/xuuddxwi.png",
-                "title": "لیگ MLS آمریکا",
-                "sport": 1,
-                "link": null,
-                "dates": [
-                    {
-                        "date": "1402\/12\/28",
-                        "matchIds": [
-                            "football-400590"
+                            "basketball-107338",
+                            "basketball-107339"
                         ]
                     }
                 ]
             }
         ],
         "matches": [
-            {
-                "sport": 1,
-                "hostGoals": "6",
-                "guestGoals": "1",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/02\/C\/53yaxk3b.png",
-                "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01621269.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 28 اسفند 1402",
-                "scheduledStartTime": "00:00",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": 26,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 6,
-                    "guest": 1
-                },
-                "videoId": 327835,
-                "referee": null,
-                "guestStyle": null,
-                "hostStyle": {
-                    "backgroundColor": "#05bb05",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 391040,
-                "title": null,
-                "sportId": "football-391040",
-                "hostName": "اسپورتینگ",
-                "hostLink": "\/football\/team\/420\/اسپورتینگ",
-                "guestName": "بوآویشتا",
-                "guestLink": "\/football\/team\/902731\/بوآویشتا",
-                "hostId": 420,
-                "guestId": 902731,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "00:00",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327835\/خلاصه-بازی-اسپورتینگ-6-بوآویشتا-1",
-                "matchPageLink": "\/football\/match\/391040\/بازی-اسپورتینگ-بوآویشتا",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391040",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/391040\/events",
-                "scheduledStartOn": "2024-03-17T20:30:00Z",
-                "stadium": null
-            },
             {
                 "sport": 3,
                 "hostPoint": "0",
@@ -172,205 +85,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/volleyball\/matches\/105474",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-03-18T16:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 4,
-                "hostPoint": "111",
-                "guestPoint": "96",
-                "quarterPoints1": {
-                    "host": 26,
-                    "guest": 24
-                },
-                "quarterPoints2": {
-                    "host": 26,
-                    "guest": 23
-                },
-                "quarterPoints3": {
-                    "host": 35,
-                    "guest": 26
-                },
-                "quarterPoints4": {
-                    "host": 24,
-                    "guest": 23
-                },
-                "overtimePoints": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "01:30",
-                "scheduledStartDate": " 28 اسفند 1402",
-                "id": 106674,
-                "title": null,
-                "sportId": "basketball-106674",
-                "hostName": "اورلاندو مجیک",
-                "hostLink": null,
-                "guestName": "تورنتو رپترز",
-                "guestLink": null,
-                "hostId": 902804,
-                "guestId": 902806,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "01:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327816\/خلاصه-بسکتبال-اورلاندو-مجیک-تورنتو-رپترز",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/106674\/بازی-اورلاندو-مجیک-تورنتو-رپترز",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106674",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-17T22:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 4,
-                "hostPoint": "104",
-                "guestPoint": "130",
-                "quarterPoints1": {
-                    "host": 27,
-                    "guest": 45
-                },
-                "quarterPoints2": {
-                    "host": 26,
-                    "guest": 36
-                },
-                "quarterPoints3": {
-                    "host": 25,
-                    "guest": 27
-                },
-                "quarterPoints4": {
-                    "host": 26,
-                    "guest": 22
-                },
-                "overtimePoints": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "01:30",
-                "scheduledStartDate": " 28 اسفند 1402",
-                "id": 107334,
-                "title": null,
-                "sportId": "basketball-107334",
-                "hostName": "واشینگتن ویزاردز",
-                "hostLink": null,
-                "guestName": "بوستون سلتیکس",
-                "guestLink": null,
-                "hostId": 902807,
-                "guestId": 902795,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "01:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327819\/خلاصه-بسکتبال-واشینگتن-ویزاردز-بوستون-سلتیکس",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/107334\/بازی-واشینگتن-ویزاردز-بوستون-سلتیکس",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107334",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-17T22:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 4,
-                "hostPoint": "122",
-                "guestPoint": "115",
-                "quarterPoints1": {
-                    "host": 25,
-                    "guest": 29
-                },
-                "quarterPoints2": {
-                    "host": 30,
-                    "guest": 27
-                },
-                "quarterPoints3": {
-                    "host": 25,
-                    "guest": 27
-                },
-                "quarterPoints4": {
-                    "host": 30,
-                    "guest": 27
-                },
-                "overtimePoints": {
-                    "host": 12,
-                    "guest": 5
-                },
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "02:30",
-                "scheduledStartDate": " 28 اسفند 1402",
-                "id": 107335,
-                "title": null,
-                "sportId": "basketball-107335",
-                "hostName": "سن آنتونیو اسپرز",
-                "hostLink": null,
-                "guestName": "بروکلین نتس",
-                "guestLink": null,
-                "hostId": 902791,
-                "guestId": 902802,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "02:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327828\/خلاصه-بسکتبال-سن-آنتونیو-اسپرز-بروکلین-نتس-گزارش-اختصاصی",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/107335\/بازی-سن-آنتونیو-اسپرز-بروکلین-نتس",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107335",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-17T23:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 4,
-                "hostPoint": "93",
-                "guestPoint": "110",
-                "quarterPoints1": {
-                    "host": 29,
-                    "guest": 31
-                },
-                "quarterPoints2": {
-                    "host": 15,
-                    "guest": 30
-                },
-                "quarterPoints3": {
-                    "host": 18,
-                    "guest": 27
-                },
-                "quarterPoints4": {
-                    "host": 31,
-                    "guest": 22
-                },
-                "overtimePoints": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "05:00",
-                "scheduledStartDate": " 28 اسفند 1402",
-                "id": 107336,
-                "title": null,
-                "sportId": "basketball-107336",
-                "hostName": "لس آنجلس کلیپرز",
-                "hostLink": null,
-                "guestName": "آتلانتا هاوکس",
-                "guestLink": null,
-                "hostId": 902783,
-                "guestId": 902794,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "05:00",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327814\/خلاصه-بسکتبال-لس-آنجلس-کلیپرز-آتلانتا-هاوکس",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/107336\/بازی-لس-آنجلس-کلیپرز-آتلانتا-هاوکس",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107336",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-18T01:30:00Z",
                 "stadium": null
             },
             {
@@ -633,56 +347,40 @@
                 "stadium": null
             },
             {
-                "sport": 1,
-                "hostGoals": "2",
-                "guestGoals": "0",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/21\/B\/05apkgdn.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/07\/20\/B\/q2bob4lt.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 28 اسفند 1402",
-                "scheduledStartTime": "02:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": null,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 2,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 400590,
+                "sport": 4,
+                "hostPoint": "",
+                "guestPoint": "",
+                "quarterPoints1": null,
+                "quarterPoints2": null,
+                "quarterPoints3": null,
+                "quarterPoints4": null,
+                "overtimePoints": null,
+                "guestLogo": null,
+                "hostLogo": null,
+                "scheduledStartTime": "06:00",
+                "scheduledStartDate": " 29 اسفند 1402",
+                "id": 107339,
                 "title": null,
-                "sportId": "football-400590",
-                "hostName": "آتلانتا یونایتد",
+                "sportId": "basketball-107339",
+                "hostName": "لس آنجلس لیکرز",
                 "hostLink": null,
-                "guestName": "اورلاندو سيتي",
-                "guestLink": "\/football\/team\/901117\/اورلاندو-سيتي",
-                "hostId": 902339,
-                "guestId": 901117,
-                "status": 7,
+                "guestName": "آتلانتا هاوکس",
+                "guestLink": null,
+                "hostId": 902784,
+                "guestId": 902794,
+                "status": 1,
                 "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
+                "statusTitle": null,
                 "isLive": false,
-                "time": "02:30",
-                "hasEvents": true,
+                "time": "06:00",
+                "hasEvents": false,
                 "liveStreamSource": "",
                 "videoLink": null,
-                "matchPageLink": "\/football\/match\/400590\/بازی-آتلانتا-یونایتد-اورلاندو-سيتي",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400590",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/400590\/events",
-                "scheduledStartOn": "2024-03-17T23:00:00Z",
+                "videoId": null,
+                "matchPageLink": "\/basketball\/match\/107339\/بازی-لس-آنجلس-لیکرز-آتلانتا-هاوکس",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107339",
+                "eventsApi": null,
+                "scheduledStartOn": "2024-03-19T02:30:00Z",
                 "stadium": null
             }
         ],
