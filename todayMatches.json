@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710743299,
+    "timeStamp": 1710743799,
     "todayMatches": {
         "leagues": [
             {
@@ -1705,7 +1705,7 @@
                     "host": 2,
                     "guest": 3
                 },
-                "videoId": null,
+                "videoId": 327820,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#c11717",
@@ -1733,7 +1733,7 @@
                 "time": "18:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327820\/خلاصه-بازی-فرایبورگ-2-بایرلورکوزن-3",
                 "matchPageLink": "\/football\/match\/386238\/بازی-فرایبورگ-بایرلورکوزن",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386238",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/386238\/events",
