@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710733497,
+    "timeStamp": 1710733926,
     "todayMatches": {
         "leagues": [
             {
@@ -3941,8 +3941,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "88",
-                "guestPoint": "103",
+                "hostPoint": "93",
+                "guestPoint": "110",
                 "quarterPoints1": {
                     "host": 29,
                     "guest": 31
@@ -3956,8 +3956,8 @@
                     "guest": 27
                 },
                 "quarterPoints4": {
-                    "host": 26,
-                    "guest": 15
+                    "host": 31,
+                    "guest": 22
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3973,13 +3973,13 @@
                 "guestLink": null,
                 "hostId": 902783,
                 "guestId": 902794,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "05:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63521\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%DA%A9%D9%84%DB%8C%D9%BE%D8%B1%D8%B2-%D8%A2%D8%AA%D9%84%D8%A7%D9%86%D8%AA%D8%A7-%D9%87%D8%A7%DA%A9%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107336\/بازی-لس-آنجلس-کلیپرز-آتلانتا-هاوکس",
