@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710824391,
+    "timeStamp": 1710825363,
     "todayMatches": {
         "leagues": [
             {
@@ -425,7 +425,7 @@
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327909\/خلاصه-بسکتبال-گلدن-استیت-واریرز-نیویورک-نیکس-گزارش-اختصاصی",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107338\/بازی-گلدن-استیت-واریرز-نیویورک-نیکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107338",
