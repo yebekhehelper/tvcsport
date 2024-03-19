@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710822545,
+    "timeStamp": 1710823061,
     "todayMatches": {
         "leagues": [
             {
@@ -334,8 +334,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "101",
-                "guestPoint": "103",
+                "hostPoint": "107",
+                "guestPoint": "107",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 32
@@ -349,10 +349,13 @@
                     "guest": 29
                 },
                 "quarterPoints4": {
-                    "host": 17,
-                    "guest": 27
+                    "host": 21,
+                    "guest": 29
                 },
-                "overtimePoints": null,
+                "overtimePoints": {
+                    "host": 2,
+                    "guest": 2
+                },
                 "guestLogo": null,
                 "hostLogo": null,
                 "scheduledStartTime": "05:30",
@@ -383,8 +386,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "106",
-                "guestPoint": "115",
+                "hostPoint": "112",
+                "guestPoint": "119",
                 "quarterPoints1": {
                     "host": 22,
                     "guest": 30
@@ -398,8 +401,8 @@
                     "guest": 37
                 },
                 "quarterPoints4": {
-                    "host": 18,
-                    "guest": 16
+                    "host": 24,
+                    "guest": 20
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -415,13 +418,13 @@
                 "guestLink": null,
                 "hostId": 902409,
                 "guestId": 902803,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "05:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63536\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%DA%AF%D9%84%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D8%AA-%D9%88%D8%A7%D8%B1%DB%8C%D8%B1%D8%B2-%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9-%D9%86%DB%8C%DA%A9%D8%B3-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107338\/بازی-گلدن-استیت-واریرز-نیویورک-نیکس",
@@ -432,8 +435,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "128",
-                "guestPoint": "94",
+                "hostPoint": "136",
+                "guestPoint": "105",
                 "quarterPoints1": {
                     "host": 38,
                     "guest": 28
@@ -447,8 +450,8 @@
                     "guest": 27
                 },
                 "quarterPoints4": {
-                    "host": 17,
-                    "guest": 8
+                    "host": 25,
+                    "guest": 19
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
