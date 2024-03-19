@@ -1,7 +1,25 @@
 {
-    "timeStamp": 1710880077,
+    "timeStamp": 1710880556,
     "todayMatches": {
         "leagues": [
+            {
+                "id": 52,
+                "logo": "https:\/\/static.farakav.com\/files\/pictures\/01381337.png",
+                "title": "دوستانه",
+                "sport": 1,
+                "link": null,
+                "dates": [
+                    {
+                        "date": "1403\/01\/01",
+                        "matchIds": [
+                            "football-401138",
+                            "football-401139",
+                            "football-401152",
+                            "football-401140"
+                        ]
+                    }
+                ]
+            },
             {
                 "id": 209,
                 "logo": "https:\/\/match-cdn.varzesh3.com\/basketball-league\/2023\/10\/17\/B\/dvgr5o4i.png",
@@ -9,19 +27,6 @@
                 "sport": 4,
                 "link": "\/basketball\/league\/209\/بسکتبال-حرفه-ای-nba",
                 "dates": [
-                    {
-                        "date": "1402\/12\/29",
-                        "matchIds": [
-                            "basketball-107419",
-                            "basketball-106789",
-                            "basketball-106883",
-                            "basketball-107337",
-                            "basketball-106925",
-                            "basketball-106948",
-                            "basketball-107338",
-                            "basketball-107339"
-                        ]
-                    },
                     {
                         "date": "1403\/01\/01",
                         "matchIds": [
@@ -37,398 +42,215 @@
         ],
         "matches": [
             {
-                "sport": 4,
-                "hostPoint": "103",
-                "guestPoint": "108",
-                "quarterPoints1": {
-                    "host": 34,
-                    "guest": 25
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/17\/C\/xr2wgmba.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/17\/C\/rl5qokkq.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 1 فروردين 1403",
+                "scheduledStartTime": "20:30",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
                 },
-                "quarterPoints2": {
-                    "host": 20,
-                    "guest": 29
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
                 },
-                "quarterPoints3": {
-                    "host": 29,
-                    "guest": 36
+                "hostStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
                 },
-                "quarterPoints4": {
-                    "host": 20,
-                    "guest": 18
-                },
-                "overtimePoints": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "02:30",
-                "scheduledStartDate": " 29 اسفند 1402",
-                "id": 107419,
+                "id": 401138,
                 "title": null,
-                "sportId": "basketball-107419",
-                "hostName": "ایندیانا پیسرز",
+                "sportId": "football-401138",
+                "hostName": "امید استرالیا",
                 "hostLink": null,
-                "guestName": "کلیولند کاوالیرز",
-                "guestLink": null,
-                "hostId": 902799,
-                "guestId": 902410,
-                "status": 7,
+                "guestName": "امید عراق",
+                "guestLink": "\/football\/team\/902655\/امید-عراق",
+                "hostId": 902664,
+                "guestId": 902655,
+                "status": 1,
                 "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
+                "statusTitle": "",
                 "isLive": false,
-                "time": "02:30",
+                "time": "20:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327915\/خلاصه-بسکتبال-ایندیانا-پیسرز-کلیولند-کاوالیرز",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/107419\/بازی-ایندیانا-پیسرز-کلیولند-کاوالیرز",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107419",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/401138\/بازی-امید-استرالیا-امید-عراق",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401138",
                 "eventsApi": null,
-                "scheduledStartOn": "2024-03-18T23:00:00Z",
+                "scheduledStartOn": "2024-03-20T17:00:00Z",
                 "stadium": null
             },
             {
-                "sport": 4,
-                "hostPoint": "119",
-                "guestPoint": "94",
-                "quarterPoints1": {
-                    "host": 31,
-                    "guest": 28
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/17\/C\/1yg2zc5q.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/17\/C\/duzszo55.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 1 فروردين 1403",
+                "scheduledStartTime": "20:30",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
                 },
-                "quarterPoints2": {
-                    "host": 28,
-                    "guest": 18
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
                 },
-                "quarterPoints3": {
-                    "host": 33,
-                    "guest": 20
+                "hostStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
                 },
-                "quarterPoints4": {
-                    "host": 27,
-                    "guest": 28
-                },
-                "overtimePoints": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "03:00",
-                "scheduledStartDate": " 29 اسفند 1402",
-                "id": 106789,
+                "id": 401139,
                 "title": null,
-                "sportId": "basketball-106789",
-                "hostName": "بوستون سلتیکس",
+                "sportId": "football-401139",
+                "hostName": "امید کره جنوبی",
                 "hostLink": null,
-                "guestName": "دیترویت پیستونز",
+                "guestName": "امید تایلند",
                 "guestLink": null,
-                "hostId": 902795,
-                "guestId": 902798,
-                "status": 7,
+                "hostId": 900711,
+                "guestId": 902573,
+                "status": 1,
                 "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
+                "statusTitle": "",
                 "isLive": false,
-                "time": "03:00",
+                "time": "20:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327917\/خلاصه-بسکتبال-بوستون-سلتیکس-دیترویت-پیستونز",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/106789\/بازی-بوستون-سلتیکس-دیترویت-پیستونز",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106789",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/401139\/بازی-امید-کره-جنوبی-امید-تایلند",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401139",
                 "eventsApi": null,
-                "scheduledStartOn": "2024-03-18T23:30:00Z",
+                "scheduledStartOn": "2024-03-20T17:00:00Z",
                 "stadium": null
             },
             {
-                "sport": 4,
-                "hostPoint": "98",
-                "guestPoint": "91",
-                "quarterPoints1": {
-                    "host": 31,
-                    "guest": 23
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/27\/C\/rjyaqw3p.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/09\/C\/dd32goo2.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 1 فروردين 1403",
+                "scheduledStartTime": "20:30",
+                "predictionLink": "https:\/\/pishbini.varzesh3.com\/predict\/401152",
+                "predictionUrl": "https:\/\/pishbini.varzesh3.com\/predict\/401152",
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
                 },
-                "quarterPoints2": {
-                    "host": 20,
-                    "guest": 26
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
                 },
-                "quarterPoints3": {
-                    "host": 28,
-                    "guest": 16
+                "hostStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
                 },
-                "quarterPoints4": {
-                    "host": 19,
-                    "guest": 26
-                },
-                "overtimePoints": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "03:00",
-                "scheduledStartDate": " 29 اسفند 1402",
-                "id": 106883,
+                "id": 401152,
                 "title": null,
-                "sportId": "basketball-106883",
-                "hostName": "فیلادلفیا سیکسرز",
+                "sportId": "football-401152",
+                "hostName": "آپولون",
                 "hostLink": null,
-                "guestName": "میامی هیت",
-                "guestLink": null,
-                "hostId": 902805,
-                "guestId": 902800,
-                "status": 7,
+                "guestName": "آ ا ک آتن",
+                "guestLink": "\/football\/team\/901697\/آ-ا-ک-آتن",
+                "hostId": 901005,
+                "guestId": 901697,
+                "status": 1,
                 "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
+                "statusTitle": "",
                 "isLive": false,
-                "time": "03:00",
+                "time": "20:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327912\/خلاصه-بسکتبال-فیلادلفیا-سیکسرز-میامی-هیت",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/106883\/بازی-فیلادلفیا-سیکسرز-میامی-هیت",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106883",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/401152\/بازی-آپولون-آ-ا-ک-آتن",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401152",
                 "eventsApi": null,
-                "scheduledStartOn": "2024-03-18T23:30:00Z",
+                "scheduledStartOn": "2024-03-20T17:00:00Z",
                 "stadium": null
             },
             {
-                "sport": 4,
-                "hostPoint": "110",
-                "guestPoint": "107",
-                "quarterPoints1": {
-                    "host": 29,
-                    "guest": 27
+                "sport": 1,
+                "hostGoals": "",
+                "guestGoals": "",
+                "liveTime": null,
+                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/17\/C\/t5aqwjbx.png",
+                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/17\/C\/3d2sjz20.png",
+                "hasPenalty": false,
+                "scheduledStartDate": " 1 فروردين 1403",
+                "scheduledStartTime": "23:30",
+                "predictionLink": null,
+                "predictionUrl": null,
+                "round": null,
+                "penaltyGoals": null,
+                "matchGoals": {
+                    "host": 0,
+                    "guest": 0
                 },
-                "quarterPoints2": {
-                    "host": 25,
-                    "guest": 22
+                "videoId": null,
+                "referee": null,
+                "guestStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
                 },
-                "quarterPoints3": {
-                    "host": 35,
-                    "guest": 26
+                "hostStyle": {
+                    "backgroundColor": "#383838",
+                    "font": 0,
+                    "fontColor": "#FFFFFF"
                 },
-                "quarterPoints4": {
-                    "host": 21,
-                    "guest": 32
-                },
-                "overtimePoints": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "03:30",
-                "scheduledStartDate": " 29 اسفند 1402",
-                "id": 107337,
+                "id": 401140,
                 "title": null,
-                "sportId": "basketball-107337",
-                "hostName": "شیکاگو بولز",
+                "sportId": "football-401140",
+                "hostName": "امید عربستان",
                 "hostLink": null,
-                "guestName": "پورتلند تریل بلیزرز",
-                "guestLink": null,
-                "hostId": 902797,
-                "guestId": 902789,
-                "status": 7,
+                "guestName": "امید اردن",
+                "guestLink": "\/football\/team\/902669\/امید-اردن",
+                "hostId": 901090,
+                "guestId": 902669,
+                "status": 1,
                 "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
+                "statusTitle": "",
                 "isLive": false,
-                "time": "03:30",
+                "time": "23:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327916\/خلاصه-بسکتبال-شیکاگو-بولز-پورتلند-تریل-بلیزرز",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/107337\/بازی-شیکاگو-بولز-پورتلند-تریل-بلیزرز",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107337",
+                "videoLink": null,
+                "matchPageLink": "\/football\/match\/401140\/بازی-امید-عربستان-امید-اردن",
+                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401140",
                 "eventsApi": null,
-                "scheduledStartOn": "2024-03-19T00:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 4,
-                "hostPoint": "104",
-                "guestPoint": "114",
-                "quarterPoints1": {
-                    "host": 37,
-                    "guest": 25
-                },
-                "quarterPoints2": {
-                    "host": 22,
-                    "guest": 28
-                },
-                "quarterPoints3": {
-                    "host": 24,
-                    "guest": 30
-                },
-                "quarterPoints4": {
-                    "host": 21,
-                    "guest": 31
-                },
-                "overtimePoints": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "04:30",
-                "scheduledStartDate": " 29 اسفند 1402",
-                "id": 106925,
-                "title": null,
-                "sportId": "basketball-106925",
-                "hostName": "یوتا جاز",
-                "hostLink": null,
-                "guestName": "مینه سوتا تیمبرولوز",
-                "guestLink": null,
-                "hostId": 902792,
-                "guestId": 902786,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "04:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327913\/خلاصه-بسکتبال-یوتا-جاز-مینه-سوتا-تیمبرولوز",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/106925\/بازی-یوتا-جاز-مینه-سوتا-تیمبرولوز",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106925",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-19T01:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 4,
-                "hostPoint": "121",
-                "guestPoint": "111",
-                "quarterPoints1": {
-                    "host": 28,
-                    "guest": 32
-                },
-                "quarterPoints2": {
-                    "host": 29,
-                    "guest": 15
-                },
-                "quarterPoints3": {
-                    "host": 27,
-                    "guest": 29
-                },
-                "quarterPoints4": {
-                    "host": 21,
-                    "guest": 29
-                },
-                "overtimePoints": {
-                    "host": 16,
-                    "guest": 6
-                },
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "05:30",
-                "scheduledStartDate": " 29 اسفند 1402",
-                "id": 106948,
-                "title": null,
-                "sportId": "basketball-106948",
-                "hostName": "ساکرامنتو کینگز",
-                "hostLink": null,
-                "guestName": "ممفیس گریزلیز",
-                "guestLink": null,
-                "hostId": 902790,
-                "guestId": 902785,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "05:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327911\/خلاصه-بسکتبال-ساکرامنتو-کینگز-ممفیس-گریزلیز",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/106948\/بازی-ساکرامنتو-کینگز-ممفیس-گریزلیز",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106948",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-19T02:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 4,
-                "hostPoint": "112",
-                "guestPoint": "119",
-                "quarterPoints1": {
-                    "host": 22,
-                    "guest": 30
-                },
-                "quarterPoints2": {
-                    "host": 34,
-                    "guest": 32
-                },
-                "quarterPoints3": {
-                    "host": 32,
-                    "guest": 37
-                },
-                "quarterPoints4": {
-                    "host": 24,
-                    "guest": 20
-                },
-                "overtimePoints": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "05:30",
-                "scheduledStartDate": " 29 اسفند 1402",
-                "id": 107338,
-                "title": null,
-                "sportId": "basketball-107338",
-                "hostName": "گلدن استیت واریرز",
-                "hostLink": null,
-                "guestName": "نیویورک نیکس",
-                "guestLink": null,
-                "hostId": 902409,
-                "guestId": 902803,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "05:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327909\/خلاصه-بسکتبال-گلدن-استیت-واریرز-نیویورک-نیکس-گزارش-اختصاصی",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/107338\/بازی-گلدن-استیت-واریرز-نیویورک-نیکس",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107338",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-19T02:00:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 4,
-                "hostPoint": "136",
-                "guestPoint": "105",
-                "quarterPoints1": {
-                    "host": 38,
-                    "guest": 28
-                },
-                "quarterPoints2": {
-                    "host": 35,
-                    "guest": 31
-                },
-                "quarterPoints3": {
-                    "host": 38,
-                    "guest": 27
-                },
-                "quarterPoints4": {
-                    "host": 25,
-                    "guest": 19
-                },
-                "overtimePoints": null,
-                "guestLogo": null,
-                "hostLogo": null,
-                "scheduledStartTime": "06:00",
-                "scheduledStartDate": " 29 اسفند 1402",
-                "id": 107339,
-                "title": null,
-                "sportId": "basketball-107339",
-                "hostName": "لس آنجلس لیکرز",
-                "hostLink": null,
-                "guestName": "آتلانتا هاوکس",
-                "guestLink": null,
-                "hostId": 902784,
-                "guestId": 902794,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "06:00",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/327914\/خلاصه-بسکتبال-لس-آنجلس-لیکرز-آتلانتا-هاوکس",
-                "videoId": null,
-                "matchPageLink": "\/basketball\/match\/107339\/بازی-لس-آنجلس-لیکرز-آتلانتا-هاوکس",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107339",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-19T02:30:00Z",
+                "scheduledStartOn": "2024-03-20T20:00:00Z",
                 "stadium": null
             },
             {
