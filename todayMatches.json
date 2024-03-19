@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710833728,
+    "timeStamp": 1710834166,
     "todayMatches": {
         "leagues": [
             {
@@ -224,7 +224,7 @@
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327916\/خلاصه-بسکتبال-شیکاگو-بولز-پورتلند-تریل-بلیزرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107337\/بازی-شیکاگو-بولز-پورتلند-تریل-بلیزرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107337",
