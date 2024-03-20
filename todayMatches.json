@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710932389,
+    "timeStamp": 1710933216,
     "todayMatches": {
         "leagues": [
             {
@@ -57,9 +57,9 @@
         "matches": [
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "13",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01168659.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/07\/09\/B\/e5ybs4iy.png",
                 "hasPenalty": false,
@@ -90,10 +90,10 @@
                 "guestLink": "\/football\/team\/902139\/آلمره-سیتی",
                 "hostId": 900686,
                 "guestId": 902139,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "14:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
