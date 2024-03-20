@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710913887,
+    "timeStamp": 1710914312,
     "todayMatches": {
         "leagues": [
             {
@@ -441,7 +441,7 @@
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/327976\/خلاصه-بسکتبال-سن-آنتونیو-اسپرز-دالاس-ماوریکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107342\/بازی-سن-آنتونیو-اسپرز-دالاس-ماوریکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107342",
