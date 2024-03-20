@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710964620,
+    "timeStamp": 1710965527,
     "todayMatches": {
         "leagues": [
             {
@@ -265,9 +265,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "0",
+                "liveTime": "12",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/17\/C\/t5aqwjbx.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2023\/06\/17\/C\/3d2sjz20.png",
                 "hasPenalty": false,
@@ -302,10 +302,10 @@
                 "guestLink": "\/football\/team\/902669\/امید-اردن",
                 "hostId": 901090,
                 "guestId": 902669,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "23:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
