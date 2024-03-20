@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710978532,
+    "timeStamp": 1710978975,
     "todayMatches": {
         "leagues": [
             {
@@ -2381,15 +2381,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "39",
-                "guestPoint": "48",
+                "hostPoint": "43",
+                "guestPoint": "54",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 31
                 },
                 "quarterPoints2": {
-                    "host": 9,
-                    "guest": 17
+                    "host": 13,
+                    "guest": 23
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2424,15 +2424,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "36",
-                "guestPoint": "41",
+                "hostPoint": "47",
+                "guestPoint": "48",
                 "quarterPoints1": {
                     "host": 24,
                     "guest": 29
                 },
                 "quarterPoints2": {
-                    "host": 12,
-                    "guest": 12
+                    "host": 23,
+                    "guest": 19
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2467,11 +2467,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "15",
-                "guestPoint": "10",
+                "hostPoint": "23",
+                "guestPoint": "14",
                 "quarterPoints1": {
-                    "host": 15,
-                    "guest": 10
+                    "host": 23,
+                    "guest": 14
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
@@ -2507,11 +2507,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "11",
-                "guestPoint": "14",
+                "hostPoint": "17",
+                "guestPoint": "23",
                 "quarterPoints1": {
-                    "host": 11,
-                    "guest": 14
+                    "host": 17,
+                    "guest": 23
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
