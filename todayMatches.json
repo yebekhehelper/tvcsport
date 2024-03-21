@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711039249,
+    "timeStamp": 1711039682,
     "todayMatches": {
         "leagues": [
             {
@@ -623,7 +623,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "41",
+                "liveTime": "45+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/27\/C\/hluh325f.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/2jmhdqav.png",
                 "hasPenalty": false,
@@ -1883,7 +1883,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "89",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/05\/18\/C\/pqh54vpa.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167935.png",
                 "hasPenalty": false,
@@ -1918,10 +1918,10 @@
                 "guestLink": "\/football\/team\/147\/تروا",
                 "hostId": 900986,
                 "guestId": 147,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "18:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
