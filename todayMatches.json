@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711000058,
+    "timeStamp": 1711000508,
     "todayMatches": {
         "leagues": [
             {
@@ -2518,7 +2518,7 @@
                 "time": "03:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/328030\/خلاصه-بسکتبال-بوستون-سلتیکس-میلواکی-باکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106680\/بازی-بوستون-سلتیکس-میلواکی-باکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106680",
@@ -2763,7 +2763,7 @@
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/328028\/خلاصه-بسکتبال-پورتلند-تریل-بلیزرز-لس-آنجلس-کلیپرز",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107677\/بازی-پورتلند-تریل-بلیزرز-لس-آنجلس-کلیپرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107677",
