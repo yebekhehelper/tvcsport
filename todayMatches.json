@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711058084,
+    "timeStamp": 1711058806,
     "todayMatches": {
         "leagues": [
             {
@@ -325,7 +325,7 @@
                     "host": 1,
                     "guest": 1
                 },
-                "videoId": null,
+                "videoId": 328080,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#383838",
@@ -353,7 +353,7 @@
                 "time": "14:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/328080\/خلاصه-بازی-کره-جنوبی-1-تایلند-1",
                 "matchPageLink": "\/football\/match\/394840\/بازی-کره-جنوبی-تایلند",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394840",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/394840\/events",
@@ -2115,7 +2115,7 @@
                     "host": 5,
                     "guest": 2
                 },
-                "videoId": null,
+                "videoId": 328107,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#383838",
@@ -2143,7 +2143,7 @@
                 "time": "23:15",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/328107\/خلاصه-بازی-پرتغال-5-سوئد-2",
                 "matchPageLink": "\/football\/match\/401147\/بازی-پرتغال-سوئد",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401147",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401147\/events",
@@ -2154,7 +2154,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "48",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/c0yvl3i5.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/v3lvx1xs.png",
                 "hasPenalty": false,
@@ -2191,7 +2191,7 @@
                 "guestId": 538,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "00:30",
                 "hasEvents": true,
@@ -2207,7 +2207,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "49",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/umuyvwmy.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/5hw2k14y.png",
                 "hasPenalty": false,
@@ -2244,7 +2244,7 @@
                 "guestId": 349,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "00:30",
                 "hasEvents": true,
