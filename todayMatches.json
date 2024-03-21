@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1710978975,
+    "timeStamp": 1710982057,
     "todayMatches": {
         "leagues": [
             {
@@ -2381,17 +2381,20 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "43",
-                "guestPoint": "54",
+                "hostPoint": "75",
+                "guestPoint": "83",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 31
                 },
                 "quarterPoints2": {
-                    "host": 13,
-                    "guest": 23
+                    "host": 27,
+                    "guest": 30
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 18,
+                    "guest": 22
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2424,17 +2427,20 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "47",
-                "guestPoint": "48",
+                "hostPoint": "73",
+                "guestPoint": "96",
                 "quarterPoints1": {
                     "host": 24,
                     "guest": 29
                 },
                 "quarterPoints2": {
-                    "host": 23,
-                    "guest": 19
+                    "host": 28,
+                    "guest": 34
                 },
-                "quarterPoints3": null,
+                "quarterPoints3": {
+                    "host": 21,
+                    "guest": 33
+                },
                 "quarterPoints4": null,
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2467,13 +2473,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "23",
-                "guestPoint": "14",
+                "hostPoint": "69",
+                "guestPoint": "56",
                 "quarterPoints1": {
-                    "host": 23,
-                    "guest": 14
+                    "host": 33,
+                    "guest": 28
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 36,
+                    "guest": 28
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -2507,13 +2516,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "17",
-                "guestPoint": "23",
+                "hostPoint": "45",
+                "guestPoint": "68",
                 "quarterPoints1": {
-                    "host": 17,
-                    "guest": 23
+                    "host": 27,
+                    "guest": 32
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 18,
+                    "guest": 36
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -2547,10 +2559,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
-                "quarterPoints2": null,
+                "hostPoint": "39",
+                "guestPoint": "36",
+                "quarterPoints1": {
+                    "host": 31,
+                    "guest": 25
+                },
+                "quarterPoints2": {
+                    "host": 8,
+                    "guest": 11
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -2567,10 +2585,10 @@
                 "guestLink": null,
                 "hostId": 902793,
                 "guestId": 902792,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
