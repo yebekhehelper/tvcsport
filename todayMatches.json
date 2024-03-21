@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711034698,
+    "timeStamp": 1711035155,
     "todayMatches": {
         "leagues": [
             {
@@ -570,7 +570,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/ifqw341i.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/uiesbqlb.png",
                 "hasPenalty": false,
@@ -605,10 +605,10 @@
                 "guestLink": "\/football\/team\/900813\/ویتنام",
                 "hostId": 526,
                 "guestId": 900813,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "17:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -1830,7 +1830,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "70",
+                "liveTime": "78",
                 "hostLogo": "https:\/\/static.farakav.com\/files\/pictures\/01440161.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/02\/14\/C\/r4movnbl.png",
                 "hasPenalty": false,
@@ -1883,7 +1883,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "24",
+                "liveTime": "32",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/05\/18\/C\/pqh54vpa.png",
                 "guestLogo": "https:\/\/static.farakav.com\/files\/pictures\/01167935.png",
                 "hasPenalty": false,
