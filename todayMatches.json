@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711090690,
+    "timeStamp": 1711091570,
     "todayMatches": {
         "leagues": [
             {
@@ -2318,7 +2318,7 @@
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/bpyafr5c.png",
                 "hasPenalty": false,
                 "scheduledStartDate": " 3 فروردين 1403",
-                "scheduledStartTime": "16:30",
+                "scheduledStartTime": "15:30",
                 "predictionLink": null,
                 "predictionUrl": null,
                 "round": null,
@@ -2352,14 +2352,14 @@
                 "statusDescription": null,
                 "statusTitle": "",
                 "isLive": false,
-                "time": "16:30",
+                "time": "15:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/401158\/بازی-بوتسوانا-رواندا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401158",
                 "eventsApi": null,
-                "scheduledStartOn": "2024-03-22T13:00:00Z",
+                "scheduledStartOn": "2024-03-22T12:00:00Z",
                 "stadium": null
             },
             {
