@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711079902,
+    "timeStamp": 1711080942,
     "todayMatches": {
         "leagues": [
             {
@@ -3608,8 +3608,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "73",
-                "guestPoint": "70",
+                "hostPoint": "86",
+                "guestPoint": "83",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 37
@@ -3619,8 +3619,8 @@
                     "guest": 23
                 },
                 "quarterPoints3": {
-                    "host": 8,
-                    "guest": 10
+                    "host": 21,
+                    "guest": 21
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -3709,7 +3709,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "3",
-                "liveTime": "81",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/sgul00wu.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/vuwbx234.png",
                 "hasPenalty": false,
@@ -3744,13 +3744,13 @@
                 "guestLink": "\/football\/team\/370\/مکزیک",
                 "hostId": 900833,
                 "guestId": 370,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "05:45",
                 "hasEvents": true,
-                "liveStreamSource": "https:\/\/www.anten.ir\/football\/63636\/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%BE%D8%A7%D9%86%D8%A7%D9%85%D8%A7-%D9%85%DA%A9%D8%B2%DB%8C%DA%A9?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/401142\/بازی-پاناما-مکزیک",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401142",
