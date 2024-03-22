@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711074302,
+    "timeStamp": 1711074755,
     "todayMatches": {
         "leagues": [
             {
@@ -2260,7 +2260,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "2",
-                "liveTime": "89",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/20\/C\/3oev42ix.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/rl1bh2ee.png",
                 "hasPenalty": false,
@@ -2295,10 +2295,10 @@
                 "guestLink": "\/football\/team\/461\/اکوادور",
                 "hostId": 901137,
                 "guestId": 461,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "04:00",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -3412,8 +3412,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "122",
-                "guestPoint": "109",
+                "hostPoint": "128",
+                "guestPoint": "117",
                 "quarterPoints1": {
                     "host": 42,
                     "guest": 28
@@ -3427,8 +3427,8 @@
                     "guest": 33
                 },
                 "quarterPoints4": {
-                    "host": 17,
-                    "guest": 15
+                    "host": 23,
+                    "guest": 23
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3444,10 +3444,10 @@
                 "guestLink": null,
                 "hostId": 902782,
                 "guestId": 902797,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -3461,8 +3461,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "108",
-                "guestPoint": "101",
+                "hostPoint": "115",
+                "guestPoint": "108",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 19
@@ -3476,8 +3476,8 @@
                     "guest": 25
                 },
                 "quarterPoints4": {
-                    "host": 27,
-                    "guest": 32
+                    "host": 34,
+                    "guest": 39
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3493,10 +3493,10 @@
                 "guestLink": null,
                 "hostId": 902801,
                 "guestId": 902802,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -3510,8 +3510,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "78",
-                "guestPoint": "65",
+                "hostPoint": "85",
+                "guestPoint": "74",
                 "quarterPoints1": {
                     "host": 26,
                     "guest": 27
@@ -3521,10 +3521,13 @@
                     "guest": 15
                 },
                 "quarterPoints3": {
-                    "host": 25,
-                    "guest": 23
+                    "host": 30,
+                    "guest": 31
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 2,
+                    "guest": 1
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -3556,8 +3559,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "65",
-                "guestPoint": "61",
+                "hostPoint": "77",
+                "guestPoint": "67",
                 "quarterPoints1": {
                     "host": 32,
                     "guest": 30
@@ -3567,8 +3570,8 @@
                     "guest": 26
                 },
                 "quarterPoints3": {
-                    "host": 4,
-                    "guest": 5
+                    "host": 16,
+                    "guest": 11
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -3694,7 +3697,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "9",
+                "liveTime": "16",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/sgul00wu.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/vuwbx234.png",
                 "hasPenalty": false,
