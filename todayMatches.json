@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711085234,
+    "timeStamp": 1711085734,
     "todayMatches": {
         "leagues": [
             {
@@ -46,7 +46,6 @@
                             "football-399027",
                             "football-399026",
                             "football-399028",
-                            "football-399029",
                             "football-399030",
                             "football-399031"
                         ]
@@ -1206,59 +1205,6 @@
                 "matchPageLink": "\/football\/match\/399028\/بازی-یونان-قزاقستان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399028",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399028\/events",
-                "scheduledStartOn": "2024-03-21T19:45:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "1",
-                "guestGoals": "4",
-                "liveTime": null,
-                "hostLogo": "https:\/\/static.varzeshe3.com\/img\/default\/team-logo.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/vtrjn4pk.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 2 فروردين 1403",
-                "scheduledStartTime": "23:15",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": null,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 1,
-                    "guest": 4
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 399029,
-                "title": null,
-                "sportId": "football-399029",
-                "hostName": "رژيم اشغالگر قدس",
-                "hostLink": null,
-                "guestName": "ایسلند",
-                "guestLink": "\/football\/team\/440\/ایسلند",
-                "hostId": 900839,
-                "guestId": 440,
-                "status": 7,
-                "statusDescription": null,
-                "statusTitle": "نتیجه نهایی",
-                "isLive": false,
-                "time": "23:15",
-                "hasEvents": true,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/399029\/بازی-رژيم-اشغالگر-قدس-ایسلند",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399029",
-                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/399029\/events",
                 "scheduledStartOn": "2024-03-21T19:45:00Z",
                 "stadium": null
             },
