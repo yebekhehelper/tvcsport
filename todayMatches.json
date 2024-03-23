@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711204676,
+    "timeStamp": 1711205120,
     "todayMatches": {
         "leagues": [
             {
@@ -641,9 +641,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "1",
+                "liveTime": "9",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/02\/B\/hjx4rgoh.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/08\/27\/C\/c2fvpeww.png",
                 "hasPenalty": false,
@@ -655,7 +655,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -678,10 +678,10 @@
                 "guestLink": "\/football\/team\/610\/استوا-بخارست",
                 "hostId": 900948,
                 "guestId": 610,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "18:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
