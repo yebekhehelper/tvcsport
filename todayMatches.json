@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711176024,
+    "timeStamp": 1711176454,
     "todayMatches": {
         "leagues": [
             {
@@ -2417,7 +2417,7 @@
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/328155\/خلاصه-بسکتبال-دیترویت-پیستونز-بوستون-سلتیکس",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107352\/بازی-دیترویت-پیستونز-بوستون-سلتیکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107352",
@@ -2466,7 +2466,7 @@
                 "time": "02:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/328158\/خلاصه-بسکتبال-تورنتو-رپترز-اوکلاهاما-سیتی-تاندر",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107353\/بازی-تورنتو-رپترز-اوکلاهاما-سیتی-تاندر",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107353",
@@ -2515,7 +2515,7 @@
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/328153\/خلاصه-بسکتبال-سن-آنتونیو-اسپرز-ممفیس-گریزلیز",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106662\/بازی-سن-آنتونیو-اسپرز-ممفیس-گریزلیز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106662",
