@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711162012,
+    "timeStamp": 1711162463,
     "todayMatches": {
         "leagues": [
             {
@@ -1532,7 +1532,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "51",
+                "liveTime": "58",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/cvqpsn0u.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/dfvyq30y.png",
                 "hasPenalty": false,
@@ -2623,15 +2623,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "33",
-                "guestPoint": "49",
+                "hostPoint": "40",
+                "guestPoint": "59",
                 "quarterPoints1": {
                     "host": 27,
                     "guest": 42
                 },
                 "quarterPoints2": {
-                    "host": 6,
-                    "guest": 7
+                    "host": 13,
+                    "guest": 17
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2666,14 +2666,14 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "56",
+                "hostPoint": "60",
                 "guestPoint": "48",
                 "quarterPoints1": {
                     "host": 38,
                     "guest": 38
                 },
                 "quarterPoints2": {
-                    "host": 18,
+                    "host": 22,
                     "guest": 10
                 },
                 "quarterPoints3": null,
@@ -2709,11 +2709,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "9",
-                "guestPoint": "8",
+                "hostPoint": "19",
+                "guestPoint": "17",
                 "quarterPoints1": {
-                    "host": 9,
-                    "guest": 8
+                    "host": 19,
+                    "guest": 17
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
