@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711230849,
+    "timeStamp": 1711231617,
     "todayMatches": {
         "leagues": [
             {
@@ -742,9 +742,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "90+",
+                "hostGoals": "0 (1)",
+                "guestGoals": "0 (2)",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/rjzo2nff.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/sjjrcymx.png",
                 "hasPenalty": false,
@@ -753,7 +753,10 @@
                 "predictionLink": null,
                 "predictionUrl": null,
                 "round": null,
-                "penaltyGoals": null,
+                "penaltyGoals": {
+                    "host": 1,
+                    "guest": 2
+                },
                 "matchGoals": {
                     "host": 0,
                     "guest": 0
@@ -781,7 +784,7 @@
                 "guestId": 366,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پنالتی",
                 "isLive": true,
                 "time": "23:30",
                 "hasEvents": true,
@@ -811,7 +814,7 @@
                     "host": 0,
                     "guest": 2
                 },
-                "videoId": null,
+                "videoId": 328203,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#000000",
@@ -839,7 +842,7 @@
                 "time": "23:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/328203\/خلاصه-بازی-فرانسه-0-آلمان-2",
                 "matchPageLink": "\/football\/match\/401198\/بازی-فرانسه-آلمان",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401198",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401198\/events",
