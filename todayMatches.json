@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711198027,
+    "timeStamp": 1711198605,
     "todayMatches": {
         "leagues": [
             {
@@ -586,8 +586,8 @@
             {
                 "sport": 1,
                 "hostGoals": "2",
-                "guestGoals": "1",
-                "liveTime": "42",
+                "guestGoals": "2",
+                "liveTime": "45+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/cspljot5.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/mycisyvy.png",
                 "hasPenalty": false,
@@ -599,7 +599,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 2,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
