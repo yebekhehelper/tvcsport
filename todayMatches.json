@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711169957,
+    "timeStamp": 1711170923,
     "todayMatches": {
         "leagues": [
             {
@@ -2721,7 +2721,7 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "99",
+                "hostPoint": "101",
                 "guestPoint": "94",
                 "quarterPoints1": {
                     "host": 24,
@@ -2736,7 +2736,7 @@
                     "guest": 24
                 },
                 "quarterPoints4": {
-                    "host": 24,
+                    "host": 26,
                     "guest": 18
                 },
                 "overtimePoints": null,
@@ -2753,13 +2753,13 @@
                 "guestLink": null,
                 "hostId": 902784,
                 "guestId": 902805,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "06:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63667\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2-%D9%81%DB%8C%D9%84%D8%A7%D8%AF%D9%84%D9%81%DB%8C%D8%A7-%D8%B3%D9%88%D9%86%D8%AA%DB%8C-%D8%B3%DB%8C%DA%A9%D8%B3%D8%B1%D8%B2-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107357\/بازی-لس-آنجلس-لیکرز-فیلادلفیا-سیکسرز",
