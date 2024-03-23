@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711159527,
+    "timeStamp": 1711160685,
     "todayMatches": {
         "leagues": [
             {
@@ -1532,7 +1532,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "29",
+                "liveTime": "45+",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/cvqpsn0u.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/11\/10\/B\/dfvyq30y.png",
                 "hasPenalty": false,
@@ -2476,8 +2476,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "76",
-                "guestPoint": "80",
+                "hostPoint": "91",
+                "guestPoint": "97",
                 "quarterPoints1": {
                     "host": 30,
                     "guest": 18
@@ -2491,8 +2491,8 @@
                     "guest": 28
                 },
                 "quarterPoints4": {
-                    "host": 8,
-                    "guest": 9
+                    "host": 23,
+                    "guest": 26
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2525,8 +2525,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "78",
-                "guestPoint": "102",
+                "hostPoint": "88",
+                "guestPoint": "111",
                 "quarterPoints1": {
                     "host": 20,
                     "guest": 21
@@ -2540,8 +2540,8 @@
                     "guest": 30
                 },
                 "quarterPoints4": {
-                    "host": 12,
-                    "guest": 26
+                    "host": 22,
+                    "guest": 35
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2557,10 +2557,10 @@
                 "guestLink": null,
                 "hostId": 902800,
                 "guestId": 902787,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -2574,8 +2574,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "96",
-                "guestPoint": "85",
+                "hostPoint": "104",
+                "guestPoint": "91",
                 "quarterPoints1": {
                     "host": 25,
                     "guest": 20
@@ -2589,8 +2589,8 @@
                     "guest": 17
                 },
                 "quarterPoints4": {
-                    "host": 24,
-                    "guest": 19
+                    "host": 32,
+                    "guest": 25
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -2606,13 +2606,13 @@
                 "guestLink": null,
                 "hostId": 902786,
                 "guestId": 902410,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63666\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%85%DB%8C%D9%86%D9%87-%D8%B3%D9%88%D8%AA%D8%A7-%D8%AA%DB%8C%D9%85%D8%A8%D8%B1%D9%88%D9%84%D9%88%D8%B2-%DA%A9%D9%84%DB%8C%D9%88%D9%84%D9%86%D8%AF-%DA%A9%D8%A7%D9%88%D8%A7%D9%84%DB%8C%D8%B1%D8%B2-(%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107355\/بازی-مینه-سوتا-تیمبرولوز-کلیولند-کاوالیرز",
@@ -2623,9 +2623,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "11",
+                "guestPoint": "18",
+                "quarterPoints1": {
+                    "host": 11,
+                    "guest": 20
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2643,10 +2646,10 @@
                 "guestLink": null,
                 "hostId": 902789,
                 "guestId": 902783,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -2660,9 +2663,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "24",
+                "guestPoint": "21",
+                "quarterPoints1": {
+                    "host": 24,
+                    "guest": 21
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -2680,10 +2686,10 @@
                 "guestLink": null,
                 "hostId": 902409,
                 "guestId": 902799,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
