@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711282347,
+    "timeStamp": 1711283951,
     "todayMatches": {
         "leagues": [
             {
@@ -27,7 +27,6 @@
                     {
                         "date": "1403\/01\/05",
                         "matchIds": [
-                            "football-401218",
                             "football-401213"
                         ]
                     },
@@ -149,59 +148,6 @@
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/volleyball\/matches\/105476",
                 "eventsApi": null,
                 "scheduledStartOn": "2024-03-24T15:30:00Z",
-                "stadium": null
-            },
-            {
-                "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
-                "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/qlmh4ouz.png",
-                "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/hhcd50oh.png",
-                "hasPenalty": false,
-                "scheduledStartDate": " 5 فروردين 1403",
-                "scheduledStartTime": "16:30",
-                "predictionLink": null,
-                "predictionUrl": null,
-                "round": null,
-                "penaltyGoals": null,
-                "matchGoals": {
-                    "host": 0,
-                    "guest": 0
-                },
-                "videoId": null,
-                "referee": null,
-                "guestStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "hostStyle": {
-                    "backgroundColor": "#383838",
-                    "font": 0,
-                    "fontColor": "#FFFFFF"
-                },
-                "id": 401218,
-                "title": null,
-                "sportId": "football-401218",
-                "hostName": "اتیوپی",
-                "hostLink": null,
-                "guestName": "لسوتو",
-                "guestLink": null,
-                "hostId": 900808,
-                "guestId": 629,
-                "status": 1,
-                "statusDescription": null,
-                "statusTitle": "",
-                "isLive": false,
-                "time": "16:30",
-                "hasEvents": false,
-                "liveStreamSource": "",
-                "videoLink": null,
-                "matchPageLink": "\/football\/match\/401218\/بازی-اتیوپی-لسوتو",
-                "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401218",
-                "eventsApi": null,
-                "scheduledStartOn": "2024-03-24T13:00:00Z",
                 "stadium": null
             },
             {
