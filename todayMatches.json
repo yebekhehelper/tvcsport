@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711309210,
+    "timeStamp": 1711309656,
     "todayMatches": {
         "leagues": [
             {
@@ -613,15 +613,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "18",
-                "guestPoint": "31",
+                "hostPoint": "21",
+                "guestPoint": "39",
                 "quarterPoints1": {
                     "host": 10,
                     "guest": 29
                 },
                 "quarterPoints2": {
-                    "host": 8,
-                    "guest": 2
+                    "host": 11,
+                    "guest": 10
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -656,9 +656,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "10",
+                "guestPoint": "15",
+                "quarterPoints1": {
+                    "host": 10,
+                    "guest": 15
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -676,10 +679,10 @@
                 "guestLink": null,
                 "hostId": 902783,
                 "guestId": 902805,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "23:00",
                 "hasEvents": false,
                 "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63685\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%DA%A9%D9%84%DB%8C%D9%BE%D8%B1%D8%B2-%D9%81%DB%8C%D9%84%D8%A7%D8%AF%D9%84%D9%81%DB%8C%D8%A7-%D8%B3%D9%88%D9%86%D8%AA%DB%8C-%D8%B3%DB%8C%DA%A9%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
