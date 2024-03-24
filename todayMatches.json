@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711313448,
+    "timeStamp": 1711313895,
     "todayMatches": {
         "leagues": [
             {
@@ -188,7 +188,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "0",
-                "liveTime": "45",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/5hw2k14y.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/rl1bh2ee.png",
                 "hasPenalty": false,
@@ -225,7 +225,7 @@
                 "guestId": 461,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "23:30",
                 "hasEvents": true,
@@ -875,8 +875,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "66",
-                "guestPoint": "83",
+                "hostPoint": "77",
+                "guestPoint": "94",
                 "quarterPoints1": {
                     "host": 10,
                     "guest": 29
@@ -889,7 +889,10 @@
                     "host": 25,
                     "guest": 26
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 11,
+                    "guest": 11
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
@@ -921,8 +924,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "65",
-                "guestPoint": "68",
+                "hostPoint": "73",
+                "guestPoint": "76",
                 "quarterPoints1": {
                     "host": 29,
                     "guest": 41
@@ -932,8 +935,8 @@
                     "guest": 22
                 },
                 "quarterPoints3": {
-                    "host": 9,
-                    "guest": 5
+                    "host": 17,
+                    "guest": 13
                 },
                 "quarterPoints4": null,
                 "overtimePoints": null,
