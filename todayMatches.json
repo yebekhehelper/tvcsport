@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711367852,
+    "timeStamp": 1711369311,
     "todayMatches": {
         "leagues": [
             {
@@ -195,7 +195,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "90+",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/rzibjjer.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/gatvwi2y.png",
                 "hasPenalty": false,
@@ -230,10 +230,10 @@
                 "guestLink": null,
                 "hostId": 900952,
                 "guestId": 635,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "13:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
