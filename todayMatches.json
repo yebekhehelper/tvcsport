@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711496812,
+    "timeStamp": 1711497241,
     "todayMatches": {
         "leagues": [
             {
@@ -3290,7 +3290,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "81",
+                "liveTime": "89",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/h5hjq3kk.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/rvziuaed.png",
                 "hasPenalty": false,
@@ -3343,7 +3343,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "89",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/3fr3jflp.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/5meuuz3z.png",
                 "hasPenalty": false,
@@ -3378,10 +3378,10 @@
                 "guestLink": "\/football\/team\/625\/بورکینافاسو",
                 "hostId": 638,
                 "guestId": 625,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "01:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -3396,7 +3396,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "83",
+                "liveTime": "90",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/yoebnvsa.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/3k3q0lff.png",
                 "hasPenalty": false,
@@ -3607,10 +3607,10 @@
             {
                 "sport": 4,
                 "hostPoint": "5",
-                "guestPoint": "5",
+                "guestPoint": "13",
                 "quarterPoints1": {
                     "host": 5,
-                    "guest": 5
+                    "guest": 13
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
@@ -3646,11 +3646,11 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "12",
-                "guestPoint": "2",
+                "hostPoint": "21",
+                "guestPoint": "6",
                 "quarterPoints1": {
-                    "host": 12,
-                    "guest": 2
+                    "host": 21,
+                    "guest": 6
                 },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
