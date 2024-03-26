@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711435998,
+    "timeStamp": 1711436452,
     "todayMatches": {
         "leagues": [
             {
@@ -3562,7 +3562,7 @@
                 "time": "03:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": "https:\/\/video.varzesh3.com\/video\/328334\/خلاصه-بسکتبال-تورنتو-رپترز-بروکلین-نتس",
+                "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106887\/بازی-تورنتو-رپترز-بروکلین-نتس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106887",
