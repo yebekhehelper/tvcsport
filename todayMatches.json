@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711468718,
+    "timeStamp": 1711469862,
     "todayMatches": {
         "leagues": [
             {
@@ -637,8 +637,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "1",
-                "liveTime": "90+",
+                "guestGoals": "2",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/05lpmpby.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/i4vnalbh.png",
                 "hasPenalty": false,
@@ -650,7 +650,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 1
+                    "guest": 2
                 },
                 "videoId": null,
                 "referee": null,
@@ -673,10 +673,10 @@
                 "guestLink": "\/football\/team\/457\/عمان",
                 "hostId": 480,
                 "guestId": 457,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "17:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -691,7 +691,7 @@
                 "sport": 1,
                 "hostGoals": "3",
                 "guestGoals": "0",
-                "liveTime": "71",
+                "liveTime": "90",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/1m0p5jb5.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/axpnhsmr.png",
                 "hasPenalty": false,
@@ -744,7 +744,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "53",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/2jmhdqav.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/27\/C\/hluh325f.png",
                 "hasPenalty": false,
@@ -781,7 +781,7 @@
                 "guestId": 313,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "18:30",
                 "hasEvents": true,
@@ -796,8 +796,8 @@
             {
                 "sport": 1,
                 "hostGoals": "0",
-                "guestGoals": "0",
-                "liveTime": "",
+                "guestGoals": "1",
+                "liveTime": "52",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/en5ekeka.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/ygx4c1m4.png",
                 "hasPenalty": false,
@@ -809,7 +809,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -834,7 +834,7 @@
                 "guestId": 320,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "18:30",
                 "hasEvents": true,
@@ -1470,7 +1470,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "60",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/mycisyvy.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/yy2uhlrp.png",
                 "hasPenalty": false,
@@ -1507,7 +1507,7 @@
                 "guestId": 369,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "18:30",
                 "hasEvents": true,
@@ -1521,9 +1521,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "",
-                "guestGoals": "",
-                "liveTime": null,
+                "hostGoals": "0",
+                "guestGoals": "1",
+                "liveTime": "13",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/gxh44dlh.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/y2cph2lg.png",
                 "hasPenalty": false,
@@ -1535,7 +1535,7 @@
                 "penaltyGoals": null,
                 "matchGoals": {
                     "host": 0,
-                    "guest": 0
+                    "guest": 1
                 },
                 "videoId": null,
                 "referee": null,
@@ -1558,17 +1558,17 @@
                 "guestLink": "\/football\/team\/465\/غنا",
                 "hostId": 900950,
                 "guestId": 465,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
                 "statusTitle": "",
-                "isLive": false,
+                "isLive": true,
                 "time": "19:30",
-                "hasEvents": false,
+                "hasEvents": true,
                 "liveStreamSource": "",
                 "videoLink": null,
                 "matchPageLink": "\/football\/match\/401240\/بازی-اوگاندا-غنا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401240",
-                "eventsApi": null,
+                "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401240\/events",
                 "scheduledStartOn": "2024-03-26T16:00:00Z",
                 "stadium": null
             },
