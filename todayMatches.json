@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711533509,
+    "timeStamp": 1711534487,
     "todayMatches": {
         "leagues": [
             {
@@ -1336,7 +1336,7 @@
                 "time": "05:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/328407\/خلاصه-بسکتبال-ساکرامنتو-کینگز-دالاس-ماوریکس",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107680\/بازی-ساکرامنتو-کینگز-دالاس-ماوریکس",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107680",
