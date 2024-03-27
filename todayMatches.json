@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711507170,
+    "timeStamp": 1711507614,
     "todayMatches": {
         "leagues": [
             {
@@ -3449,7 +3449,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "73",
+                "liveTime": "80",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/lbrc2roc.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/flzwkdrw.png",
                 "hasPenalty": false,
@@ -3502,7 +3502,7 @@
                 "sport": 1,
                 "hostGoals": "2",
                 "guestGoals": "0",
-                "liveTime": "",
+                "liveTime": "52",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/cvqpsn0u.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/ish3ydzn.png",
                 "hasPenalty": false,
@@ -3539,7 +3539,7 @@
                 "guestId": 901030,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "05:00",
                 "hasEvents": true,
@@ -3690,13 +3690,13 @@
                 "guestLink": null,
                 "hostId": 902801,
                 "guestId": 902784,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "03:00",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63774\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%85%DB%8C%D9%84%D9%88%D8%A7%DA%A9%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D9%84%DB%8C%DA%A9%D8%B1%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107373\/بازی-میلواکی-باکس-لس-آنجلس-لیکرز",
@@ -3756,15 +3756,15 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "33",
-                "guestPoint": "34",
+                "hostPoint": "38",
+                "guestPoint": "44",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 31
                 },
                 "quarterPoints2": {
-                    "host": 5,
-                    "guest": 3
+                    "host": 10,
+                    "guest": 13
                 },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
