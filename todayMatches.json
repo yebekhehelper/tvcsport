@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711528232,
+    "timeStamp": 1711528739,
     "todayMatches": {
         "leagues": [
             {
@@ -1110,7 +1110,7 @@
                     "host": 3,
                     "guest": 1
                 },
-                "videoId": null,
+                "videoId": 328414,
                 "referee": null,
                 "guestStyle": {
                     "backgroundColor": "#383838",
@@ -1138,7 +1138,7 @@
                 "time": "06:15",
                 "hasEvents": true,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/328414\/خلاصه-بازی-آرژانتین-3-کاستاریکا-1",
                 "matchPageLink": "\/football\/match\/401268\/بازی-آرژانتین-کاستاریکا",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401268",
                 "eventsApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/football\/matches\/401268\/events",
