@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711511999,
+    "timeStamp": 1711513243,
     "todayMatches": {
         "leagues": [
             {
@@ -3553,9 +3553,9 @@
             },
             {
                 "sport": 1,
-                "hostGoals": "0",
+                "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "",
+                "liveTime": "55",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/f3bzs1nd.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/2ptc1p5q.png",
                 "hasPenalty": false,
@@ -3566,7 +3566,7 @@
                 "round": null,
                 "penaltyGoals": null,
                 "matchGoals": {
-                    "host": 0,
+                    "host": 1,
                     "guest": 1
                 },
                 "videoId": null,
@@ -3592,7 +3592,7 @@
                 "guestId": 451,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "پایان نیمه",
+                "statusTitle": "",
                 "isLive": true,
                 "time": "06:15",
                 "hasEvents": true,
@@ -3756,8 +3756,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "84",
-                "guestPoint": "109",
+                "hostPoint": "96",
+                "guestPoint": "132",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 31
@@ -3771,8 +3771,8 @@
                     "guest": 38
                 },
                 "quarterPoints4": {
-                    "host": 8,
-                    "guest": 13
+                    "host": 20,
+                    "guest": 36
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -3788,13 +3788,13 @@
                 "guestLink": null,
                 "hostId": 902790,
                 "guestId": 902780,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "05:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63775\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%A7%DA%A9%D8%B1%D8%A7%D9%85%D9%86%D8%AA%D9%88-%DA%A9%DB%8C%D9%86%DA%AF%D8%B2-%D8%AF%D8%A7%D9%84%D8%A7%D8%B3-%D9%85%D8%A7%D9%88%D8%B1%DB%8C%DA%A9%D8%B3?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107680\/بازی-ساکرامنتو-کینگز-دالاس-ماوریکس",
