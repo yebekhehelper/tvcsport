@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711497241,
+    "timeStamp": 1711499379,
     "todayMatches": {
         "leagues": [
             {
@@ -3290,7 +3290,7 @@
                 "sport": 1,
                 "hostGoals": "1",
                 "guestGoals": "1",
-                "liveTime": "89",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/h5hjq3kk.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/rvziuaed.png",
                 "hasPenalty": false,
@@ -3325,10 +3325,10 @@
                 "guestLink": null,
                 "hostId": 900809,
                 "guestId": 631,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "01:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
@@ -3396,7 +3396,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "0",
-                "liveTime": "90",
+                "liveTime": null,
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/yoebnvsa.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/3k3q0lff.png",
                 "hasPenalty": false,
@@ -3431,10 +3431,10 @@
                 "guestLink": null,
                 "hostId": 634,
                 "guestId": 900951,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "01:30",
                 "hasEvents": true,
                 "liveStreamSource": "",
@@ -3606,13 +3606,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "5",
-                "guestPoint": "13",
+                "hostPoint": "45",
+                "guestPoint": "41",
                 "quarterPoints1": {
-                    "host": 5,
-                    "guest": 13
+                    "host": 26,
+                    "guest": 24
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 19,
+                    "guest": 17
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -3646,13 +3649,16 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "21",
-                "guestPoint": "6",
+                "hostPoint": "49",
+                "guestPoint": "39",
                 "quarterPoints1": {
-                    "host": 21,
-                    "guest": 6
+                    "host": 32,
+                    "guest": 16
                 },
-                "quarterPoints2": null,
+                "quarterPoints2": {
+                    "host": 17,
+                    "guest": 23
+                },
                 "quarterPoints3": null,
                 "quarterPoints4": null,
                 "overtimePoints": null,
@@ -3686,9 +3692,12 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "",
-                "guestPoint": "",
-                "quarterPoints1": null,
+                "hostPoint": "26",
+                "guestPoint": "25",
+                "quarterPoints1": {
+                    "host": 26,
+                    "guest": 25
+                },
                 "quarterPoints2": null,
                 "quarterPoints3": null,
                 "quarterPoints4": null,
@@ -3706,10 +3715,10 @@
                 "guestLink": null,
                 "hostId": 902787,
                 "guestId": 902793,
-                "status": 1,
+                "status": 2,
                 "statusDescription": null,
-                "statusTitle": null,
-                "isLive": false,
+                "statusTitle": "در جریان",
+                "isLive": true,
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
