@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711511579,
+    "timeStamp": 1711511999,
     "todayMatches": {
         "leagues": [
             {
@@ -3555,7 +3555,7 @@
                 "sport": 1,
                 "hostGoals": "0",
                 "guestGoals": "1",
-                "liveTime": "45+",
+                "liveTime": "",
                 "hostLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/f3bzs1nd.png",
                 "guestLogo": "https:\/\/match-cdn.varzesh3.com\/football-team\/2022\/03\/03\/D\/2ptc1p5q.png",
                 "hasPenalty": false,
@@ -3592,7 +3592,7 @@
                 "guestId": 451,
                 "status": 2,
                 "statusDescription": null,
-                "statusTitle": "",
+                "statusTitle": "پایان نیمه",
                 "isLive": true,
                 "time": "06:15",
                 "hasEvents": true,
@@ -3756,8 +3756,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "76",
-                "guestPoint": "103",
+                "hostPoint": "84",
+                "guestPoint": "109",
                 "quarterPoints1": {
                     "host": 28,
                     "guest": 31
@@ -3770,7 +3770,10 @@
                     "host": 23,
                     "guest": 38
                 },
-                "quarterPoints4": null,
+                "quarterPoints4": {
+                    "host": 8,
+                    "guest": 13
+                },
                 "overtimePoints": null,
                 "guestLogo": null,
                 "hostLogo": null,
