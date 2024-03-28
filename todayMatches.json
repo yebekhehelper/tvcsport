@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711620394,
+    "timeStamp": 1711621434,
     "todayMatches": {
         "leagues": [
             {
@@ -399,7 +399,7 @@
                 "time": "03:00",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/328471\/خلاصه-بسکتبال-آتلانتا-هاوکس-پورتلند-تریل-بلیزرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/107377\/بازی-آتلانتا-هاوکس-پورتلند-تریل-بلیزرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/107377",
@@ -497,7 +497,7 @@
                 "time": "03:30",
                 "hasEvents": false,
                 "liveStreamSource": "",
-                "videoLink": null,
+                "videoLink": "https:\/\/video.varzesh3.com\/video\/328467\/خلاصه-بسکتبال-شیکاگو-بولز-ایندیانا-پیسرز",
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106790\/بازی-شیکاگو-بولز-ایندیانا-پیسرز",
                 "matchApi": "https:\/\/web-api.varzesh3.com\/v1.0\/livescore\/basketball\/matches\/106790",
