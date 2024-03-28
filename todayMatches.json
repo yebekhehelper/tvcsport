@@ -1,5 +1,5 @@
 {
-    "timeStamp": 1711600076,
+    "timeStamp": 1711600519,
     "todayMatches": {
         "leagues": [
             {
@@ -1266,8 +1266,8 @@
             },
             {
                 "sport": 4,
-                "hostPoint": "93",
-                "guestPoint": "102",
+                "hostPoint": "97",
+                "guestPoint": "104",
                 "quarterPoints1": {
                     "host": 29,
                     "guest": 29
@@ -1281,8 +1281,8 @@
                     "guest": 24
                 },
                 "quarterPoints4": {
-                    "host": 20,
-                    "guest": 19
+                    "host": 24,
+                    "guest": 21
                 },
                 "overtimePoints": null,
                 "guestLogo": null,
@@ -1298,13 +1298,13 @@
                 "guestLink": null,
                 "hostId": 902781,
                 "guestId": 902788,
-                "status": 2,
+                "status": 7,
                 "statusDescription": null,
-                "statusTitle": "در جریان",
-                "isLive": true,
+                "statusTitle": "نتیجه نهایی",
+                "isLive": false,
                 "time": "05:30",
                 "hasEvents": false,
-                "liveStreamSource": "https:\/\/www.anten.ir\/basketball\/63779\/%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%AF%D9%86%D9%88%D8%B1-%D9%86%D8%A7%DA%AF%D8%AA%D8%B3-%D9%81%DB%8C%D9%86%DB%8C%DA%A9%D8%B3-%D8%B3%D8%A7%D9%86%D8%B2?utm_source=varzesh3&utm_medium=livescore&utm_campaign=always",
+                "liveStreamSource": "",
                 "videoLink": null,
                 "videoId": null,
                 "matchPageLink": "\/basketball\/match\/106907\/بازی-دنور-ناگتس-فینیکس-سانز",
